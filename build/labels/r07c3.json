@@ -1,0 +1,108 @@
+{
+  "tile_id": "r07c3",
+  "box": [1625, 970, 2032, 1100],
+  "margin_labels": [
+    {"text": "THE MIDDLE EAST AND SOUT[?]", "x0": 2016, "x1": 2032, "y0": 970, "y1": 1100}
+  ],
+  "rows": [
+    {
+      "y0": 970,
+      "y1": 985,
+      "label": "Arab nomads",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1625, "x1": 1790, "text": "Arab nomads", "fill": "lightgray", "conf": "medium"},
+        {"x0": 1790, "x1": 1830, "text": "JABRIDS", "fill": "blue", "conf": "medium"},
+        {"x0": 1830, "x1": 1900, "text": "Arab nomads", "fill": "lightgray", "conf": "medium"},
+        {"x0": 1900, "x1": 1945, "text": "OMAN", "fill": "green", "conf": "low"},
+        {"x0": 1945, "x1": 1970, "text": "", "fill": "blue", "conf": "low"},
+        {"x0": 1970, "x1": 2032, "text": "ARABIA", "fill": "blue", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 985,
+      "y1": 1000,
+      "label": "Arab nomads",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1625, "x1": 1790, "text": "Arab nomads", "fill": "lightgray", "conf": "medium"},
+        {"x0": 1790, "x1": 1830, "text": "", "fill": "blue", "conf": "medium"},
+        {"x0": 1830, "x1": 1900, "text": "Arab nomads", "fill": "lightgray", "conf": "medium"},
+        {"x0": 1900, "x1": 2032, "text": "", "fill": "blue", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1000,
+      "y1": 1015,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1625, "x1": 1700, "text": "", "fill": "blue", "conf": "low"},
+        {"x0": 1700, "x1": 1760, "text": "RASULID DYNASTY", "fill": "blue", "conf": "low"},
+        {"x0": 1760, "x1": 1810, "text": "TAHIRIDS", "fill": "blue", "conf": "low"},
+        {"x0": 1810, "x1": 2032, "text": "", "fill": "blue", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1015,
+      "y1": 1040,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "high",
+      "segments": [
+        {"x0": 1625, "x1": 1645, "text": "", "fill": "cyan", "conf": "low"},
+        {"x0": 1645, "x1": 1690, "text": "SELJUK EMPIRE", "fill": "pink", "conf": "medium"},
+        {"x0": 1690, "x1": 1760, "text": "ILKHANATE", "fill": "red", "conf": "high"},
+        {"x0": 1760, "x1": 1830, "text": "TIMURID EMPIRE", "fill": "magenta", "conf": "high"},
+        {"x0": 1830, "x1": 1900, "text": "SAFAVID IRAN", "fill": "cyan", "conf": "high"},
+        {"x0": 1900, "x1": 1970, "text": "QAJAR IRAN", "fill": "cyan", "conf": "high"},
+        {"x0": 1970, "x1": 2032, "text": "IRAN", "fill": "cyan", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 1040,
+      "y1": 1060,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1625, "x1": 1700, "text": "GHAZNAVIDS", "fill": "cyan", "conf": "medium"},
+        {"x0": 1700, "x1": 1790, "text": "DELHI SULTANATE", "fill": "lightgray", "conf": "low"},
+        {"x0": 1790, "x1": 1900, "text": "", "fill": "cyan", "conf": "low"},
+        {"x0": 1900, "x1": 1950, "text": "DURRANI EMPIRE", "fill": "cyan", "conf": "low"},
+        {"x0": 1950, "x1": 2032, "text": "AFGHANISTAN", "fill": "cyan", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1060,
+      "y1": 1080,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1625, "x1": 1700, "text": "", "fill": "green", "conf": "low"},
+        {"x0": 1700, "x1": 1790, "text": "DELHI SULTANATE", "fill": "green", "conf": "medium"},
+        {"x0": 1790, "x1": 1930, "text": "MUGHAL EMPIRE", "fill": "cyan", "conf": "high"},
+        {"x0": 1930, "x1": 1990, "text": "BRITISH RAJ", "fill": "lime", "conf": "medium"},
+        {"x0": 1990, "x1": 2032, "text": "INDIA", "fill": "green", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 1080,
+      "y1": 1100,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1625, "x1": 1700, "text": "CHOLA EMPIRE", "fill": "yellow", "conf": "medium"},
+        {"x0": 1700, "x1": 1790, "text": "PANDYAN DYNASTY", "fill": "yellow", "conf": "low"},
+        {"x0": 1790, "x1": 1900, "text": "VIJAYANAGARA EMPIRE", "fill": "yellow", "conf": "medium"},
+        {"x0": 1900, "x1": 2032, "text": "", "fill": "yellow", "conf": "low"}
+      ]
+    }
+  ],
+  "notes": "Right margin carries rotated text (THE MIDDLE EAST AND SOUT...) cut by the tile edge. The MUGHAL EMPIRE caption is printed in very large type across y 1040-1080, so it appears in two neighbouring bands. Bottom row at y 1080-1100 is cut by the tile edge and its captions are heavily overprinted."
+}

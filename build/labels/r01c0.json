@@ -1,0 +1,9 @@
+{
+  "tile_id": "r01c0",
+  "box": [30, 190, 645, 320],
+  "margin_labels": [
+    {"text": "SOUTH[?]", "x0": 40, "x1": 54, "y0": 190, "y1": 320}
+  ],
+  "rows": [],
+  "notes": "Nearly the whole tile is hidden by the printed colour-key box (approx x 118-590, y 162-352): the visible text inside it is the key's language-family lists and swatches (Afroasiatic/Berber/Meroitic/Old Nubian, Ancient languages, Dravidian, Indo-European, etc.), not timeline bands, so no rows are transcribed there. Left margin carries a rotated region name beginning 'SOUTH' (cut off below the tile). Century-axis numbers ('-3100', '-3000', '-1600') are axis strips, not rows. Large serif letters 'KH...' cut off at the right edge (orig x ~618-645, y ~250-275) belong to text continuing into the next tile; unreadable."
+}

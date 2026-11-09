@@ -1,0 +1,18 @@
+{
+ "tile_id": "r13c0",
+ "box": [30, 1750, 645, 1880],
+ "margin_labels": [
+  {"text": "NORTHERN CONE", "x0": 22, "x1": 38, "y0": 1752, "y1": 1880}
+ ],
+ "rows": [
+  {"y0": 1752, "y1": 1772, "label": "Amazonian forest hunter-gatherers",
+   "row_kind": "text", "confidence": "low", "segments": []},
+  {"y0": 1774, "y1": 1816, "label": "Archaic Amerindian hunter-gatherers",
+   "row_kind": "text", "confidence": "high",
+   "segments": [{"x0": 160, "x1": 640, "text": "Archaic Amerindian hunter-gatherers", "fill": "white", "conf": "high"}]},
+  {"y0": 1840, "y1": 1878, "label": "Archaic Amerindian hunter-gatherers",
+   "row_kind": "text", "confidence": "high",
+   "segments": [{"x0": 160, "x1": 640, "text": "Archaic Amerindian hunter-gatherers", "fill": "white", "conf": "high"}]}
+ ],
+ "notes": "Rotated left-margin label transcribed as NORTHERN CONE (it may continue above the tile). The century axis strip at y 1820-1838 was skipped. Both bands are white here - the artwork of this region sits further right."
+}

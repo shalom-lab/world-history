@@ -1,0 +1,139 @@
+{
+  "tile_id": "r08c1",
+  "box": [615, 1100, 1235, 1230],
+  "margin_labels": [],
+  "rows": [
+    {
+      "y0": 1113,
+      "y1": 1119,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 953, "x1": 1034, "text": "", "fill": "midgray", "conf": "medium"},
+        {"x0": 1036, "x1": 1069, "text": "", "fill": "green", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 1133,
+      "y1": 1142,
+      "label": "[?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 1142,
+      "y1": 1150,
+      "label": "Siberian taiga hunter-gatherers",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 1150,
+      "y1": 1160,
+      "label": "Paleo-Siberian taiga hunter-gatherers",
+      "row_kind": "text",
+      "confidence": "high",
+      "segments": []
+    },
+    {
+      "y0": 1160,
+      "y1": 1171,
+      "label": "Paleo-Asiatic pastoralists (ancestral Turkic-Mongol)",
+      "row_kind": "mixed",
+      "confidence": "high",
+      "segments": [
+        {"x0": 1140, "x1": 1235, "text": "", "fill": "midgray", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 1171,
+      "y1": 1180,
+      "label": "Paleo-Asiatic pastoralists (ancient Turkic-Mongol)",
+      "row_kind": "text",
+      "confidence": "high",
+      "segments": []
+    },
+    {
+      "y0": 1180,
+      "y1": 1188,
+      "label": "[?]",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 669, "x1": 956, "text": "", "fill": "lightgray", "conf": "high"},
+        {"x0": 1145, "x1": 1235, "text": "", "fill": "lightgray", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 1188,
+      "y1": 1196,
+      "label": "[?]",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 669, "x1": 956, "text": "", "fill": "lightgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 1196,
+      "y1": 1204,
+      "label": "[?]",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 669, "x1": 956, "text": "", "fill": "lightgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 1204,
+      "y1": 1212,
+      "label": "[?]",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 669, "x1": 956, "text": "", "fill": "lightgray", "conf": "high"},
+        {"x0": 1043, "x1": 1114, "text": "ACHAEMENID EMPIRE", "fill": "teal", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 1212,
+      "y1": 1219,
+      "label": "Sakas",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 670, "x1": 956, "text": "", "fill": "lightgray", "conf": "high"},
+        {"x0": 1043, "x1": 1114, "text": "ACHAEMENID EMPIRE", "fill": "teal", "conf": "high"},
+        {"x0": 1150, "x1": 1235, "text": "", "fill": "teal", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 1219,
+      "y1": 1226,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 615, "x1": 956, "text": "", "fill": "lightgray", "conf": "high"},
+        {"x0": 1032, "x1": 1114, "text": "", "fill": "teal", "conf": "medium"},
+        {"x0": 1116, "x1": 1176, "text": "PARTHIAN EMPIRE", "fill": "olive", "conf": "medium"},
+        {"x0": 1178, "x1": 1196, "text": "", "fill": "teal", "conf": "medium"},
+        {"x0": 1206, "x1": 1235, "text": "", "fill": "teal", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 1226,
+      "y1": 1230,
+      "label": "",
+      "row_kind": "bar",
+      "confidence": "low",
+      "segments": [
+        {"x0": 615, "x1": 956, "text": "", "fill": "lightgray", "conf": "medium"}
+      ]
+    }
+  ],
+  "notes": "Century axis strip at y=1123-1132 is the poster's repeated time axis and is not listed as a row. Row 1142-1150 also carries the wide-letterspaced label 'Siberian taiga hunter-gatherers' at x~1106-1180; the same band name appears in the neighbouring tiles. A bold sub-header 'Pastoral nomads' is printed at approx x=980-1033, y=1153-1180 inside the 1150-1170 bands. The large label 'Sakas' sits at approx x=973-1016, y=1216 (in the white gap between the grey block and the teal bars). Rows y=1133-1210 again carry 3 px unreadable labels; the grey block x=669-956 in rows 1180-1226 is one continuous light-grey fill. Right-hand teal/yellow boxes (ACHAEMENID EMPIRE, PARTHIAN EMPIRE) continue into r08c2."
+}

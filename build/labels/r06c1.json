@@ -1,0 +1,147 @@
+{
+  "tile_id": "r06c1",
+  "box": [615, 840, 1235, 970],
+  "margin_labels": [],
+  "rows": [
+    {
+      "y0": 841,
+      "y1": 864,
+      "label": "Urnfield cultures",
+      "row_kind": "mixed",
+      "confidence": "high",
+      "segments": [
+        {"x0": 622, "x1": 1030, "text": "", "fill": "midgray", "conf": "high"},
+        {"x0": 1030, "x1": 1180, "text": "Celtiberians", "fill": "cyan", "conf": "low"},
+        {"x0": 1180, "x1": 1235, "text": "ROMAN REPUBLIC", "fill": "yellow", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 864,
+      "y1": 881,
+      "label": "Illyrians",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 622, "x1": 1035, "text": "", "fill": "midgray", "conf": "high"},
+        {"x0": 1035, "x1": 1180, "text": "", "fill": "lightgray", "conf": "medium"},
+        {"x0": 1180, "x1": 1235, "text": "ROMAN REPUBLIC", "fill": "yellow", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 881,
+      "y1": 890,
+      "label": "Greek Dark Ages",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 622, "x1": 1180, "text": "", "fill": "midgray", "conf": "high"},
+        {"x0": 1180, "x1": 1235, "text": "", "fill": "yellow", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 890,
+      "y1": 897,
+      "label": "",
+      "row_kind": "bar",
+      "confidence": "low",
+      "segments": [
+        {"x0": 622, "x1": 860, "text": "", "fill": "lime", "conf": "medium"},
+        {"x0": 860, "x1": 1235, "text": "", "fill": "yellow", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 911,
+      "y1": 919,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 622, "x1": 730, "text": "HITTITE OLD KINGDOM", "fill": "magenta", "conf": "medium"},
+        {"x0": 730, "x1": 985, "text": "HITTITE NEW KINGDOM", "fill": "magenta", "conf": "medium"},
+        {"x0": 985, "x1": 1065, "text": "", "fill": "teal", "conf": "low"},
+        {"x0": 1065, "x1": 1235, "text": "", "fill": "yellow", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 919,
+      "y1": 925,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 622, "x1": 1235, "text": "", "fill": "yellow", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 925,
+      "y1": 932,
+      "label": "",
+      "row_kind": "bar",
+      "confidence": "low",
+      "segments": [
+        {"x0": 622, "x1": 900, "text": "", "fill": "lightgray", "conf": "medium"},
+        {"x0": 900, "x1": 1020, "text": "", "fill": "cyan", "conf": "medium"},
+        {"x0": 1020, "x1": 1065, "text": "", "fill": "blue", "conf": "low"},
+        {"x0": 1065, "x1": 1235, "text": "", "fill": "yellow", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 932,
+      "y1": 940,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 622, "x1": 985, "text": "NEO-ASSYRIAN EMPIRE", "fill": "blue", "conf": "low"},
+        {"x0": 985, "x1": 1065, "text": "", "fill": "cyan", "conf": "low"},
+        {"x0": 1065, "x1": 1235, "text": "", "fill": "yellow", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 940,
+      "y1": 950,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 622, "x1": 900, "text": "OLD BABYLONIAN", "fill": "red", "conf": "low"},
+        {"x0": 900, "x1": 1065, "text": "", "fill": "cyan", "conf": "low"},
+        {"x0": 1065, "x1": 1235, "text": "", "fill": "yellow", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 950,
+      "y1": 957,
+      "label": "",
+      "row_kind": "bar",
+      "confidence": "low",
+      "segments": [
+        {"x0": 622, "x1": 900, "text": "", "fill": "cyan", "conf": "low"},
+        {"x0": 900, "x1": 1065, "text": "", "fill": "cyan", "conf": "low"},
+        {"x0": 1065, "x1": 1235, "text": "", "fill": "yellow", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 958,
+      "y1": 964,
+      "label": "Persia",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 622, "x1": 1235, "text": "", "fill": "white", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 965,
+      "y1": 970,
+      "label": "",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": [
+        {"x0": 622, "x1": 1085, "text": "", "fill": "midgray", "conf": "high"},
+        {"x0": 1085, "x1": 1235, "text": "", "fill": "white", "conf": "medium"}
+      ]
+    }
+  ],
+  "notes": "Century scale (-1600 ... -100) runs through the white strip at y 897-910 and is not transcribed. The bands of the lower half are 4-8 px tall and densely overprinted with names; the small print inside most of them is illegible at source resolution, so only the names that stand out are recorded. The right-hand yellow column (x 1180-1235) is the Roman Republic area continuing into the next tile."
+}

@@ -1,0 +1,99 @@
+{
+ "tile_id": "r10c0",
+ "box": [
+  30,
+  1360,
+  645,
+  1490
+ ],
+ "margin_labels": [
+  {
+   "text": "SOUTHEAST ASIA",
+   "x0": 28,
+   "x1": 42,
+   "y0": 1360,
+   "y1": 1458
+  },
+  {
+   "text": "NORTH AMERICA",
+   "x0": 28,
+   "x1": 42,
+   "y0": 1471,
+   "y1": 1490
+  }
+ ],
+ "rows": [
+  {
+   "y0": 1370,
+   "y1": 1390,
+   "label": "Austro-Asiatic rice farmers",
+   "row_kind": "text",
+   "confidence": "high",
+   "segments": [
+    {
+     "x0": 30,
+     "x1": 645,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1401,
+   "y1": 1417,
+   "label": "[?]",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 30,
+     "x1": 39,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 39,
+     "x1": 645,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1419,
+   "y1": 1446,
+   "label": "Australo-Melanesian Neolithic farmers and hunter-gatherers",
+   "row_kind": "text",
+   "confidence": "high",
+   "segments": [
+    {
+     "x0": 30,
+     "x1": 645,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1461,
+   "y1": 1477,
+   "label": "Uninhabited",
+   "row_kind": "text",
+   "confidence": "high",
+   "segments": [
+    {
+     "x0": 30,
+     "x1": 645,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  }
+ ],
+ "notes": "Axis strip at y=1444-1458 (century labels -3100 to -1600) is the repeated time axis and is not transcribed as a row. Micro-text at y=1401-1417 (4-5 px tall) is illegible. Bottom edge y=1482-1490 cuts the next band's text. Left-margin rotated label SOUTHEAST ASIA starts above the tile top."
+}

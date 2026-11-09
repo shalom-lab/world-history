@@ -1,0 +1,156 @@
+{
+  "tile_id": "r02c3",
+  "box": [1625, 320, 2032, 450],
+  "margin_labels": [],
+  "rows": [
+    {
+      "y0": 320,
+      "y1": 333,
+      "label": "",
+      "row_kind": "bar",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1663, "x1": 1771, "text": "", "fill": "blue", "conf": "low"},
+        {"x0": 1771, "x1": 1941, "text": "", "fill": "navy", "conf": "low"},
+        {"x0": 1941, "x1": 2032, "text": "", "fill": "blue", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 333,
+      "y1": 346,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1663, "x1": 1739, "text": "", "fill": "blue", "conf": "medium"},
+        {"x0": 1739, "x1": 1878, "text": "Mossi Kingdoms", "fill": "blue", "conf": "medium"},
+        {"x0": 1878, "x1": 1907, "text": "", "fill": "blue", "conf": "medium"},
+        {"x0": 1907, "x1": 1943, "text": "Ashante Empire", "fill": "blue", "conf": "medium"},
+        {"x0": 1943, "x1": 2014, "text": "", "fill": "blue", "conf": "low"},
+        {"x0": 2014, "x1": 2032, "text": "", "fill": "green", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 346,
+      "y1": 360,
+      "label": "West African chiefdoms",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1625, "x1": 1888, "text": "West African chiefdoms", "fill": "midgray", "conf": "medium"},
+        {"x0": 1888, "x1": 1965, "text": "", "fill": "white", "conf": "low"},
+        {"x0": 1965, "x1": 1977, "text": "", "fill": "yellow", "conf": "medium"},
+        {"x0": 1977, "x1": 1995, "text": "LIBERIA", "fill": "yellow", "conf": "medium"},
+        {"x0": 1995, "x1": 2032, "text": "", "fill": "green", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 360,
+      "y1": 375,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1625, "x1": 1888, "text": "", "fill": "midgray", "conf": "low"},
+        {"x0": 1888, "x1": 1951, "text": "", "fill": "white", "conf": "low"},
+        {"x0": 1951, "x1": 1997, "text": "SIERRA LEONE", "fill": "green", "conf": "medium"},
+        {"x0": 1997, "x1": 2014, "text": "FRANCE", "fill": "yellow", "conf": "medium"},
+        {"x0": 2014, "x1": 2032, "text": "", "fill": "cyan", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 375,
+      "y1": 381,
+      "label": "Camel nomads",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 381,
+      "y1": 391,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1653, "x1": 1682, "text": "ALMO-RAVIDS", "fill": "cyan", "conf": "high"},
+        {"x0": 1682, "x1": 2024, "text": "", "fill": "white", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 391,
+      "y1": 400,
+      "label": "MALI EMPIRE",
+      "row_kind": "mixed",
+      "confidence": "high",
+      "segments": [
+        {"x0": 1625, "x1": 1722, "text": "", "fill": "white", "conf": "low"},
+        {"x0": 1722, "x1": 1805, "text": "MALI EMPIRE", "fill": "white", "conf": "high"},
+        {"x0": 1805, "x1": 1902, "text": "", "fill": "white", "conf": "low"},
+        {"x0": 1902, "x1": 1962, "text": "KAARTA", "fill": "yellow", "conf": "medium"},
+        {"x0": 1962, "x1": 2032, "text": "MALI", "fill": "cyan", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 400,
+      "y1": 407,
+      "label": "Camel nomads",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 407,
+      "y1": 418,
+      "label": "MALI EMPIRE",
+      "row_kind": "mixed",
+      "confidence": "high",
+      "segments": [
+        {"x0": 1625, "x1": 1640, "text": "", "fill": "white", "conf": "low"},
+        {"x0": 1640, "x1": 1681, "text": "GHANA EMPIRE", "fill": "blue", "conf": "medium"},
+        {"x0": 1681, "x1": 1742, "text": "", "fill": "white", "conf": "low"},
+        {"x0": 1742, "x1": 1795, "text": "MALI EMPIRE", "fill": "white", "conf": "high"},
+        {"x0": 1817, "x1": 1856, "text": "SONGHAI EMPIRE", "fill": "green", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 418,
+      "y1": 431,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1625, "x1": 1815, "text": "", "fill": "white", "conf": "low"},
+        {"x0": 1815, "x1": 1856, "text": "SONGHAI EMPIRE", "fill": "green", "conf": "high"},
+        {"x0": 1856, "x1": 1900, "text": "West African chiefdoms", "fill": "midgray", "conf": "low"},
+        {"x0": 1939, "x1": 1961, "text": "KUMBI", "fill": "white", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 431,
+      "y1": 440,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1900, "x1": 1966, "text": "", "fill": "yellow", "conf": "medium"},
+        {"x0": 1966, "x1": 2032, "text": "NIGER", "fill": "green", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 440,
+      "y1": 450,
+      "label": "HAUSA KINGDOMS",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1625, "x1": 1708, "text": "", "fill": "blue", "conf": "low"},
+        {"x0": 1708, "x1": 1800, "text": "HAUSA KINGDOMS", "fill": "blue", "conf": "medium"},
+        {"x0": 1800, "x1": 1863, "text": "", "fill": "blue", "conf": "low"},
+        {"x0": 1863, "x1": 1939, "text": "HAUSA KINGDOMS", "fill": "blue", "conf": "medium"},
+        {"x0": 1939, "x1": 2014, "text": "", "fill": "blue", "conf": "low"}
+      ]
+    }
+  ],
+  "notes": "Extremely dense tile: many 6-8 px text lines stacked in the x≈1625-1900 half are mush and are grouped into the rows above rather than separated one by one. A vertical yellow column at x≈1966-1977 carries rotated 'WEST AFRICA (FR.)' from y≈370 to 446; it is not repeated as a segment in every row. Rotated 'AFRICA' runs at the right edge x≈2014-2026, y≈375-444 (right page margin, not a left-margin label). Other small words read with low confidence: 'DAHGOMEY', 'OYO', 'ASHANTE EMPIRE', 'LIBERIA', 'SIERRA LEONE', 'FRANCE', 'KAARTA', 'KUMBI', 'NIGER'. Rows at y≈320 and y≈440 are cut by the tile edges."
+}

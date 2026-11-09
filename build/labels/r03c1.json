@@ -1,0 +1,120 @@
+{
+  "tile_id": "r03c1",
+  "box": [615, 450, 1235, 580],
+  "margin_labels": [],
+  "rows": [
+    {
+      "y0": 455,
+      "y1": 464,
+      "label": "Pastoral nomads",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 464,
+      "y1": 473,
+      "label": "Cereal farmers",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 473,
+      "y1": 486,
+      "label": "Pastoral nomads",
+      "row_kind": "text",
+      "confidence": "high",
+      "segments": []
+    },
+    {
+      "y0": 486,
+      "y1": 497,
+      "label": "Pastoralists",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 497,
+      "y1": 509,
+      "label": "Cereal farmers",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 509,
+      "y1": 521,
+      "label": "Tropical forest hunter-gatherers",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 943, "x1": 1038, "text": "", "fill": "brown", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 521,
+      "y1": 531,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1044, "x1": 1122, "text": "", "fill": "green", "conf": "medium"},
+        {"x0": 1122, "x1": 1235, "text": "MAURETANIA", "fill": "green", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 531,
+      "y1": 541,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "high",
+      "segments": [
+        {"x0": 1018, "x1": 1122, "text": "CARTHAGE", "fill": "cyan", "conf": "high"},
+        {"x0": 1109, "x1": 1142, "text": "NUMIDIA", "fill": "green", "conf": "medium"},
+        {"x0": 1145, "x1": 1194, "text": "ROMAN EMPIRE", "fill": "yellow", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 541,
+      "y1": 551,
+      "label": "Pastoral nomads",
+      "row_kind": "text",
+      "confidence": "high",
+      "segments": []
+    },
+    {
+      "y0": 551,
+      "y1": 562,
+      "label": "Pastoral nomads",
+      "row_kind": "mixed",
+      "confidence": "high",
+      "segments": [
+        {"x0": 940, "x1": 973, "text": "", "fill": "cyan", "conf": "low"},
+        {"x0": 1018, "x1": 1122, "text": "CARTHAGE", "fill": "cyan", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 562,
+      "y1": 573,
+      "label": "Pastoral nomads",
+      "row_kind": "mixed",
+      "confidence": "high",
+      "segments": [
+        {"x0": 1009, "x1": 1048, "text": "", "fill": "olive", "conf": "medium"},
+        {"x0": 1048, "x1": 1093, "text": "ACHOMENID[?]", "fill": "green", "conf": "low"},
+        {"x0": 1168, "x1": 1200, "text": "ROMAN EMPIRE", "fill": "yellow", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 573,
+      "y1": 580,
+      "label": "",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    }
+  ],
+  "notes": "The left two thirds (x≈615-1040) is unfilled pale ground with faint repeated 'Pastoral nomads' / 'Cereal farmers' / 'Tropical forest hunter-gatherers' lines, several of them very small (<6 px) and read at low confidence. The coloured history sits in the right third: a green 'MAURETANIA' band, cyan 'CARTHAGE' bars (x≈1018-1122, at y≈531-541 and y≈551-562), a green 'NUMIDIA' block, and yellow 'ROMAN EMPIRE' blocks. Small word at x≈1048-1093, y≈562-569 is illegible and given as ACHOMENID[?]. Right edge labels are cut by the tile border (e.g. 'Pastoral noma[ds]', 'Cereal farm[ers]') and continue in the next tile. Bottom rows y≈573-580 are cut by the tile edge."
+}

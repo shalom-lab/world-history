@@ -1,0 +1,35 @@
+{
+ "tile_id": "r12c1",
+ "box": [615, 1620, 1235, 1750],
+ "margin_labels": [],
+ "rows": [
+  {"y0": 1622, "y1": 1644, "label": "Maize farmers",
+   "row_kind": "text", "confidence": "high",
+   "segments": [{"x0": 780, "x1": 1180, "text": "Maize farmers", "fill": "white", "conf": "high"}]},
+  {"y0": 1645, "y1": 1664, "label": "Caribbean hunter-gatherers",
+   "row_kind": "text", "confidence": "medium",
+   "segments": [{"x0": 720, "x1": 1230, "text": "Caribbean hunter-gatherers", "fill": "white", "conf": "medium"}]},
+  {"y0": 1678, "y1": 1696, "label": "Manioc farmers (replacing hunter-gatherers)",
+   "row_kind": "text", "confidence": "high",
+   "segments": [{"x0": 640, "x1": 920, "text": "Manioc farmers (replacing hunter-gatherers)", "fill": "white", "conf": "high"}]},
+  {"y0": 1697, "y1": 1706, "label": "Amazonian forest hunter-gatherers",
+   "row_kind": "text", "confidence": "low", "segments": []},
+  {"y0": 1707, "y1": 1719, "label": "Manioc farmers (replacing hunter-gatherers)",
+   "row_kind": "text", "confidence": "high",
+   "segments": [{"x0": 640, "x1": 920, "text": "Manioc farmers (replacing hunter-gatherers)", "fill": "white", "conf": "high"}]},
+  {"y0": 1720, "y1": 1734, "label": "Manioc farmers (replacing hunter-gatherers)",
+   "row_kind": "mixed", "confidence": "high",
+   "segments": [
+    {"x0": 640, "x1": 920, "text": "Manioc farmers (replacing hunter-gatherers)", "fill": "white", "conf": "high"},
+    {"x0": 1180, "x1": 1235, "text": "Manioc farmers", "fill": "lightgray", "conf": "low"}
+   ]},
+  {"y0": 1735, "y1": 1750, "label": "Manioc farmers (replacing hunter-gatherers)",
+   "row_kind": "mixed", "confidence": "high",
+   "segments": [
+    {"x0": 640, "x1": 920, "text": "Manioc farmers (replacing hunter-gatherers)", "fill": "white", "conf": "high"},
+    {"x0": 930, "x1": 1180, "text": "Manioc farmers", "fill": "lightgray", "conf": "medium"},
+    {"x0": 1180, "x1": 1235, "text": "Savanna", "fill": "lightgray", "conf": "low"}
+   ]}
+ ],
+ "notes": "The wide letter-spaced captions (Maize farmers, Caribbean hunter-gatherers) are the band titles; the smaller bold lines are repeats inside the band."
+}

@@ -1,0 +1,109 @@
+{
+  "tile_id": "r00c2",
+  "box": [1205, 60, 1645, 190],
+  "margin_labels": [],
+  "rows": [
+    {
+      "y0": 77,
+      "y1": 89,
+      "label": "Eastern Bantu-speaking herders and farmers",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1205, "x1": 1645, "text": "", "fill": "lightgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 89,
+      "y1": 96,
+      "label": "",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1205, "x1": 1645, "text": "", "fill": "lightgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 96,
+      "y1": 106,
+      "label": "Khoisan herders and gatherers",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1205, "x1": 1645, "text": "", "fill": "lightgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 117,
+      "y1": 125,
+      "label": "Khoisan hunter-gatherers",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1205, "x1": 1645, "text": "", "fill": "lightgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 125,
+      "y1": 131,
+      "label": "Khoisan herders and gatherers",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1205, "x1": 1320, "text": "", "fill": "lightgray", "conf": "high"},
+        {"x0": 1320, "x1": 1645, "text": "", "fill": "lightgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 131,
+      "y1": 139,
+      "label": "Khoisan herders and gatherers",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1205, "x1": 1645, "text": "", "fill": "lightgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 140,
+      "y1": 151,
+      "label": "Uninhabited",
+      "row_kind": "text",
+      "confidence": "high",
+      "segments": [
+        {"x0": 1205, "x1": 1645, "text": "", "fill": "white", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 151,
+      "y1": 172,
+      "label": "Eastern Bantu-speaking herders and farmers",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1205, "x1": 1645, "text": "", "fill": "lightgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 172,
+      "y1": 183,
+      "label": "Western Bantu-speaking herders and farmers",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1205, "x1": 1645, "text": "", "fill": "lightgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 183,
+      "y1": 189,
+      "label": "Khoisan herders and gatherers",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1205, "x1": 1645, "text": "", "fill": "lightgray", "conf": "high"}
+      ]
+    }
+  ],
+  "notes": "Axis strip (1, 100, 200 ... 1000 at y 64-72) is the time scale, not a band. The heavy vertical rule at x 1210 is the year-0 divider. In the narrow left sliver (x 1205-1320, year 0 to about 175) the poster uses a finer row grid with its own small labels stacked at about 8-9 px pitch: 'Khoisan pastoral farmers' (y 78-86), 'Khoisan sheep herders' (y 89-96), 'Khoisan sheep herders' (y 99-106), 'Khoisan pastoral farmers' (y 108-115), and a two-line 'Khoisan / pastoral farmers' at x 1245-1330, y 155-172; these overlay the rows listed above and are recorded here rather than as separate rows because their y ranges overlap the main-area bands. Several 6-7 px text lines are too small to resolve and are marked with empty labels / low confidence; the large letter-spaced labels are ~10 px tall and run into the adjacent tiles (the y 77-89 label continues into r00c3, the y 151-172 label starts at about x 1370)."
+}

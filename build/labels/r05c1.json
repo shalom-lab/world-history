@@ -1,0 +1,90 @@
+{
+ "tile_id": "r05c1",
+ "box": [615, 710, 1235, 840],
+ "margin_labels": [],
+ "rows": [
+  {
+   "y0": 710,
+   "y1": 722,
+   "label": "Bronze Age cultures",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 640, "x1": 950, "text": "Bronze Age cultures", "fill": "midgray", "conf": "medium"},
+    {"x0": 950, "x1": 1090, "text": "Finns", "fill": "midgray", "conf": "low"}
+   ]
+  },
+  {
+   "y0": 722,
+   "y1": 734,
+   "label": "Bronze Age cultures",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {"x0": 640, "x1": 950, "text": "", "fill": "midgray", "conf": "medium"}
+   ]
+  },
+  {
+   "y0": 734,
+   "y1": 746,
+   "label": "Cimmerians (pastoralists)",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": []
+  },
+  {
+   "y0": 746,
+   "y1": 758,
+   "label": "Scythians",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 1090, "x1": 1235, "text": "Scythians", "fill": "olive", "conf": "medium"}
+   ]
+  },
+  {
+   "y0": 758,
+   "y1": 772,
+   "label": "Urnfield cultures",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 660, "x1": 890, "text": "Urnfield cultures", "fill": "midgray", "conf": "medium"},
+    {"x0": 960, "x1": 1120, "text": "Hallstatt culture (Celts)", "fill": "midgray", "conf": "low"}
+   ]
+  },
+  {
+   "y0": 772,
+   "y1": 787,
+   "label": "",
+   "row_kind": "text",
+   "confidence": "low",
+   "segments": []
+  },
+  {
+   "y0": 787,
+   "y1": 800,
+   "label": "Cimmerians (pastoralists)",
+   "row_kind": "text",
+   "confidence": "low",
+   "segments": []
+  },
+  {
+   "y0": 800,
+   "y1": 814,
+   "label": "Urnfield cultures",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": []
+  },
+  {
+   "y0": 814,
+   "y1": 840,
+   "label": "Urnfield cultures",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": []
+  }
+ ],
+ "notes": "The bands here carry large and small copies of the same labels (Urnfield cultures, Cimmerians, Hallstatt culture (Celts)); the small ones are retained as separate rows. Last row is cut by the tile edge."
+}

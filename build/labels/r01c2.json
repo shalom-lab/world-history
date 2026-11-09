@@ -1,0 +1,105 @@
+{
+  "tile_id": "r01c2",
+  "box": [1205, 190, 1645, 320],
+  "margin_labels": [],
+  "rows": [
+    {
+      "y0": 190,
+      "y1": 199,
+      "label": "Khoisan hunter-gatherers",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1320, "x1": 1385, "text": "Khoisan hunter-gatherers", "fill": "white", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 199,
+      "y1": 208,
+      "label": "Bantu-speaking herders and farmers",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1234, "x1": 1292, "text": "Bantu-speaking herders and farmers", "fill": "white", "conf": "low"},
+        {"x0": 1315, "x1": 1505, "text": "Eastern Bantu-speaking herders and farmers", "fill": "white", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 208,
+      "y1": 217,
+      "label": "pastoral farmers",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1210, "x1": 1302, "text": "pastoral farmers", "fill": "white", "conf": "medium"},
+        {"x0": 1605, "x1": 1636, "text": "", "fill": "blue", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 217,
+      "y1": 226,
+      "label": "Cereal farmers and herders",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1340, "x1": 1465, "text": "Cereal farmers and herders", "fill": "white", "conf": "medium"},
+        {"x0": 1532, "x1": 1645, "text": "Eastern Bantu-speak[?]", "fill": "white", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 227,
+      "y1": 238,
+      "label": "Eastern Bantu-speaking herders and farmers",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1315, "x1": 1505, "text": "Eastern Bantu-speaking herders and farmers", "fill": "white", "conf": "medium"},
+        {"x0": 1538, "x1": 1645, "text": "herders and farm[?]", "fill": "white", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 239,
+      "y1": 249,
+      "label": "Bantu-speaking herders and farmers",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1215, "x1": 1240, "text": "ers", "fill": "white", "conf": "low"},
+        {"x0": 1237, "x1": 1298, "text": "Bantu-speaking herders and farmers", "fill": "white", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 250,
+      "y1": 280,
+      "label": "Western Bantu-speaking herders and farmers",
+      "row_kind": "text",
+      "confidence": "high",
+      "segments": [
+        {"x0": 1371, "x1": 1624, "text": "Western Bantu-speaking herders and farmers", "fill": "white", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 266,
+      "y1": 288,
+      "label": "Bantu-speaking herders and farmers",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1218, "x1": 1305, "text": "Bantu-speaking herders and farmers", "fill": "white", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 313,
+      "y1": 320,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1215, "x1": 1345, "text": "farmers / peoples / hunter-gatherer[?]", "fill": "white", "conf": "low"},
+        {"x0": 1350, "x1": 1470, "text": "Western Bantu-speaking herders and farmers", "fill": "white", "conf": "low"},
+        {"x0": 1515, "x1": 1645, "text": "", "fill": "midgray", "conf": "medium"}
+      ]
+    }
+  ],
+  "notes": "Tile top edge cuts the first band and the right-hand block ('...herders and farm...'), bottom edge cuts rows below the 'Western Bantu-speaking herders and farmers' heading (grey fill block at x 1515-1645 continues below). The large two-line heading at y 250-280 overlaps the small 'Bantu-speaking herders and farmers' label at x 1218-1305; that small label is a separate band in the left column. A tiny blue bar at x 1605-1636, y 208-217 carries white text too small to read. Many faint small texts near the top (y 190-205) are barely legible. Century-axis numbers along the bottom axis were not transcribed."
+}

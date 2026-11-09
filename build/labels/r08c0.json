@@ -1,0 +1,122 @@
+{
+  "tile_id": "r08c0",
+  "box": [30, 1100, 645, 1230],
+  "margin_labels": [
+    {"text": "CENTRAL ASIA", "x0": 29, "x1": 41, "y0": 1124, "y1": 1218}
+  ],
+  "rows": [
+    {
+      "y0": 1113,
+      "y1": 1119,
+      "label": "",
+      "row_kind": "bar",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 595, "x1": 645, "text": "", "fill": "lightgray", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 1133,
+      "y1": 1142,
+      "label": "[?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 1142,
+      "y1": 1150,
+      "label": "[?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 1150,
+      "y1": 1160,
+      "label": "Paleo-Siberian taiga hunter-gatherers",
+      "row_kind": "text",
+      "confidence": "high",
+      "segments": []
+    },
+    {
+      "y0": 1160,
+      "y1": 1171,
+      "label": "[?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 1171,
+      "y1": 1180,
+      "label": "[?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 1180,
+      "y1": 1188,
+      "label": "[?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 1188,
+      "y1": 1196,
+      "label": "[?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 1196,
+      "y1": 1204,
+      "label": "[?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 1204,
+      "y1": 1212,
+      "label": "[?]",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 38, "x1": 645, "text": "", "fill": "midgray", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 1212,
+      "y1": 1219,
+      "label": "[?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 1219,
+      "y1": 1226,
+      "label": "[?]",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 38, "x1": 645, "text": "", "fill": "lightgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 1226,
+      "y1": 1230,
+      "label": "Central Asian Farmers",
+      "row_kind": "mixed",
+      "confidence": "high",
+      "segments": [
+        {"x0": 38, "x1": 645, "text": "Central Asian Farmers", "fill": "lightgray", "conf": "high"}
+      ]
+    }
+  ],
+  "notes": "Century axis strip at y=1123-1132 (-3100 ... -2400) is the poster's repeated time axis, not a data band, so it is not listed as a row. Rows y=1133-1207 are bands whose labels are printed at roughly 3 px cap height and are illegible at this scan resolution (they render as dots); they are marked [?] / low. The one clearly readable large label in that block is the wide-letterspaced 'Paleo-Siberian taiga hunter-gatherers' (row 1150-1160). Row 1204-1212 carries a thin darker grey bar at y=1208-1210 (RGB ~182,182,181) which reads slightly darker than the poster's usual light-grey fill (~190,190,190); transcribed as midgray. The grey band that starts at y=1226 continues past the tile edge into r09c0 and is clamped at y1=1230. Band at y=1219-1226 has wide-letterspaced 3 px text that looks like 'Central Asian ...' but the final word cannot be resolved. Small italic note 'Mesolithic' is printed at approx x=545-575, y=1183-1186."
+}

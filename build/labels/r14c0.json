@@ -1,0 +1,50 @@
+{
+  "tile_id": "r14c0",
+  "box": [30, 1880, 645, 1990],
+  "margin_labels": [
+    {"text": "AUSTRALIA", "x0": 40, "x1": 50, "y0": 1904, "y1": 1961}
+  ],
+  "rows": [
+    {
+      "y0": 1899,
+      "y1": 1908,
+      "label": "Austro-Melanesian [?] hunters and hunter-gatherers",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": [
+        {"x0": 50, "x1": 96, "text": "", "fill": "white", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1909,
+      "y1": 1950,
+      "label": "Aboriginal Australian hunter-gatherers",
+      "row_kind": "text",
+      "confidence": "high",
+      "segments": [
+        {"x0": 50, "x1": 96, "text": "", "fill": "white", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1951,
+      "y1": 1956,
+      "label": "Tasmanian [?] gatherers",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": [
+        {"x0": 50, "x1": 96, "text": "", "fill": "white", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1957,
+      "y1": 1970,
+      "label": "Uninhabited",
+      "row_kind": "bar",
+      "confidence": "high",
+      "segments": [
+        {"x0": 50, "x1": 643, "text": "", "fill": "white", "conf": "high"}
+      ]
+    }
+  ],
+  "notes": "Bottom-left corner of the poster. A large printed inset runs y 1898-1956 from x~96 rightwards through the following tiles; its rotated left-edge title reads roughly 'Glossary of Abbreviations' and it holds about 15 text lines per column, each a code in a pale tan cell plus the full country/state name in a white cell. Readable fragments: Angola, Anatolian Empire, Armenia, Avar Khaganate, Ayyubid dynasty, Bactria, Bavaria, Belgium, Bulgaria, Byzantine Empire, Cape Colony, Congo Free State, Chad, Croatia, Carthage. That inset is a legend, not timeline data, and its type is only 3-5 px tall in the original, so it is described here instead of being written as rows. Because of it the timeline bars of the AUSTRALIA rows survive only in x 50-96, and everything right of x~96 between y 1898 and 1956 is the inset. The word 'Uninhabited' in the y 1957-1970 band is a huge letter-spaced caption (letters ~55 px apart) over a plain white band. Excluded from rows: the repeated century-axis rows at y~1887-1896 (-3100 to -1600) and y~1974-1985 (-3100 to -1600), the framing rules at y~1898, the crimson rule at y~1956 and the black bottom frame at y~1988. The row above the strip (y<1880) is cut off, and only a ~2 px sliver of the key/credits block under the bottom frame line lies inside the tile, so no credits text is legible. The first and third row labels are near-illegible blurs: 'Austro-Melanesian' is a best reading, and 'Tasmanian' likewise."
+}

@@ -1,0 +1,56 @@
+{
+ "tile_id": "r01c3",
+ "box": [1625, 190, 2032, 320],
+ "margin_labels": [],
+ "rows": [
+  {"y0": 190, "y1": 200, "label": "", "row_kind": "mixed", "confidence": "low",
+   "segments": [
+    {"x0": 1790, "x1": 1900, "text": "Western Bantu chiefdoms", "fill": "lightgray", "conf": "medium"},
+    {"x0": 1950, "x1": 2000, "text": "FR.", "fill": "lime", "conf": "medium"}
+   ]},
+  {"y0": 200, "y1": 215, "label": "KILWA SULTANATE", "row_kind": "mixed", "confidence": "high",
+   "segments": [
+    {"x0": 1690, "x1": 1830, "text": "KILWA SULTANATE", "fill": "blue", "conf": "high"},
+    {"x0": 1830, "x1": 1848, "text": "PT.", "fill": "yellow", "conf": "medium"},
+    {"x0": 1848, "x1": 1900, "text": "IBERIA PT", "fill": "yellow", "conf": "low"},
+    {"x0": 1900, "x1": 1960, "text": "ZANZIBAR (OMAN)", "fill": "cyan", "conf": "medium"},
+    {"x0": 1960, "x1": 1998, "text": "UK", "fill": "lime", "conf": "medium"}
+   ]},
+  {"y0": 215, "y1": 230, "label": "", "row_kind": "mixed", "confidence": "low",
+   "segments": [
+    {"x0": 1790, "x1": 1900, "text": "Eastern Bantu chiefdoms", "fill": "lightgray", "conf": "medium"}
+   ]},
+  {"y0": 230, "y1": 245, "label": "KINGDOM OF BURUNDI", "row_kind": "mixed", "confidence": "medium",
+   "segments": [
+    {"x0": 1870, "x1": 1960, "text": "KINGDOM OF BURUNDI", "fill": "blue", "conf": "medium"},
+    {"x0": 1960, "x1": 1998, "text": "BELG.", "fill": "lime", "conf": "medium"}
+   ]},
+  {"y0": 245, "y1": 258, "label": "", "row_kind": "mixed", "confidence": "low",
+   "segments": [
+    {"x0": 1790, "x1": 1900, "text": "Western Bantu chiefdoms", "fill": "lightgray", "conf": "medium"},
+    {"x0": 1960, "x1": 1998, "text": "FR.", "fill": "lime", "conf": "medium"}
+   ]},
+  {"y0": 258, "y1": 270, "label": "KINGDOM OF KONGO", "row_kind": "mixed", "confidence": "medium",
+   "segments": [
+    {"x0": 1700, "x1": 1800, "text": "KINGDOM OF LUNDA", "fill": "blue", "conf": "low"},
+    {"x0": 1800, "x1": 1960, "text": "KINGDOM OF KONGO", "fill": "blue", "conf": "medium"},
+    {"x0": 1990, "x1": 2010, "text": "CONGO", "fill": "blue", "conf": "low"}
+   ]},
+  {"y0": 270, "y1": 280, "label": "", "row_kind": "mixed", "confidence": "low",
+   "segments": [
+    {"x0": 1790, "x1": 1900, "text": "Western Bantu chiefdoms", "fill": "lightgray", "conf": "medium"},
+    {"x0": 1900, "x1": 1960, "text": "KINGDOM OF CONGO", "fill": "blue", "conf": "low"}
+   ]},
+  {"y0": 280, "y1": 292, "label": "", "row_kind": "mixed", "confidence": "low",
+   "segments": [
+    {"x0": 1790, "x1": 1900, "text": "Western Bantu chiefdoms", "fill": "lightgray", "conf": "medium"},
+    {"x0": 1780, "x1": 1900, "text": "CAMEROON (GERMANY)", "fill": "yellow", "conf": "low"}
+   ]},
+  {"y0": 300, "y1": 320, "label": "", "row_kind": "mixed", "confidence": "low",
+   "segments": [
+    {"x0": 1650, "x1": 1800, "text": "Kanem Bornu chiefdoms", "fill": "lightgray", "conf": "low"},
+    {"x0": 1800, "x1": 1960, "text": "West African chiefdoms", "fill": "lightgray", "conf": "low"}
+   ]}
+ ],
+ "notes": "Century axis strip at y 292-300 was skipped. The green blocks at x 1960-2000 are colonial power codes (UK, BELG., FR.) and the navy strip at the right edge repeats modern states (DRC, CONGO, ANG). Several 4 px labels could not be resolved and are marked [?] or omitted."
+}

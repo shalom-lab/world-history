@@ -1,0 +1,1851 @@
+﻿entity_id,entity,section,category,span_label,start_year,end_year,start_label,end_label,color_hex,fill_class,language_family
+E001,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,Eastern Bantu chiefdoms,1500,1730,1500 CE,1730 CE,#babfc3,midgray,
+E001,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,CAPE COLONY (UK),1730,1840,1730 CE,1840 CE,#babfc3,midgray,
+E001,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1840,1900,1840 CE,1900 CE,#25777d,cyan,Japanese
+E001,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1900,1920,1900 CE,1920 CE,#89e639,lime,Germanic
+E001,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1920,1970,1920 CE,1970 CE,#71bd2b,lime,Afroasiatic
+E001,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1980,2000,1980 CE,2000 CE,#3e84c5,blue,Niger-Congo
+E002,Unnamed band,SOUTHERN AFRICA,other,,-3100,1890,3100 BCE,1890 CE,#eeeeee,lightgray,
+E002,Unnamed band,SOUTHERN AFRICA,other,,1890,1920,1890 CE,1920 CE,#85ef29,lime,Germanic
+E002,Unnamed band,SOUTHERN AFRICA,other,,1930,1970,1930 CE,1970 CE,#91e535,lime,Germanic
+E002,Unnamed band,SOUTHERN AFRICA,other,,1970,2000,1970 CE,2000 CE,#1368c2,blue,Niger-Congo
+E003,CAPE COLONY (UK),SOUTHERN AFRICA,state,,990,1040,990 CE,1040 CE,#e3dfdf,lightgray,
+E003,CAPE COLONY (UK),SOUTHERN AFRICA,state,CAPE COLONY (UK),1040,1780,1040 CE,1780 CE,#edeff0,white,
+E003,CAPE COLONY (UK),SOUTHERN AFRICA,state,,1790,1830,1790 CE,1830 CE,#84e121,lime,Koreanic
+E003,CAPE COLONY (UK),SOUTHERN AFRICA,state,,1830,1860,1830 CE,1860 CE,#87d735,lime,Koreanic
+E003,CAPE COLONY (UK),SOUTHERN AFRICA,state,,1860,1910,1860 CE,1910 CE,#7dc534,lime,Koreanic
+E003,CAPE COLONY (UK),SOUTHERN AFRICA,state,UK,1910,1970,1910 CE,1970 CE,#8ee234,lime,Germanic
+E003,CAPE COLONY (UK),SOUTHERN AFRICA,state,,1980,2000,1980 CE,2000 CE,#0465ca,blue,Niger-Congo
+E004,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,Eastern Bantu chiefdoms,1500,1560,1500 CE,1560 CE,#c2bfbf,midgray,
+E004,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1560,1570,1560 CE,1570 CE,#b0adaf,darkgray,
+E004,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1580,1600,1580 CE,1600 CE,#bec1c1,midgray,
+E004,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1600,1620,1600 CE,1620 CE,#b6a8a9,midgray,
+E004,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1640,1660,1640 CE,1660 CE,#bebebb,midgray,
+E004,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1660,1680,1660 CE,1680 CE,#9f9d9c,darkgray,
+E004,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1720,1740,1720 CE,1740 CE,#bfc1c0,midgray,
+E004,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1780,1820,1780 CE,1820 CE,#acada7,darkgray,
+E004,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1830,1850,1830 CE,1850 CE,#9b9a97,darkgray,
+E004,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1850,1890,1850 CE,1890 CE,#bebfbf,midgray,
+E004,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1900,1970,1900 CE,1970 CE,#9bfb33,lime,Germanic
+E004,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1990,2000,1990 CE,2000 CE,#357dca,blue,Niger-Congo
+E005,Khoisan herders and gatherers,SOUTHERN AFRICA,pastoralist,,1910,1970,1910 CE,1970 CE,#94f634,lime,Germanic
+E005,Khoisan herders and gatherers,SOUTHERN AFRICA,pastoralist,,1980,2000,1980 CE,2000 CE,#0d60be,blue,Niger-Congo
+E006,Khoisan herders and gatherers,SOUTHERN AFRICA,pastoralist,,1050,1080,1050 CE,1080 CE,#dddddd,lightgray,
+E006,Khoisan herders and gatherers,SOUTHERN AFRICA,pastoralist,,1120,1590,1120 CE,1590 CE,#edeeee,lightgray,
+E006,Khoisan herders and gatherers,SOUTHERN AFRICA,pastoralist,,1590,1640,1590 CE,1640 CE,#dbddd8,lightgray,
+E006,Khoisan herders and gatherers,SOUTHERN AFRICA,pastoralist,,1670,1760,1670 CE,1760 CE,#dfdfde,lightgray,
+E006,Khoisan herders and gatherers,SOUTHERN AFRICA,pastoralist,,1770,1890,1770 CE,1890 CE,#eeeeec,lightgray,
+E006,Khoisan herders and gatherers,SOUTHERN AFRICA,pastoralist,,1910,1930,1910 CE,1930 CE,#99eb38,lime,Germanic
+E006,Khoisan herders and gatherers,SOUTHERN AFRICA,pastoralist,,1930,1970,1930 CE,1970 CE,#86df3b,lime,Germanic
+E006,Khoisan herders and gatherers,SOUTHERN AFRICA,pastoralist,,1990,2000,1990 CE,2000 CE,#4d88c8,blue,Niger-Congo
+E007,Uninhabited,SOUTHERN AFRICA,other,Madagascar,-3100,1500,3100 BCE,1500 CE,#f5f5f5,white,
+E007,Uninhabited,SOUTHERN AFRICA,other,,1500,1540,1500 CE,1540 CE,#c2bfbf,midgray,
+E007,Uninhabited,SOUTHERN AFRICA,other,,1540,1600,1540 CE,1600 CE,#b12d68,pink,Austronesian
+E007,Uninhabited,SOUTHERN AFRICA,other,,1600,1630,1600 CE,1630 CE,#ad4373,pink,
+E007,Uninhabited,SOUTHERN AFRICA,other,,1630,1690,1630 CE,1690 CE,#a8316b,pink,Austronesian
+E007,Uninhabited,SOUTHERN AFRICA,other,,1690,1710,1690 CE,1710 CE,#b81260,pink,Austronesian
+E007,Uninhabited,SOUTHERN AFRICA,other,,1720,1730,1720 CE,1730 CE,#bd2876,pink,Austronesian
+E007,Uninhabited,SOUTHERN AFRICA,other,,1750,1770,1750 CE,1770 CE,#af306f,pink,Austronesian
+E007,Uninhabited,SOUTHERN AFRICA,other,MADAGASCAR,1770,1840,1770 CE,1840 CE,#c11e63,pink,Austronesian
+E007,Uninhabited,SOUTHERN AFRICA,other,,1860,1870,1860 CE,1870 CE,#d7428d,pink,Mongolic
+E007,Uninhabited,SOUTHERN AFRICA,other,,1870,1890,1870 CE,1890 CE,#c2357b,pink,Austronesian
+E007,Uninhabited,SOUTHERN AFRICA,other,FR,1900,1960,1900 CE,1960 CE,#f8fd14,olive,Romance
+E007,Uninhabited,SOUTHERN AFRICA,other,,1970,2000,1970 CE,2000 CE,#c52072,pink,Austronesian
+E008,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,KILWA SULTANATE,-3100,1300,3100 BCE,1300 CE,#f2f2f1,white,
+E008,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,PORTUGAL,1300,1500,1300 CE,1500 CE,#cde3f3,blue,
+E008,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1520,1550,1520 CE,1550 CE,#dedc95,olive,Ancient languages
+E008,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,MOZAMBIQUE (PORTUGAL),1550,1900,1550 CE,1900 CE,#eaec7a,olive,Romance
+E008,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,MOZ,1900,1980,1900 CE,1980 CE,#fbfd52,olive,Romance
+E008,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1980,2000,1980 CE,2000 CE,#2b6dbe,blue,Niger-Congo
+E009,Western Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,-2320,-2300,2320 BCE,2300 BCE,#ffd7db,red,
+E009,Western Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,MALAWI [?],1500,1700,1500 CE,1700 CE,#bbc1c6,midgray,
+E009,Western Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,1700,1760,1700 CE,1760 CE,#b7c5d8,blue,
+E009,Western Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,UK,1760,1840,1760 CE,1840 CE,#357db2,blue,Niger-Congo
+E009,Western Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,1860,1900,1860 CE,1900 CE,#b3c6de,blue,
+E009,Western Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,1900,1970,1900 CE,1970 CE,#a5fb35,lime,Germanic
+E009,Western Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,1990,2000,1990 CE,2000 CE,#3982c2,blue,Niger-Congo
+E010,Khoisan herders and gatherers,SOUTHERN AFRICA,pastoralist,,-2490,-2340,2490 BCE,2340 BCE,#dee1dd,lightgray,
+E010,Khoisan herders and gatherers,SOUTHERN AFRICA,pastoralist,,-1160,-1080,1160 BCE,1080 BCE,#efefef,lightgray,
+E010,Khoisan herders and gatherers,SOUTHERN AFRICA,pastoralist,,-1080,-1060,1080 BCE,1060 BCE,#595458,black,
+E010,Khoisan herders and gatherers,SOUTHERN AFRICA,pastoralist,,10,1120,10 CE,1120 CE,#ebe9e8,lightgray,
+E010,Khoisan herders and gatherers,SOUTHERN AFRICA,pastoralist,,1500,1580,1500 CE,1580 CE,#c1bdbd,midgray,
+E010,Khoisan herders and gatherers,SOUTHERN AFRICA,pastoralist,,1610,1640,1610 CE,1640 CE,#a2a77a,olive,Indo-Iranian
+E010,Khoisan herders and gatherers,SOUTHERN AFRICA,pastoralist,,1640,1660,1640 CE,1660 CE,#e9ed9e,olive,Dravidian
+E010,Khoisan herders and gatherers,SOUTHERN AFRICA,pastoralist,PT,1670,1930,1670 CE,1930 CE,#e9f26b,olive,Romance
+E010,Khoisan herders and gatherers,SOUTHERN AFRICA,pastoralist,,1950,1980,1950 CE,1980 CE,#fcfa4d,olive,Romance
+E010,Khoisan herders and gatherers,SOUTHERN AFRICA,pastoralist,,1990,2000,1990 CE,2000 CE,#487ec5,blue,Niger-Congo
+E011,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,Khoisan hunter-gatherers,-3100,930,3100 BCE,930 CE,#edecec,lightgray,
+E011,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,940,970,940 CE,970 CE,#d3d3d3,lightgray,
+E011,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,970,1500,970 CE,1500 CE,#efefef,lightgray,
+E011,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,Western Bantu chiefdoms,1500,1670,1500 CE,1670 CE,#babcc0,midgray,
+E011,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1670,1850,1670 CE,1850 CE,#8492ac,blue,
+E011,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1850,1900,1850 CE,1900 CE,#bcbdc8,midgray,
+E011,Khoisan hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,FR,1900,1980,1900 CE,1980 CE,#fefe4e,olive,Romance
+E012,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,Bantu-speaking herders and farmers,-3100,160,3100 BCE,160 CE,#f1f1f2,white,
+E012,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,Eastern Bantu-speaking herders and farmers,160,940,160 CE,940 CE,#f1f1f2,white,
+E012,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,KILWA SULTANATE,940,1500,940 CE,1500 CE,#f1f1f2,white,
+E012,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,1510,1520,1510 CE,1520 CE,#c1bfc8,midgray,
+E012,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,PT,1520,1600,1520 CE,1600 CE,#eff587,olive,Romance
+E012,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,IBERIA PT,1600,1700,1600 CE,1700 CE,#eff587,olive,Romance
+E012,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,1700,1780,1700 CE,1780 CE,#42b6cc,cyan,Niger-Congo
+E012,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,ZANZIBAR (OMAN),1800,1860,1800 CE,1860 CE,#b4c3c4,midgray,
+E012,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,1900,1920,1900 CE,1920 CE,#89d541,lime,Germanic
+E012,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,UK,1920,1970,1920 CE,1970 CE,#99fb36,lime,Germanic
+E012,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,1980,2000,1980 CE,2000 CE,#2e80c9,blue,Niger-Congo
+E013,pastoral farmers,SOUTHERN AFRICA,farmer,,-2910,-2890,2910 BCE,2890 BCE,#9cc547,lime,
+E013,pastoral farmers,SOUTHERN AFRICA,farmer,,-2740,-2710,2740 BCE,2710 BCE,#b4caff,blue,Ancient languages
+E013,pastoral farmers,SOUTHERN AFRICA,farmer,,-2570,-2550,2570 BCE,2550 BCE,#fecf13,yellow,Dravidian
+E013,pastoral farmers,SOUTHERN AFRICA,farmer,,-2400,-2370,2400 BCE,2370 BCE,#7ccd8f,green,Indo-Iranian
+E013,pastoral farmers,SOUTHERN AFRICA,farmer,,-2230,-2200,2230 BCE,2200 BCE,#f6f488,olive,Romance
+E013,pastoral farmers,SOUTHERN AFRICA,farmer,,-2060,-2030,2060 BCE,2030 BCE,#cee67e,lime,Germanic
+E013,pastoral farmers,SOUTHERN AFRICA,farmer,,-1890,-1860,1890 BCE,1860 BCE,#b221f3,purple,Sino-Tibetan
+E013,pastoral farmers,SOUTHERN AFRICA,farmer,,-220,-190,220 BCE,190 BCE,#cdc9c8,midgray,
+E013,pastoral farmers,SOUTHERN AFRICA,farmer,pastoral farmers,-170,30,170 BCE,30 CE,#eae8e7,lightgray,
+E013,pastoral farmers,SOUTHERN AFRICA,farmer,,30,100,30 CE,100 CE,#d5d5d5,lightgray,
+E013,pastoral farmers,SOUTHERN AFRICA,farmer,,1500,1890,1500 CE,1890 CE,#b0c7d0,blue,
+E013,pastoral farmers,SOUTHERN AFRICA,farmer,,1890,1930,1890 CE,1930 CE,#9cf635,lime,Germanic
+E013,pastoral farmers,SOUTHERN AFRICA,farmer,,1940,1970,1940 CE,1970 CE,#92df46,lime,Germanic
+E013,pastoral farmers,SOUTHERN AFRICA,farmer,,1980,1990,1980 CE,1990 CE,#59a7d9,blue,Niger-Congo
+E013,pastoral farmers,SOUTHERN AFRICA,farmer,,1990,2000,1990 CE,2000 CE,#3b8ad1,blue,Niger-Congo
+E014,Cereal farmers and herders,SOUTHERN AFRICA,farmer,,-2910,-2890,2910 BCE,2890 BCE,#ce6e32,orange,Austroasiatic
+E014,Cereal farmers and herders,SOUTHERN AFRICA,farmer,,-2740,-2710,2740 BCE,2710 BCE,#e5a7fd,purple,Ancient languages
+E014,Cereal farmers and herders,SOUTHERN AFRICA,farmer,,-2570,-2540,2570 BCE,2540 BCE,#fbd644,yellow,Dravidian
+E014,Cereal farmers and herders,SOUTHERN AFRICA,farmer,,-2400,-2370,2400 BCE,2370 BCE,#0ccb44,green,Indo-Iranian
+E014,Cereal farmers and herders,SOUTHERN AFRICA,farmer,,-2230,-2200,2230 BCE,2200 BCE,#fcfe10,olive,Romance
+E014,Cereal farmers and herders,SOUTHERN AFRICA,farmer,,-1890,-1860,1890 BCE,1860 BCE,#c559f8,purple,Sino-Tibetan
+E014,Cereal farmers and herders,SOUTHERN AFRICA,farmer,Pastoralists,-1860,-240,1860 BCE,240 BCE,#eff0f2,white,
+E014,Cereal farmers and herders,SOUTHERN AFRICA,farmer,Cereal farmers and herders,-240,680,240 BCE,680 CE,#eff0f2,white,
+E014,Cereal farmers and herders,SOUTHERN AFRICA,farmer,Eastern Bantu-speak[?],680,1550,680 CE,1550 CE,#eff0f2,white,
+E014,Cereal farmers and herders,SOUTHERN AFRICA,farmer,,1550,1600,1550 CE,1600 CE,#bbbfc4,midgray,
+E014,Cereal farmers and herders,SOUTHERN AFRICA,farmer,Eastern Bantu chiefdoms,1600,1890,1600 CE,1890 CE,#a1b4c2,blue,
+E014,Cereal farmers and herders,SOUTHERN AFRICA,farmer,,1890,1970,1890 CE,1970 CE,#93f92e,lime,Germanic
+E014,Cereal farmers and herders,SOUTHERN AFRICA,farmer,,1970,1990,1970 CE,1990 CE,#1068bf,blue,Niger-Congo
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,-2880,-2850,2880 BCE,2850 BCE,#b6b6b7,midgray,
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,-2740,-2690,2740 BCE,2690 BCE,#e7aeb1,red,
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,-2690,-2670,2690 BCE,2670 BCE,#b6b4b5,midgray,
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,-2570,-2540,2570 BCE,2540 BCE,#f8e59b,yellow,Dravidian
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,-2540,-2510,2540 BCE,2510 BCE,#b5b5b5,midgray,
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,-2400,-2370,2400 BCE,2370 BCE,#40cb67,green,Indo-Iranian
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,-2370,-2350,2370 BCE,2350 BCE,#b5b2b9,midgray,
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,-2230,-2200,2230 BCE,2200 BCE,#fdfe50,olive,Romance
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,-2200,-2180,2200 BCE,2180 BCE,#b4b6b5,midgray,
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,-2180,-2150,2180 BCE,2150 BCE,#d0d0d0,midgray,
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,-2060,-2030,2060 BCE,2030 BCE,#7c8409,olive,Kra-Dai
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,Pastoralists,-1990,-490,1990 BCE,490 BCE,#f2f2f2,white,
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,Khoisan pastoral farmers,-490,-230,490 BCE,230 BCE,#f2f2f2,white,
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,Khoisan pastor[?],-230,-50,230 BCE,50 BCE,#f2f2f2,white,
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,-40,10,40 BCE,10 CE,#868585,darkgray,
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,70,110,70 CE,110 CE,#a5a5a4,darkgray,
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,Eastern Bantu-speaking herders and farmers,110,740,110 CE,740 CE,#f0f2f3,white,
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,herders and farm[?],740,1550,740 CE,1550 CE,#f0f2f3,white,
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,KINGDOM OF BURUNDI,1550,1890,1550 CE,1890 CE,#b8c2ca,midgray,
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,BELG,1890,1940,1890 CE,1940 CE,#81f01e,lime,Germanic
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,1940,1960,1940 CE,1960 CE,#83fa0d,lime,Germanic
+E015,Eastern Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,1970,2000,1970 CE,2000 CE,#1164c3,blue,Niger-Congo
+E016,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,-2910,-2890,2910 BCE,2890 BCE,#30c9fc,blue,Afroasiatic
+E016,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,-2400,-2370,2400 BCE,2370 BCE,#6bcb86,green,Indo-Iranian
+E016,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,-2230,-2200,2230 BCE,2200 BCE,#fcfe89,olive,Romance
+E016,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,-1890,-1860,1890 BCE,1860 BCE,#fa0a65,pink,Turkic
+E016,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,Khoisan hunter-gatherers,-1860,-660,1860 BCE,660 BCE,#f2f2f2,white,
+E016,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,Khoisan hunter-gatherers,-660,-120,660 BCE,120 BCE,#f2f2f2,white,
+E016,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,ers,-120,0,120 BCE,0 CE,#f2f2f2,white,
+E016,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,Bantu-speaking herders and farmers,0,1500,0 CE,1500 CE,#f2f2f2,white,
+E016,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,1500,1550,1500 CE,1550 CE,#b4cadf,blue,
+E016,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,Western Bantu chiefdoms,1560,1630,1560 CE,1630 CE,#6c95ba,blue,Niger-Congo
+E016,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,1700,1740,1700 CE,1740 CE,#b7c4db,blue,
+E016,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,1740,1770,1740 CE,1770 CE,#0b63c0,blue,Niger-Congo
+E016,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,1770,1890,1770 CE,1890 CE,#1e6ec2,blue,Niger-Congo
+E016,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,FR,1900,1930,1900 CE,1930 CE,#81f606,lime,Germanic
+E016,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,1930,1940,1930 CE,1940 CE,#66c01a,lime,Afroasiatic
+E016,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,1960,1980,1960 CE,1980 CE,#56a0da,blue,Niger-Congo
+E016,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,1990,2000,1990 CE,2000 CE,#3e8fca,blue,Niger-Congo
+E017,KINGDOM OF KONGO,SOUTHERN AFRICA,state,,-2920,-2880,2920 BCE,2880 BCE,#98e5f5,cyan,Afroasiatic
+E017,KINGDOM OF KONGO,SOUTHERN AFRICA,state,,-2740,-2710,2740 BCE,2710 BCE,#9bfccb,green,Ancient languages
+E017,KINGDOM OF KONGO,SOUTHERN AFRICA,state,,-2570,-2540,2570 BCE,2540 BCE,#840bca,purple,Indo-European
+E017,KINGDOM OF KONGO,SOUTHERN AFRICA,state,,-2400,-2370,2400 BCE,2370 BCE,#9ecaac,green,
+E017,KINGDOM OF KONGO,SOUTHERN AFRICA,state,,-2060,-2030,2060 BCE,2030 BCE,#ef0e0b,red,Mongolic
+E017,KINGDOM OF KONGO,SOUTHERN AFRICA,state,,-1890,-1860,1890 BCE,1860 BCE,#f94c93,pink,Turkic
+E017,KINGDOM OF KONGO,SOUTHERN AFRICA,state,Western Bantu-speaking herders and farmers,-1860,1110,1860 BCE,1110 CE,#f2f1f1,white,
+E017,KINGDOM OF KONGO,SOUTHERN AFRICA,state,KINGDOM OF LUNDA,1110,1500,1110 CE,1500 CE,#f2f1f1,white,
+E017,KINGDOM OF KONGO,SOUTHERN AFRICA,state,KINGDOM OF KONGO,1500,1600,1500 CE,1600 CE,#bcc2c3,midgray,
+E017,KINGDOM OF KONGO,SOUTHERN AFRICA,state,,1620,1660,1620 CE,1660 CE,#8088b3,blue,Niger-Congo
+E017,KINGDOM OF KONGO,SOUTHERN AFRICA,state,,1670,1750,1670 CE,1750 CE,#889bb5,blue,
+E017,KINGDOM OF KONGO,SOUTHERN AFRICA,state,,1760,1780,1760 CE,1780 CE,#7796a7,blue,Niger-Congo
+E017,KINGDOM OF KONGO,SOUTHERN AFRICA,state,,1780,1800,1780 CE,1800 CE,#84a8b6,blue,Niger-Congo
+E017,KINGDOM OF KONGO,SOUTHERN AFRICA,state,,1800,1880,1800 CE,1880 CE,#bcc2c7,midgray,
+E017,KINGDOM OF KONGO,SOUTHERN AFRICA,state,,1900,1960,1900 CE,1960 CE,#fafa0b,olive,Romance
+E017,KINGDOM OF KONGO,SOUTHERN AFRICA,state,CONGO,1970,2000,1970 CE,2000 CE,#1368c2,blue,Niger-Congo
+E018,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,-1890,-1860,1890 BCE,1860 BCE,#fe91be,pink,Turkic
+E018,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,Pastoralists,-1860,-400,1860 BCE,400 BCE,#eeedec,lightgray,
+E018,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,Bantu-speaking herders and farmers,-400,0,400 BCE,0 CE,#eeedec,lightgray,
+E018,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,0,40,0 CE,40 CE,#d9d0d3,lightgray,
+E018,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,Bantu-speaking herders and farmers,40,1500,40 CE,1500 CE,#ecebec,lightgray,
+E018,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,Western Bantu chiefdoms,1500,1730,1500 CE,1730 CE,#c0c0c0,midgray,
+E018,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,KINGDOM OF CONGO,1730,1900,1730 CE,1900 CE,#c0c0c0,midgray,
+E018,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,1900,1960,1900 CE,1960 CE,#fefc08,olive,Romance
+E018,Bantu-speaking herders and farmers,SOUTHERN AFRICA,farmer,,1970,1990,1970 CE,1990 CE,#0f6ec6,blue,Niger-Congo
+E019,CAMEROON (GERMANY),SOUTHERN AFRICA,other,,-2400,-2370,2400 BCE,2370 BCE,#25fdd4,teal,Iranic
+E019,CAMEROON (GERMANY),SOUTHERN AFRICA,other,,-2060,-2030,2060 BCE,2030 BCE,#0960b7,blue,Niger-Congo
+E019,CAMEROON (GERMANY),SOUTHERN AFRICA,other,,-2030,-1980,2030 BCE,1980 BCE,#e0e0df,lightgray,
+E019,CAMEROON (GERMANY),SOUTHERN AFRICA,other,CAMEROON (GERMANY),1500,2000,1500 CE,2000 CE,#f9fbe8,white,
+E020,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,-2910,-2890,2910 BCE,2890 BCE,#c6050d,red,Amerindian
+E020,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,-2570,-2540,2570 BCE,2540 BCE,#a8fd4f,lime,Germanic
+E020,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,Tropical forest hunter-gatherers,-2540,-760,2540 BCE,760 BCE,#fefffd,white,
+E020,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,Central farmers,-760,-310,760 BCE,310 BCE,#fefffd,white,
+E020,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,farmers / peoples / hunter-gatherer[?],-310,280,310 BCE,280 CE,#fefffd,white,
+E020,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,Western Bantu-speaking herders and farmers,280,700,280 CE,700 CE,#fefffd,white,
+E020,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,700,1080,700 CE,1080 CE,#bebfbf,midgray,
+E020,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1100,1130,1100 CE,1130 CE,#b2c5d8,blue,
+E020,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1130,1180,1130 CE,1180 CE,#7686b3,blue,Niger-Congo
+E020,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1200,1240,1200 CE,1240 CE,#b7cada,blue,
+E020,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1240,1270,1240 CE,1270 CE,#128c8a,cyan,Japanese
+E020,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1280,1330,1280 CE,1330 CE,#4499a9,cyan,Niger-Congo
+E020,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,Kanem Bornu chiefdoms,1330,1400,1330 CE,1400 CE,#acc8d0,cyan,
+E020,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1410,1480,1410 CE,1480 CE,#178295,cyan,Japanese
+E020,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1600,1630,1600 CE,1630 CE,#2a8e9d,cyan,Japanese
+E020,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,West African chiefdoms,1670,1800,1670 CE,1800 CE,#adcacc,cyan,
+E020,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1810,1830,1810 CE,1830 CE,#2ebee4,cyan,Afroasiatic
+E020,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1830,1880,1830 CE,1880 CE,#2c99b8,cyan,Niger-Congo
+E020,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1910,1960,1910 CE,1960 CE,#adf827,lime,Germanic
+E020,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1970,2000,1970 CE,2000 CE,#1366bf,blue,Niger-Congo
+E021,Cereal farmers,SOUTHERN AFRICA,farmer,,-2910,-2890,2910 BCE,2890 BCE,#0ac65d,green,Amerindian
+E021,Cereal farmers,SOUTHERN AFRICA,farmer,,-2570,-2550,2570 BCE,2550 BCE,#aeb31f,olive,Greek
+E021,Cereal farmers,SOUTHERN AFRICA,farmer,West African chiefdoms,700,1190,700 CE,1190 CE,#c0c0c0,midgray,
+E021,Cereal farmers,SOUTHERN AFRICA,farmer,,1190,1240,1190 CE,1240 CE,#1865c6,blue,Niger-Congo
+E021,Cereal farmers,SOUTHERN AFRICA,farmer,Mossi Kingdoms,1240,1500,1240 CE,1500 CE,#bbc0c5,midgray,
+E021,Cereal farmers,SOUTHERN AFRICA,farmer,,1510,1570,1510 CE,1570 CE,#1865c6,blue,Niger-Congo
+E021,Cereal farmers,SOUTHERN AFRICA,farmer,,1640,1670,1640 CE,1670 CE,#3e86c1,blue,Niger-Congo
+E021,Cereal farmers,SOUTHERN AFRICA,farmer,,1680,1700,1680 CE,1700 CE,#bdc0c4,midgray,
+E021,Cereal farmers,SOUTHERN AFRICA,farmer,Ashante Empire,1700,1790,1700 CE,1790 CE,#2c7fc9,blue,Niger-Congo
+E021,Cereal farmers,SOUTHERN AFRICA,farmer,,1810,1830,1810 CE,1830 CE,#5ca2d0,blue,Niger-Congo
+E021,Cereal farmers,SOUTHERN AFRICA,farmer,,1830,1860,1830 CE,1860 CE,#4694d0,blue,Niger-Congo
+E021,Cereal farmers,SOUTHERN AFRICA,farmer,,1860,1880,1860 CE,1880 CE,#1467c9,blue,Niger-Congo
+E021,Cereal farmers,SOUTHERN AFRICA,farmer,,1880,1900,1880 CE,1900 CE,#369782,teal,Nilo-Saharan
+E021,Cereal farmers,SOUTHERN AFRICA,farmer,,1900,1960,1900 CE,1960 CE,#a6f723,lime,Germanic
+E021,Cereal farmers,SOUTHERN AFRICA,farmer,,1970,2000,1970 CE,2000 CE,#73a0c6,blue,Niger-Congo
+E022,West African chiefdoms,SOUTHERN AFRICA,chiefdom,,700,1260,700 CE,1260 CE,#bfbfbf,midgray,
+E022,West African chiefdoms,SOUTHERN AFRICA,chiefdom,West African chiefdoms,1310,1820,1310 CE,1820 CE,#bebfbd,midgray,
+E022,West African chiefdoms,SOUTHERN AFRICA,chiefdom,LIBERIA,1820,1960,1820 CE,1960 CE,#bebfbd,midgray,
+E022,West African chiefdoms,SOUTHERN AFRICA,chiefdom,,1960,2000,1960 CE,2000 CE,#81d46b,green,Indo-Iranian
+E023,Camel nomads,SOUTHERN AFRICA,pastoralist,,700,1330,700 CE,1330 CE,#bfbfbf,midgray,
+E023,Camel nomads,SOUTHERN AFRICA,pastoralist,,1340,1410,1340 CE,1410 CE,#8daac7,blue,Niger-Congo
+E023,Camel nomads,SOUTHERN AFRICA,pastoralist,,1410,1450,1410 CE,1450 CE,#6d87a4,blue,Niger-Congo
+E023,Camel nomads,SOUTHERN AFRICA,pastoralist,,1450,1590,1450 CE,1590 CE,#8da8b7,blue,
+E023,Camel nomads,SOUTHERN AFRICA,pastoralist,,1590,1610,1590 CE,1610 CE,#748993,blue,
+E023,Camel nomads,SOUTHERN AFRICA,pastoralist,,1610,1700,1610 CE,1700 CE,#8592a6,blue,
+E023,Camel nomads,SOUTHERN AFRICA,pastoralist,,1700,1820,1700 CE,1820 CE,#8fa8ab,cyan,
+E023,Camel nomads,SOUTHERN AFRICA,pastoralist,,1820,1890,1820 CE,1890 CE,#79a67a,green,Indo-Iranian
+E023,Camel nomads,SOUTHERN AFRICA,pastoralist,SIERRA LEONE,1890,1960,1890 CE,1960 CE,#cae31c,olive,Amerindian
+E023,Camel nomads,SOUTHERN AFRICA,pastoralist,FRANCE,1960,2000,1960 CE,2000 CE,#788d9f,blue,
+E024,Camel nomads,SOUTHERN AFRICA,pastoralist,,1050,1150,1050 CE,1150 CE,#2ec0e6,cyan,Afroasiatic
+E024,Camel nomads,SOUTHERN AFRICA,pastoralist,,1940,1960,1940 CE,1960 CE,#f9f813,olive,Romance
+E024,Camel nomads,SOUTHERN AFRICA,pastoralist,,1970,2000,1970 CE,2000 CE,#2ac2f9,blue,Afroasiatic
+E025,ALMO-RAVIDS,SOUTHERN AFRICA,other,,500,1050,500 CE,1050 CE,#9eb5c4,blue,
+E025,ALMO-RAVIDS,SOUTHERN AFRICA,other,ALMO-RAVIDS,1090,1110,1090 CE,1110 CE,#2bb1d0,cyan,Afroasiatic
+E025,ALMO-RAVIDS,SOUTHERN AFRICA,other,,1150,1790,1150 CE,1790 CE,#a0b2c5,blue,
+E025,ALMO-RAVIDS,SOUTHERN AFRICA,other,,1790,1930,1790 CE,1930 CE,#e8e955,olive,Romance
+E025,ALMO-RAVIDS,SOUTHERN AFRICA,other,,1940,1960,1940 CE,1960 CE,#f5f818,olive,Romance
+E025,ALMO-RAVIDS,SOUTHERN AFRICA,other,,1970,2000,1970 CE,2000 CE,#28c4f4,cyan,Afroasiatic
+E026,MALI EMPIRE,SOUTHERN AFRICA,state,GHANA,200,1080,200 CE,1080 CE,#8dacc7,blue,Niger-Congo
+E026,MALI EMPIRE,SOUTHERN AFRICA,state,,1080,1250,1080 CE,1250 CE,#44b2d8,blue,Afroasiatic
+E026,MALI EMPIRE,SOUTHERN AFRICA,state,MALI EMPIRE,1250,1320,1250 CE,1320 CE,#59b4d5,blue,Afroasiatic
+E026,MALI EMPIRE,SOUTHERN AFRICA,state,,1320,1380,1320 CE,1380 CE,#859dba,blue,Niger-Congo
+E026,MALI EMPIRE,SOUTHERN AFRICA,state,,1380,1440,1380 CE,1440 CE,#718aa4,blue,Niger-Congo
+E026,MALI EMPIRE,SOUTHERN AFRICA,state,,1450,1480,1450 CE,1480 CE,#8aacc0,blue,Niger-Congo
+E026,MALI EMPIRE,SOUTHERN AFRICA,state,,1480,1600,1480 CE,1600 CE,#17a35b,green,Nilo-Saharan
+E026,MALI EMPIRE,SOUTHERN AFRICA,state,KAARTA,1650,1900,1650 CE,1900 CE,#90acce,blue,Niger-Congo
+E026,MALI EMPIRE,SOUTHERN AFRICA,state,,1910,1930,1910 CE,1930 CE,#fcfe0e,olive,Romance
+E026,MALI EMPIRE,SOUTHERN AFRICA,state,,1940,1960,1940 CE,1960 CE,#fbfb25,olive,Romance
+E026,MALI EMPIRE,SOUTHERN AFRICA,state,,1970,1980,1970 CE,1980 CE,#2ac7f7,cyan,Afroasiatic
+E026,MALI EMPIRE,SOUTHERN AFRICA,state,MALI,1980,2000,1980 CE,2000 CE,#2ca9d5,blue,Afroasiatic
+E027,Camel nomads,SOUTHERN AFRICA,pastoralist,,1330,1440,1330 CE,1440 CE,#90a9c4,blue,Niger-Congo
+E027,Camel nomads,SOUTHERN AFRICA,pastoralist,,1440,1460,1440 CE,1460 CE,#e5e6eb,lightgray,
+E027,Camel nomads,SOUTHERN AFRICA,pastoralist,,1470,1500,1470 CE,1500 CE,#d5d4d7,lightgray,
+E027,Camel nomads,SOUTHERN AFRICA,pastoralist,,1500,1520,1500 CE,1520 CE,#d4fde9,green,
+E027,Camel nomads,SOUTHERN AFRICA,pastoralist,,1520,1600,1520 CE,1600 CE,#16ab56,green,Nilo-Saharan
+E027,Camel nomads,SOUTHERN AFRICA,pastoralist,,1910,1940,1910 CE,1940 CE,#e4db20,olive,Dravidian
+E027,Camel nomads,SOUTHERN AFRICA,pastoralist,,1970,2000,1970 CE,2000 CE,#8facca,blue,Niger-Congo
+E028,Cereal farmers and herders,SOUTHERN AFRICA,farmer,,650,1060,650 CE,1060 CE,#8ea6c0,blue,Niger-Congo
+E028,Cereal farmers and herders,SOUTHERN AFRICA,farmer,GHANA EMPIRE,1070,1240,1070 CE,1240 CE,#88abca,blue,Niger-Congo
+E028,Cereal farmers and herders,SOUTHERN AFRICA,farmer,MALI EMPIRE,1240,1440,1240 CE,1440 CE,#88abca,blue,Niger-Congo
+E028,Cereal farmers and herders,SOUTHERN AFRICA,farmer,SONGHAI EMPIRE,1440,1600,1440 CE,1600 CE,#12a25a,green,Nilo-Saharan
+E028,Cereal farmers and herders,SOUTHERN AFRICA,farmer,,1600,1630,1600 CE,1630 CE,#34a3c9,blue,Niger-Congo
+E028,Cereal farmers and herders,SOUTHERN AFRICA,farmer,,1910,1920,1910 CE,1920 CE,#fcfa0b,olive,Romance
+E028,Cereal farmers and herders,SOUTHERN AFRICA,farmer,,1930,1960,1930 CE,1960 CE,#e0dd26,olive,Dravidian
+E028,Cereal farmers and herders,SOUTHERN AFRICA,farmer,,1980,1990,1980 CE,1990 CE,#8399b1,blue,Niger-Congo
+E029,Cereal farmers,SOUTHERN AFRICA,farmer,,-40,200,40 BCE,200 CE,#e2e2e3,lightgray,
+E029,Cereal farmers,SOUTHERN AFRICA,farmer,GHANA EMPIRE,200,1480,200 CE,1480 CE,#8dabc4,blue,Niger-Congo
+E029,Cereal farmers,SOUTHERN AFRICA,farmer,,1480,1580,1480 CE,1580 CE,#3aba70,green,Indo-Iranian
+E029,Cereal farmers,SOUTHERN AFRICA,farmer,,1580,1600,1580 CE,1600 CE,#07ad54,green,Nilo-Saharan
+E029,Cereal farmers,SOUTHERN AFRICA,farmer,,1600,1690,1600 CE,1690 CE,#bfbfbf,midgray,
+E029,Cereal farmers,SOUTHERN AFRICA,farmer,,1700,1720,1700 CE,1720 CE,#bcc1be,midgray,
+E029,Cereal farmers,SOUTHERN AFRICA,farmer,,1720,1860,1720 CE,1860 CE,#357dc1,blue,Niger-Congo
+E029,Cereal farmers,SOUTHERN AFRICA,farmer,,1860,1900,1860 CE,1900 CE,#67a0c4,blue,Niger-Congo
+E029,Cereal farmers,SOUTHERN AFRICA,farmer,,1910,1960,1910 CE,1960 CE,#fbfc0d,olive,Romance
+E029,Cereal farmers,SOUTHERN AFRICA,farmer,,1970,2000,1970 CE,2000 CE,#8babc7,blue,Niger-Congo
+E030,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,West African chiefdoms,-3100,1050,3100 BCE,1050 CE,#dddcdb,lightgray,
+E030,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,SONGHAI EMPIRE,1050,1620,1050 CE,1620 CE,#6590b8,blue,Niger-Congo
+E030,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,West African chiefdoms,1620,1780,1620 CE,1780 CE,#6590b8,blue,Niger-Congo
+E030,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,KUMBI,1780,1900,1780 CE,1900 CE,#6590b8,blue,Niger-Congo
+E030,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1910,1960,1910 CE,1960 CE,#f5f31c,olive,Romance
+E030,Tropical forest hunter-gatherers,SOUTHERN AFRICA,hunter-gatherer,,1960,2000,1960 CE,2000 CE,#2a9383,teal,Nilo-Saharan
+E031,Camel nomads,SOUTHERN AFRICA,pastoralist,,-310,-280,310 BCE,280 BCE,#e4e0df,lightgray,
+E031,Camel nomads,SOUTHERN AFRICA,pastoralist,,1410,1430,1410 CE,1430 CE,#5cb134,green,Afroasiatic
+E031,Camel nomads,SOUTHERN AFRICA,pastoralist,,1430,1570,1430 CE,1570 CE,#409f3d,green,Indo-Iranian
+E031,Camel nomads,SOUTHERN AFRICA,pastoralist,,1570,1600,1570 CE,1600 CE,#32b267,green,Indo-Iranian
+E031,Camel nomads,SOUTHERN AFRICA,pastoralist,,1600,1750,1600 CE,1750 CE,#4cae26,green,Afroasiatic
+E031,Camel nomads,SOUTHERN AFRICA,pastoralist,,1750,1830,1750 CE,1830 CE,#45972b,green,
+E031,Camel nomads,SOUTHERN AFRICA,pastoralist,,1830,1910,1830 CE,1910 CE,#50b824,green,Afroasiatic
+E031,Camel nomads,SOUTHERN AFRICA,pastoralist,,1910,1940,1910 CE,1940 CE,#ecee25,olive,Romance
+E031,Camel nomads,SOUTHERN AFRICA,pastoralist,,1940,1960,1940 CE,1960 CE,#f8fe17,olive,Romance
+E031,Camel nomads,SOUTHERN AFRICA,pastoralist,,1960,1980,1960 CE,1980 CE,#05ae53,green,Nilo-Saharan
+E031,Camel nomads,SOUTHERN AFRICA,pastoralist,,1990,2000,1990 CE,2000 CE,#2baf5f,green,Indo-Iranian
+E032,Pastoral nomads,SOUTHERN AFRICA,pastoralist,,1110,1600,1110 CE,1600 CE,#1863b8,blue,Niger-Congo
+E032,Pastoral nomads,SOUTHERN AFRICA,pastoralist,,1600,1760,1600 CE,1760 CE,#1b73c0,blue,Niger-Congo
+E032,Pastoral nomads,SOUTHERN AFRICA,pastoralist,,1760,1780,1760 CE,1780 CE,#3988c8,blue,Niger-Congo
+E032,Pastoral nomads,SOUTHERN AFRICA,pastoralist,,1780,1810,1780 CE,1810 CE,#036ab5,blue,Niger-Congo
+E032,Pastoral nomads,SOUTHERN AFRICA,pastoralist,,1810,1830,1810 CE,1830 CE,#46bac8,cyan,Niger-Congo
+E032,Pastoral nomads,SOUTHERN AFRICA,pastoralist,,1840,1880,1840 CE,1880 CE,#34969e,cyan,Niger-Congo
+E032,Pastoral nomads,SOUTHERN AFRICA,pastoralist,,1910,1930,1910 CE,1930 CE,#fefd06,olive,Romance
+E032,Pastoral nomads,SOUTHERN AFRICA,pastoralist,,1930,1940,1930 CE,1940 CE,#b2b418,olive,Greek
+E032,Pastoral nomads,SOUTHERN AFRICA,pastoralist,,1940,1960,1940 CE,1960 CE,#f8ff17,olive,Romance
+E032,Pastoral nomads,SOUTHERN AFRICA,pastoralist,NIGER,1970,2000,1970 CE,2000 CE,#30b46e,green,Indo-Iranian
+E033,Cereal farmers and herders,SOUTHERN AFRICA,farmer,,880,900,880 CE,900 CE,#a7a7a4,darkgray,
+E033,Cereal farmers and herders,SOUTHERN AFRICA,farmer,,920,930,920 CE,930 CE,#bfbfbf,midgray,
+E033,Cereal farmers and herders,SOUTHERN AFRICA,farmer,HAUSA KINGDOMS,930,1550,930 CE,1550 CE,#e7f7f6,white,
+E033,Cereal farmers and herders,SOUTHERN AFRICA,farmer,,1580,1630,1580 CE,1630 CE,#bddadd,cyan,
+E033,Cereal farmers and herders,SOUTHERN AFRICA,farmer,HAUSA KINGDOMS,1660,1820,1660 CE,1820 CE,#e4fafa,white,
+E033,Cereal farmers and herders,SOUTHERN AFRICA,farmer,,1830,1860,1830 CE,1860 CE,#9fd9b7,green,Indo-Iranian
+E033,Cereal farmers and herders,SOUTHERN AFRICA,farmer,,1860,1890,1860 CE,1890 CE,#94d1a2,green,Indo-Iranian
+E033,Cereal farmers and herders,SOUTHERN AFRICA,farmer,,1900,1960,1900 CE,1960 CE,#f8fc0c,olive,Romance
+E033,Cereal farmers and herders,SOUTHERN AFRICA,farmer,,1960,2000,1960 CE,2000 CE,#17ae5b,green,Nilo-Saharan
+E034,Camel nomads,SOUTHERN AFRICA,pastoralist,,1240,1270,1240 CE,1270 CE,#09ad52,green,Nilo-Saharan
+E034,Camel nomads,SOUTHERN AFRICA,pastoralist,,1270,1580,1270 CE,1580 CE,#dffceb,green,
+E034,Camel nomads,SOUTHERN AFRICA,pastoralist,,1580,1710,1580 CE,1710 CE,#07ae52,green,Nilo-Saharan
+E034,Camel nomads,SOUTHERN AFRICA,pastoralist,,1710,1780,1710 CE,1780 CE,#defae9,green,
+E034,Camel nomads,SOUTHERN AFRICA,pastoralist,,1830,1840,1830 CE,1840 CE,#87ad93,green,
+E034,Camel nomads,SOUTHERN AFRICA,pastoralist,,1860,1910,1860 CE,1910 CE,#dffdeb,green,
+E034,Camel nomads,SOUTHERN AFRICA,pastoralist,,1920,1960,1920 CE,1960 CE,#fefd06,olive,Romance
+E034,Camel nomads,SOUTHERN AFRICA,pastoralist,,1960,2000,1960 CE,2000 CE,#05af4f,green,Nilo-Saharan
+E035,BORNU EMPIRE,NORTHERN AFRICA,state,[?],-3100,910,3100 BCE,910 CE,#f0f0ef,white,
+E035,BORNU EMPIRE,NORTHERN AFRICA,state,,920,1380,920 CE,1380 CE,#cae3d2,green,
+E035,BORNU EMPIRE,NORTHERN AFRICA,state,,1380,1540,1380 CE,1540 CE,#52b579,green,Indo-Iranian
+E035,BORNU EMPIRE,NORTHERN AFRICA,state,BORNU EMPIRE,1540,1810,1540 CE,1810 CE,#0fad6f,teal,Nilo-Saharan
+E035,BORNU EMPIRE,NORTHERN AFRICA,state,FR,1810,1900,1810 CE,1900 CE,#0fad6f,teal,Nilo-Saharan
+E035,BORNU EMPIRE,NORTHERN AFRICA,state,,1990,2000,1990 CE,2000 CE,#34a964,green,Indo-Iranian
+E036,Cereal farmers,NORTHERN AFRICA,farmer,West African chiefdoms,-3100,1240,3100 BCE,1240 CE,#f1f2f1,white,
+E036,Cereal farmers,NORTHERN AFRICA,farmer,,1250,1270,1250 CE,1270 CE,#26b366,green,Indo-Iranian
+E036,Cereal farmers,NORTHERN AFRICA,farmer,West African chiefdoms,1270,1730,1270 CE,1730 CE,#edf4f4,white,
+E036,Cereal farmers,NORTHERN AFRICA,farmer,NADAL SULTANATE,1730,1910,1730 CE,1910 CE,#edf4f4,white,
+E036,Cereal farmers,NORTHERN AFRICA,farmer,,1910,1960,1910 CE,1960 CE,#fcfc11,olive,Romance
+E036,Cereal farmers,NORTHERN AFRICA,farmer,,1960,2000,1960 CE,2000 CE,#03ac4e,green,Nilo-Saharan
+E037,Camel nomads,NORTHERN AFRICA,pastoralist,,1500,1890,1500 CE,1890 CE,#c1e5ef,cyan,
+E037,Camel nomads,NORTHERN AFRICA,pastoralist,,1910,1930,1910 CE,1930 CE,#c7d226,olive,Greek
+E037,Camel nomads,NORTHERN AFRICA,pastoralist,,1960,2000,1960 CE,2000 CE,#c1eaf0,cyan,
+E038,Camels nomads,NORTHERN AFRICA,pastoralist,,-3100,-1220,3100 BCE,1220 BCE,#ededed,lightgray,
+E038,Camels nomads,NORTHERN AFRICA,pastoralist,,-1210,-750,1210 BCE,750 BCE,#dfddde,lightgray,
+E038,Camels nomads,NORTHERN AFRICA,pastoralist,,-750,-550,750 BCE,550 BCE,#bcbcbc,midgray,
+E038,Camels nomads,NORTHERN AFRICA,pastoralist,,50,440,50 CE,440 CE,#12b9eb,cyan,Afroasiatic
+E038,Camels nomads,NORTHERN AFRICA,pastoralist,,450,960,450 CE,960 CE,#10b8f0,blue,Afroasiatic
+E038,Camels nomads,NORTHERN AFRICA,pastoralist,,1170,1190,1170 CE,1190 CE,#b2d8d9,cyan,
+E038,Camels nomads,NORTHERN AFRICA,pastoralist,,1230,1310,1230 CE,1310 CE,#c1edf9,cyan,
+E038,Camels nomads,NORTHERN AFRICA,pastoralist,,1310,1330,1310 CE,1330 CE,#98bac3,cyan,
+E038,Camels nomads,NORTHERN AFRICA,pastoralist,,1340,1410,1340 CE,1410 CE,#b9dde3,cyan,
+E038,Camels nomads,NORTHERN AFRICA,pastoralist,Camels nomads,1490,1730,1490 CE,1730 CE,#c0edf4,cyan,
+E038,Camels nomads,NORTHERN AFRICA,pastoralist,KANEM-BORNU [?],1730,1880,1730 CE,1880 CE,#c0edf4,cyan,
+E038,Camels nomads,NORTHERN AFRICA,pastoralist,,1880,1900,1880 CE,1900 CE,#a77083,pink,Austroasiatic
+E038,Camels nomads,NORTHERN AFRICA,pastoralist,,1960,1990,1960 CE,1990 CE,#c3eeec,cyan,
+E038,Camels nomads,NORTHERN AFRICA,pastoralist,,1990,2000,1990 CE,2000 CE,#98b7c2,blue,
+E039,KINGDOM OF AKSUM,NORTHERN AFRICA,state,KINGDOM OF AKSUM,-3100,1300,3100 BCE,1300 CE,#e8ebed,lightgray,
+E039,KINGDOM OF AKSUM,NORTHERN AFRICA,state,,1310,1970,1310 CE,1970 CE,#bcdfe6,cyan,
+E039,KINGDOM OF AKSUM,NORTHERN AFRICA,state,,1990,2000,1990 CE,2000 CE,#bfe8f5,cyan,
+E040,Cereal farmers,NORTHERN AFRICA,farmer,,-3100,1360,3100 BCE,1360 CE,#ecefef,lightgray,
+E040,Cereal farmers,NORTHERN AFRICA,farmer,ETHIOPIAN EMPIRE,1360,1890,1360 CE,1890 CE,#d3e2e1,lightgray,
+E040,Cereal farmers,NORTHERN AFRICA,farmer,ETHIOPIA,1890,1940,1890 CE,1940 CE,#d3e2e1,lightgray,
+E040,Cereal farmers,NORTHERN AFRICA,farmer,,1950,2000,1950 CE,2000 CE,#bae0df,cyan,
+E041,Camel farmers and herders,NORTHERN AFRICA,farmer,,-3100,1060,3100 BCE,1060 CE,#dde0dc,lightgray,
+E041,Camel farmers and herders,NORTHERN AFRICA,farmer,,1060,1110,1060 CE,1110 CE,#43b2d5,cyan,Afroasiatic
+E041,Camel farmers and herders,NORTHERN AFRICA,farmer,,1140,1150,1140 CE,1150 CE,#2ebeeb,cyan,Afroasiatic
+E041,Camel farmers and herders,NORTHERN AFRICA,farmer,,1150,1920,1150 CE,1920 CE,#b4e6f2,cyan,Afroasiatic
+E041,Camel farmers and herders,NORTHERN AFRICA,farmer,,1920,1960,1920 CE,1960 CE,#edeb6a,olive,Dravidian
+E041,Camel farmers and herders,NORTHERN AFRICA,farmer,,1980,2000,1980 CE,2000 CE,#33bade,cyan,Afroasiatic
+E042,ALAWI DYNASTY,NORTHERN AFRICA,state,MAURETANIA,-3100,-20,3100 BCE,20 BCE,#f1f2f0,white,
+E042,ALAWI DYNASTY,NORTHERN AFRICA,state,ROMAN EMPIRE,-20,530,20 BCE,530 CE,#f1f2f0,white,
+E042,ALAWI DYNASTY,NORTHERN AFRICA,state,EASTERN ROMAN EMPIRE,530,880,530 CE,880 CE,#f1f2f0,white,
+E042,ALAWI DYNASTY,NORTHERN AFRICA,state,ALMO-RAVIDS,1070,1160,1070 CE,1160 CE,#2cb4de,cyan,Afroasiatic
+E042,ALAWI DYNASTY,NORTHERN AFRICA,state,,1170,1190,1170 CE,1190 CE,#3cb2dd,blue,Afroasiatic
+E042,ALAWI DYNASTY,NORTHERN AFRICA,state,,1190,1200,1190 CE,1200 CE,#3496b9,blue,Niger-Congo
+E042,ALAWI DYNASTY,NORTHERN AFRICA,state,,1220,1290,1220 CE,1290 CE,#28c6fa,cyan,Afroasiatic
+E042,ALAWI DYNASTY,NORTHERN AFRICA,state,MARINID DYNASTY,1290,1420,1290 CE,1420 CE,#268cb7,blue,Japanese
+E042,ALAWI DYNASTY,NORTHERN AFRICA,state,,1420,1480,1420 CE,1480 CE,#2ac6f6,cyan,Afroasiatic
+E042,ALAWI DYNASTY,NORTHERN AFRICA,state,WATTASID DYNASTY,1480,1550,1480 CE,1550 CE,#2c99be,blue,Niger-Congo
+E042,ALAWI DYNASTY,NORTHERN AFRICA,state,SAADI SULTANATE,1550,1730,1550 CE,1730 CE,#2eb9e5,cyan,Afroasiatic
+E042,ALAWI DYNASTY,NORTHERN AFRICA,state,ALAWI DYNASTY,1730,1780,1730 CE,1780 CE,#2eb9e5,cyan,Afroasiatic
+E042,ALAWI DYNASTY,NORTHERN AFRICA,state,,1790,1840,1790 CE,1840 CE,#2fa9d5,blue,Afroasiatic
+E042,ALAWI DYNASTY,NORTHERN AFRICA,state,MOROCCO,1860,1920,1860 CE,1920 CE,#2ac3f3,cyan,Afroasiatic
+E042,ALAWI DYNASTY,NORTHERN AFRICA,state,,1960,2000,1960 CE,2000 CE,#2ca7ce,cyan,Afroasiatic
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,CARTHAGE,-550,-470,550 BCE,470 BCE,#4cd2fb,cyan,Afroasiatic
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,,-470,-440,470 BCE,440 BCE,#47bedf,cyan,Afroasiatic
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,,-410,-330,410 BCE,330 BCE,#51cce8,cyan,Afroasiatic
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,NUMIDIA,-330,-250,330 BCE,250 BCE,#4fd1f9,cyan,Afroasiatic
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,ROMAN EMPIRE,-250,-90,250 BCE,90 BCE,#65cb31,green,Afroasiatic
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,EGYPT,-90,-30,90 BCE,30 BCE,#65cb31,green,Afroasiatic
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,,-20,90,20 BCE,90 CE,#fdfc3b,olive,Romance
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,,90,110,90 CE,110 CE,#d8d32f,olive,Dravidian
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,ROMAN EMPIRE,150,400,150 CE,400 CE,#fcfb38,olive,Romance
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,VANDAL KINGDOM,440,510,440 CE,510 CE,#cae795,lime,Germanic
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,,510,530,510 CE,530 CE,#cfe8b8,lime,
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,,540,610,540 CE,610 CE,#d9dd56,olive,Romance
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,,620,710,620 CE,710 CE,#acb642,olive,Greek
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,,710,950,710 CE,950 CE,#2ab4dd,cyan,Afroasiatic
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,,950,1120,950 CE,1120 CE,#2c97b9,cyan,Niger-Congo
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,,1130,1160,1130 CE,1160 CE,#27c0f2,cyan,Afroasiatic
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,,1180,1190,1180 CE,1190 CE,#2fa5cf,blue,Niger-Congo
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,,1200,1220,1200 CE,1220 CE,#338ebd,blue,Niger-Congo
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,,1220,1250,1220 CE,1250 CE,#2fc4f1,cyan,Afroasiatic
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,,1250,1530,1250 CE,1530 CE,#239ec7,blue,Afroasiatic
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,OTTOMAN EMPIRE,1530,1650,1530 CE,1650 CE,#ef80b1,pink,Turkic
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,,1650,1730,1650 CE,1730 CE,#d5719c,pink,Turkic
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,,1730,1770,1730 CE,1770 CE,#b4557f,pink,Austroasiatic
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,N. AFRICA (FR.),1770,1840,1770 CE,1840 CE,#f67eb0,pink,Turkic
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,,1880,1900,1880 CE,1900 CE,#b6b61b,olive,Greek
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,,1950,1970,1950 CE,1970 CE,#e8eb1a,olive,Romance
+E043,OTTOMAN EMPIRE,NORTHERN AFRICA,state,,1980,2000,1980 CE,2000 CE,#36a6d2,blue,Niger-Congo
+E044,Camel nomads,NORTHERN AFRICA,pastoralist,,1910,1950,1910 CE,1950 CE,#eae81d,olive,Romance
+E044,Camel nomads,NORTHERN AFRICA,pastoralist,,1950,1970,1950 CE,1970 CE,#fbfb0b,olive,Romance
+E044,Camel nomads,NORTHERN AFRICA,pastoralist,,1990,2000,1990 CE,2000 CE,#3ba1c5,blue,Niger-Congo
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,,-3100,-600,3100 BCE,600 BCE,#e8e8e8,lightgray,
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,CARTHAGE,-600,-200,600 BCE,200 BCE,#4ccff9,cyan,Afroasiatic
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,,-200,-170,200 BCE,170 BCE,#cef0fb,cyan,
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,,-160,-130,160 BCE,130 BCE,#c2e5e4,cyan,
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,,-120,-40,120 BCE,40 BCE,#edeccb,olive,
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,ROMAN EMPIRE,-40,470,40 BCE,470 CE,#fbfc35,olive,Romance
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,,470,510,470 CE,510 CE,#9dca70,lime,Indo-Iranian
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,EASTERN ROMAN EMPIRE,520,580,520 CE,580 CE,#c4d551,olive,Germanic
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,,610,670,610 CE,670 CE,#bbbc38,olive,Greek
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,UMAYYAD CALIPHATE,670,750,670 CE,750 CE,#2abdeb,cyan,Afroasiatic
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,ABBASID CALIPHATE,750,940,750 CE,940 CE,#2abdeb,cyan,Afroasiatic
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,FATIMID CALIPH[ATE],940,1010,940 CE,1010 CE,#3897bd,blue,Niger-Congo
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,,1020,1050,1020 CE,1050 CE,#28c7f4,cyan,Afroasiatic
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,,1050,1070,1050 CE,1070 CE,#c3f0fc,cyan,
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,ALMOHADS,1070,1130,1070 CE,1130 CE,#95adb5,blue,
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,,1150,1170,1150 CE,1170 CE,#259bc8,blue,Afroasiatic
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,,1170,1190,1170 CE,1190 CE,#228fae,cyan,Japanese
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,,1190,1210,1190 CE,1210 CE,#32a6c4,cyan,Niger-Congo
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,,1230,1410,1230 CE,1410 CE,#caf2fb,cyan,
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,,1410,1450,1410 CE,1450 CE,#2ec6f8,cyan,Afroasiatic
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,,1460,1500,1460 CE,1500 CE,#269cbc,cyan,Niger-Congo
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,,1500,1550,1500 CE,1550 CE,#31c5e7,cyan,Afroasiatic
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,,1550,1580,1550 CE,1580 CE,#a796c5,purple,
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,MAMLUK SULTANATE,1580,1730,1580 CE,1730 CE,#fa80b3,pink,Turkic
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,OTTOMAN EMPIRE,1730,1890,1730 CE,1890 CE,#fa80b3,pink,Turkic
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,EGYPT,1890,1920,1890 CE,1920 CE,#cfca24,olive,Amerindian
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,,1920,1940,1920 CE,1940 CE,#bcb524,olive,Greek
+E045,Pastoral nomads,NORTHERN AFRICA,pastoralist,,1960,2000,1960 CE,2000 CE,#249fbe,cyan,
+E046,Camel nomads,NORTHERN AFRICA,pastoralist,ACHOMENID[?],-500,-460,500 BCE,460 BCE,#c6ede9,teal,
+E046,Camel nomads,NORTHERN AFRICA,pastoralist,,-450,-430,450 BCE,430 BCE,#e7ede9,lightgray,
+E046,Camel nomads,NORTHERN AFRICA,pastoralist,,-430,-410,430 BCE,410 BCE,#caeee7,teal,
+E046,Camel nomads,NORTHERN AFRICA,pastoralist,ROMAN EMPIRE,-400,-80,400 BCE,80 BCE,#f6f4e7,white,
+E046,Camel nomads,NORTHERN AFRICA,pastoralist,,-80,-40,80 BCE,40 BCE,#f1f0a7,olive,Dravidian
+E046,Camel nomads,NORTHERN AFRICA,pastoralist,,-20,100,20 BCE,100 CE,#f9f56f,olive,Romance
+E046,Camel nomads,NORTHERN AFRICA,pastoralist,,100,280,100 CE,280 CE,#f6f37b,olive,Romance
+E046,Camel nomads,NORTHERN AFRICA,pastoralist,,290,300,290 CE,300 CE,#f3efa1,olive,Dravidian
+E046,Camel nomads,NORTHERN AFRICA,pastoralist,,330,350,330 CE,350 CE,#f3f3af,olive,Dravidian
+E046,Camel nomads,NORTHERN AFRICA,pastoralist,,350,420,350 CE,420 CE,#f7f56e,olive,Romance
+E046,Camel nomads,NORTHERN AFRICA,pastoralist,,430,550,430 CE,550 CE,#f7f27c,olive,Romance
+E046,Camel nomads,NORTHERN AFRICA,pastoralist,,560,590,560 CE,590 CE,#f5f0db,yellow,
+E046,Camel nomads,NORTHERN AFRICA,pastoralist,,590,610,590 CE,610 CE,#eeedc0,olive,
+E046,Camel nomads,NORTHERN AFRICA,pastoralist,Camels nomads,630,1550,630 CE,1550 CE,#eaeff0,white,
+E046,Camel nomads,NORTHERN AFRICA,pastoralist,,1590,1610,1590 CE,1610 CE,#f2d8dc,red,
+E046,Camel nomads,NORTHERN AFRICA,pastoralist,,1620,1660,1620 CE,1660 CE,#eeefed,lightgray,
+E046,Camel nomads,NORTHERN AFRICA,pastoralist,IT,1660,1770,1660 CE,1770 CE,#f4cedc,pink,
+E046,Camel nomads,NORTHERN AFRICA,pastoralist,,1790,1810,1790 CE,1810 CE,#f4ceda,pink,
+E046,Camel nomads,NORTHERN AFRICA,pastoralist,,1830,1850,1830 CE,1850 CE,#f9b3c7,pink,Turkic
+E046,Camel nomads,NORTHERN AFRICA,pastoralist,,1860,1880,1860 CE,1880 CE,#ee85b8,pink,Turkic
+E046,Camel nomads,NORTHERN AFRICA,pastoralist,,1890,1900,1890 CE,1900 CE,#e477a5,pink,Turkic
+E047,Populations,NORTHERN AFRICA,other,,1500,1880,1500 CE,1880 CE,#c0c0bf,midgray,
+E047,Populations,NORTHERN AFRICA,other,,1910,1940,1910 CE,1940 CE,#99f33e,lime,Germanic
+E047,Populations,NORTHERN AFRICA,other,,1970,2000,1970 CE,2000 CE,#2fc4ed,cyan,Afroasiatic
+E048,Tropical forest hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,,830,930,830 CE,930 CE,#adb0b0,darkgray,
+E048,Tropical forest hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,,960,980,960 CE,980 CE,#c9cccb,midgray,
+E048,Tropical forest hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,,980,1020,980 CE,1020 CE,#a1a3a3,darkgray,
+E048,Tropical forest hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,,1020,1230,1020 CE,1230 CE,#d1d3d5,lightgray,
+E048,Tropical forest hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,,1270,1290,1270 CE,1290 CE,#d5d0d4,lightgray,
+E048,Tropical forest hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,,1290,1360,1290 CE,1360 CE,#adadb1,darkgray,
+E048,Tropical forest hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,,1370,1500,1370 CE,1500 CE,#d0d3d6,lightgray,
+E048,Tropical forest hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,,1500,1650,1500 CE,1650 CE,#c1bfbe,midgray,
+E048,Tropical forest hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,African chiefdoms,1650,1820,1650 CE,1820 CE,#4997b0,cyan,Niger-Congo
+E048,Tropical forest hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,,1820,1880,1820 CE,1880 CE,#59b7d1,cyan,Afroasiatic
+E048,Tropical forest hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,,1890,1920,1890 CE,1920 CE,#439b72,green,Indo-Iranian
+E048,Tropical forest hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,,1920,1940,1920 CE,1940 CE,#96fb2d,lime,Germanic
+E048,Tropical forest hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,,1940,1960,1940 CE,1960 CE,#7cd138,lime,Koreanic
+E048,Tropical forest hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,,1970,1980,1970 CE,1980 CE,#28c6f9,cyan,Afroasiatic
+E048,Tropical forest hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,,1980,2000,1980 CE,2000 CE,#3199c7,blue,Niger-Congo
+E049,Cereal farmers,NORTHERN AFRICA,farmer,,-3100,-1500,3100 BCE,1500 BCE,#eeeeed,lightgray,
+E049,Cereal farmers,NORTHERN AFRICA,farmer,,-1500,0,1500 BCE,0 CE,#e3b190,orange,Afroasiatic
+E049,Cereal farmers,NORTHERN AFRICA,farmer,,0,350,0 CE,350 CE,#f1af89,orange,Afroasiatic
+E049,Cereal farmers,NORTHERN AFRICA,farmer,,450,510,450 CE,510 CE,#d4d2c5,lightgray,
+E049,Cereal farmers,NORTHERN AFRICA,farmer,,550,1500,550 CE,1500 CE,#c05815,orange,Afroasiatic
+E049,Cereal farmers,NORTHERN AFRICA,farmer,,1510,1830,1510 CE,1830 CE,#30c3ee,cyan,Afroasiatic
+E049,Cereal farmers,NORTHERN AFRICA,farmer,,1830,1890,1830 CE,1890 CE,#f681b7,pink,Turkic
+E049,Cereal farmers,NORTHERN AFRICA,farmer,,1900,1960,1900 CE,1960 CE,#98f73e,lime,Germanic
+E049,Cereal farmers,NORTHERN AFRICA,farmer,,1970,2000,1970 CE,2000 CE,#30c2f1,cyan,Afroasiatic
+E050,KUSH,NORTHERN AFRICA,other,,-3100,-2180,3100 BCE,2180 BCE,#d19b9b,red,Afroasiatic
+E050,KUSH,NORTHERN AFRICA,other,,-2180,-2030,2180 BCE,2030 BCE,#d9dbd8,lightgray,
+E050,KUSH,NORTHERN AFRICA,other,,-2030,-1460,2030 BCE,1460 BCE,#cd9997,red,Afroasiatic
+E050,KUSH,NORTHERN AFRICA,other,,-1460,-1390,1460 BCE,1390 BCE,#a54e51,red,Austroasiatic
+E050,KUSH,NORTHERN AFRICA,other,,-1390,-1360,1390 BCE,1360 BCE,#8d3f42,red,
+E050,KUSH,NORTHERN AFRICA,other,,-1330,-1310,1330 BCE,1310 BCE,#dd8483,red,Ancient languages
+E050,KUSH,NORTHERN AFRICA,other,,-1300,-1260,1300 BCE,1260 BCE,#a95759,red,Austroasiatic
+E050,KUSH,NORTHERN AFRICA,other,,-1240,-1200,1240 BCE,1200 BCE,#b86367,red,Austroasiatic
+E050,KUSH,NORTHERN AFRICA,other,KUSH,-1100,-420,1100 BCE,420 BCE,#efae82,orange,Afroasiatic
+E050,KUSH,NORTHERN AFRICA,other,KUSH (NAPATAN PERIOD),-420,-20,420 BCE,20 BCE,#efae82,orange,Afroasiatic
+E050,KUSH,NORTHERN AFRICA,other,(MEROITIC PERIOD),-20,350,20 BCE,350 CE,#efae82,orange,Afroasiatic
+E050,KUSH,NORTHERN AFRICA,other,,400,1520,400 CE,1520 CE,#b95b15,orange,Afroasiatic
+E050,KUSH,NORTHERN AFRICA,other,FUNJ SULTANATE,1520,1830,1520 CE,1830 CE,#ace7fa,cyan,Afroasiatic
+E050,KUSH,NORTHERN AFRICA,other,,1830,1890,1830 CE,1890 CE,#f27eb0,pink,Turkic
+E050,KUSH,NORTHERN AFRICA,other,,1900,1930,1900 CE,1930 CE,#98fa3c,lime,Germanic
+E050,KUSH,NORTHERN AFRICA,other,,1930,1960,1930 CE,1960 CE,#3bc288,green,Indo-Iranian
+E050,KUSH,NORTHERN AFRICA,other,,1960,2000,1960 CE,2000 CE,#30b4e3,blue,Afroasiatic
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,Napata,-3100,-3090,3100 BCE,3090 BCE,#e7a4a6,red,Ancient languages
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,EGYPT (1st dynasty),-3090,-2910,3090 BCE,2910 BCE,#e7a4a6,red,Ancient languages
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,EGYPT (2nd dynasty),-2910,-2670,2910 BCE,2670 BCE,#e7a4a6,red,Ancient languages
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,EGYPTIAN OLD KINGDOM,-2670,-2270,2670 BCE,2270 BCE,#e7a4a6,red,Ancient languages
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,EGYPTIAN MIDDLE KINGDOM,-2270,-1600,2270 BCE,1600 BCE,#e7a4a6,red,Ancient languages
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,,-1600,-1550,1600 BCE,1550 BCE,#a5b4c6,blue,
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,EGYPTIAN NEW KINGDOM (18th dynasty),-1550,-1050,1550 BCE,1050 BCE,#f7999a,red,Ancient languages
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,,-1040,-960,1040 BCE,960 BCE,#e5928f,red,Ancient languages
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,EGYPT (21st),-960,-790,960 BCE,790 BCE,#eda2a0,red,Ancient languages
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,EGYPT (22nd),-790,-620,790 BCE,620 BCE,#eda2a0,red,Ancient languages
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,KUSH (25th),-620,-520,620 BCE,520 BCE,#dc8d8e,red,Ancient languages
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,,-520,-490,520 BCE,490 BCE,#75f1d2,teal,Iranic
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,EGYPT (26th),-490,-400,490 BCE,400 BCE,#7fdfcc,teal,Ancient languages
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,ACHAIMENID EMPIRE,-400,-340,400 BCE,340 BCE,#dd9393,red,Ancient languages
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,,-330,-300,330 BCE,300 BCE,#c1c642,olive,Greek
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,300s,-300,-150,300 BCE,150 BCE,#bbbd28,olive,Greek
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,PTOLEMAIC KINGDOM,-150,-90,150 BCE,90 BCE,#c4c53f,olive,Greek
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,,-90,-30,90 BCE,30 BCE,#b1b206,olive,Greek
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,ROMAN EMPIRE,-30,200,30 BCE,200 CE,#eeec3e,olive,Romance
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,,210,270,210 CE,270 CE,#fdfe32,olive,Romance
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,,280,310,280 CE,310 CE,#fbfb35,olive,Romance
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,EASTERN ROMAN EMPIRE,320,600,320 CE,600 CE,#dedc45,olive,Romance
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,UMAYYAD CALIPHATE,650,900,650 CE,900 CE,#31b7e2,cyan,Afroasiatic
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,ABBASID CALIPHATE,900,1050,900 CE,1050 CE,#31b7e2,cyan,Afroasiatic
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,FATIMID CALIPHATE,1050,1100,1050 CE,1100 CE,#31b7e2,cyan,Afroasiatic
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,AYYUBIDS,1100,1210,1100 CE,1210 CE,#31b7e2,cyan,Afroasiatic
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,MAMLUK SULTANATE,1210,1520,1210 CE,1520 CE,#31b7e2,cyan,Afroasiatic
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,,1520,1630,1520 CE,1630 CE,#fb80b4,pink,Turkic
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,OTTOMAN EMPIRE,1630,1890,1630 CE,1890 CE,#e87dab,pink,Turkic
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,EGYPT,1890,1930,1890 CE,1930 CE,#9df64c,lime,Germanic
+E052,EGYPTIAN NEW KINGDOM,NORTHERN AFRICA,state,,1950,2000,1950 CE,2000 CE,#33c0ec,cyan,Afroasiatic
+E053,Camel nomads,NORTHERN AFRICA,pastoralist,,-1500,-1070,1500 BCE,1070 BCE,#f69da0,red,Ancient languages
+E053,Camel nomads,NORTHERN AFRICA,pastoralist,,1830,1890,1830 CE,1890 CE,#f782af,pink,Turkic
+E053,Camel nomads,NORTHERN AFRICA,pastoralist,,1890,1930,1890 CE,1930 CE,#9bfa3a,lime,Germanic
+E053,Camel nomads,NORTHERN AFRICA,pastoralist,,1950,1990,1950 CE,1990 CE,#29c0f0,cyan,Afroasiatic
+E054,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,0,1020,0 CE,1020 CE,#e2e3e1,lightgray,
+E054,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,ICELANDIC COMMONWEALTH,1030,1330,1030 CE,1330 CE,#c9e2bc,green,
+E054,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,1360,1370,1360 CE,1370 CE,#95c663,lime,Indo-Iranian
+E054,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,1370,1390,1370 CE,1390 CE,#82b750,lime,Indo-Iranian
+E054,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,1400,1590,1400 CE,1590 CE,#b4fe66,lime,Germanic
+E054,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,1630,1710,1630 CE,1710 CE,#b4f56b,lime,Germanic
+E054,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,1750,2000,1750 CE,2000 CE,#b2f267,lime,Germanic
+E055,KALMAR UNION,NORTHERN AFRICA,state,,-1140,-410,1140 BCE,410 BCE,#d6d5d5,lightgray,
+E055,KALMAR UNION,NORTHERN AFRICA,state,Scythians,-410,420,410 BCE,420 CE,#c1c1c0,midgray,
+E055,KALMAR UNION,NORTHERN AFRICA,state,Scandinavians,420,1000,420 CE,1000 CE,#c1c1c0,midgray,
+E055,KALMAR UNION,NORTHERN AFRICA,state,,1000,1030,1000 CE,1030 CE,#bfdcb7,green,
+E055,KALMAR UNION,NORTHERN AFRICA,state,,1030,1050,1030 CE,1050 CE,#c0df9b,lime,Indo-Iranian
+E055,KALMAR UNION,NORTHERN AFRICA,state,,1050,1100,1050 CE,1100 CE,#bfdec0,green,
+E055,KALMAR UNION,NORTHERN AFRICA,state,,1120,1140,1120 CE,1140 CE,#bacfa9,lime,
+E055,KALMAR UNION,NORTHERN AFRICA,state,KALMAR UNION,1160,1340,1160 CE,1340 CE,#c1dbb8,green,
+E055,KALMAR UNION,NORTHERN AFRICA,state,DENMARK-NORWAY,1350,1700,1350 CE,1700 CE,#b3fa68,lime,Germanic
+E055,KALMAR UNION,NORTHERN AFRICA,state,,1710,1750,1710 CE,1750 CE,#a3df68,lime,Germanic
+E055,KALMAR UNION,NORTHERN AFRICA,state,,1750,1820,1750 CE,1820 CE,#b4fc69,lime,Germanic
+E055,KALMAR UNION,NORTHERN AFRICA,state,,1860,1880,1860 CE,1880 CE,#c0f589,lime,Germanic
+E055,KALMAR UNION,NORTHERN AFRICA,state,,1890,1940,1890 CE,1940 CE,#b5fe66,lime,Germanic
+E055,KALMAR UNION,NORTHERN AFRICA,state,,1950,2000,1950 CE,2000 CE,#ade669,lime,Germanic
+E056,Finno-Ugrian taiga hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,Germans,-3100,420,3100 BCE,420 CE,#edeeeb,lightgray,
+E056,Finno-Ugrian taiga hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,Scandinavians,420,770,420 CE,770 CE,#edeeeb,lightgray,
+E056,Finno-Ugrian taiga hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,DENMARK,770,1130,770 CE,1130 CE,#edeeeb,lightgray,
+E056,Finno-Ugrian taiga hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,SWEDEN,1130,1330,1130 CE,1330 CE,#edeeeb,lightgray,
+E056,Finno-Ugrian taiga hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,,1330,1420,1330 CE,1420 CE,#adf064,lime,Germanic
+E056,Finno-Ugrian taiga hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,,1420,1490,1420 CE,1490 CE,#97d255,lime,Germanic
+E056,Finno-Ugrian taiga hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,,1490,1810,1490 CE,1810 CE,#b1f464,lime,Germanic
+E056,Finno-Ugrian taiga hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,,1810,1920,1810 CE,1920 CE,#d3a014,yellow,Greek
+E056,Finno-Ugrian taiga hunter-gatherers,NORTHERN AFRICA,hunter-gatherer,NORWAY,1920,2000,1920 CE,2000 CE,#bb1820,red,Amerindian
+E057,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,-3100,0,3100 BCE,0 CE,#ededed,lightgray,
+E057,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,0,1230,0 CE,1230 CE,#bfbfbf,midgray,
+E057,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,1250,1260,1250 CE,1260 CE,#9edd5b,lime,Germanic
+E057,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,1280,1330,1280 CE,1330 CE,#bcf495,green,Germanic
+E057,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,1330,1590,1330 CE,1590 CE,#adf45f,lime,Germanic
+E057,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,1600,1740,1600 CE,1740 CE,#bdfb6d,lime,Germanic
+E057,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,1740,1810,1740 CE,1810 CE,#c4e34f,lime,Germanic
+E057,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,1810,1920,1810 CE,1920 CE,#fe9900,yellow,Slavic
+E057,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,1920,2000,1920 CE,2000 CE,#c92420,red,Kartvelian
+E058,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,-1500,880,1500 BCE,880 CE,#babab9,midgray,
+E058,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,880,910,880 CE,910 CE,#f2980f,yellow,Slavic
+E058,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,930,1020,930 CE,1020 CE,#e19322,yellow,Slavic
+E058,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,1020,1130,1020 CE,1130 CE,#f3980b,yellow,Slavic
+E058,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,1140,1180,1140 CE,1180 CE,#cc7f20,yellow,Austroasiatic
+E058,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,NOVGOROD,1190,1250,1190 CE,1250 CE,#f7970c,yellow,Slavic
+E058,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,MOSCOW,1260,1530,1260 CE,1530 CE,#e58513,yellow,Slavic
+E058,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,1530,1780,1530 CE,1780 CE,#f49b0a,yellow,Slavic
+E058,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,1820,1840,1820 CE,1840 CE,#be7510,yellow,Amerindian
+E058,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,FINLAND,1850,1970,1850 CE,1970 CE,#f0960e,yellow,Slavic
+E058,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,1970,1990,1970 CE,1990 CE,#bb7212,yellow,Austroasiatic
+E058,Bronze Age cultures,NORTHERN AFRICA,archaeological culture,,1990,2000,1990 CE,2000 CE,#df8909,yellow,Slavic
+E059,Cimmerians (pastoralists),EUROPE,pastoralist,,-3100,740,3100 BCE,740 CE,#e8e8e8,lightgray,
+E059,Cimmerians (pastoralists),EUROPE,pastoralist,,740,970,740 CE,970 CE,#fa5094,pink,Turkic
+E059,Cimmerians (pastoralists),EUROPE,pastoralist,,970,1000,970 CE,1000 CE,#d3d5d7,lightgray,
+E059,Cimmerians (pastoralists),EUROPE,pastoralist,,1000,1030,1000 CE,1030 CE,#c9c9c6,midgray,
+E059,Cimmerians (pastoralists),EUROPE,pastoralist,,1040,1240,1040 CE,1240 CE,#f9ead3,yellow,
+E059,Cimmerians (pastoralists),EUROPE,pastoralist,Cumania,1260,1470,1260 CE,1470 CE,#f10908,red,Mongolic
+E059,Cimmerians (pastoralists),EUROPE,pastoralist,,1520,1560,1520 CE,1560 CE,#c0a387,orange,Austroasiatic
+E059,Cimmerians (pastoralists),EUROPE,pastoralist,,1570,1590,1570 CE,1590 CE,#e2961b,yellow,Slavic
+E059,Cimmerians (pastoralists),EUROPE,pastoralist,,1600,1620,1600 CE,1620 CE,#f5970b,yellow,Slavic
+E059,Cimmerians (pastoralists),EUROPE,pastoralist,,1620,1640,1620 CE,1640 CE,#df9a20,yellow,Slavic
+E059,Cimmerians (pastoralists),EUROPE,pastoralist,,1640,1700,1640 CE,1700 CE,#df9016,yellow,Slavic
+E059,Cimmerians (pastoralists),EUROPE,pastoralist,,1700,1780,1700 CE,1780 CE,#ec9619,yellow,Slavic
+E059,Cimmerians (pastoralists),EUROPE,pastoralist,,1820,1900,1820 CE,1900 CE,#df9525,yellow,Slavic
+E059,Cimmerians (pastoralists),EUROPE,pastoralist,,1900,2000,1900 CE,2000 CE,#f1930d,yellow,Slavic
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,,-320,-290,320 BCE,290 BCE,#d5d2b5,yellow,
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,Scythians,-290,10,290 BCE,10 CE,#f0f0c3,olive,
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,,30,80,30 CE,80 CE,#e4e78c,olive,Romance
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,ROMAN EMPIRE,80,130,80 CE,130 CE,#eff1c5,olive,
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,,150,250,150 CE,250 CE,#efefac,olive,Dravidian
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,,260,400,260 CE,400 CE,#eff0ca,olive,
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,,400,430,400 CE,430 CE,#e0bdc9,pink,
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,,460,570,460 CE,570 CE,#e5e6e5,lightgray,
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,,570,640,570 CE,640 CE,#e52677,pink,Turkic
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,KHAZAR KHAGANATE,640,740,640 CE,740 CE,#fa4b91,pink,Turkic
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,,740,850,740 CE,850 CE,#e9e5ea,lightgray,
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,,850,1030,850 CE,1030 CE,#c7bebb,midgray,
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,,1030,1050,1030 CE,1050 CE,#c6913c,yellow,Austroasiatic
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,,1050,1240,1050 CE,1240 CE,#fbeed3,yellow,
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,,1250,1370,1250 CE,1370 CE,#f50504,red,Mongolic
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,,1370,1390,1370 CE,1390 CE,#ab5e05,yellow,Indo-European
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,,1390,1430,1390 CE,1430 CE,#f9bd64,yellow,Dravidian
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,,1450,1460,1450 CE,1460 CE,#e89c7a,orange,Afroasiatic
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,,1460,1510,1460 CE,1510 CE,#edb270,orange,Slavic
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,,1510,1530,1510 CE,1530 CE,#f7c57c,yellow,Slavic
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,POLAND-LITHUANIA,1530,1600,1530 CE,1600 CE,#f08b7b,red,Ancient languages
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,,1600,1650,1600 CE,1650 CE,#ec8e6b,orange,Austroasiatic
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,,1650,1670,1650 CE,1670 CE,#ed8f47,orange,Slavic
+E060,Catacomb grave culture (pastoral farmers),EUROPE,farmer,POLISH-LITHUANIAN COMMONWEALTH,1670,2000,1670 CE,2000 CE,#f39512,yellow,Slavic
+E061,Late Neolithic Corded Ware cultures,EUROPE,archaeological culture,Urnfield cultures,-1500,-830,1500 BCE,830 BCE,#c0bdbd,midgray,
+E061,Late Neolithic Corded Ware cultures,EUROPE,archaeological culture,Hallstatt culture (Celts),-830,-200,830 BCE,200 BCE,#c0bdbd,midgray,
+E061,Late Neolithic Corded Ware cultures,EUROPE,archaeological culture,ROMAN EMPIRE,-200,410,200 BCE,410 CE,#c0bdbd,midgray,
+E061,Late Neolithic Corded Ware cultures,EUROPE,archaeological culture,AVAR KHAGANATE,410,1020,410 CE,1020 CE,#c0bdbd,midgray,
+E061,Late Neolithic Corded Ware cultures,EUROPE,archaeological culture,,1020,1060,1020 CE,1060 CE,#f99909,yellow,Slavic
+E061,Late Neolithic Corded Ware cultures,EUROPE,archaeological culture,,1060,1320,1060 CE,1320 CE,#cb7f14,yellow,Amerindian
+E061,Late Neolithic Corded Ware cultures,EUROPE,archaeological culture,,1340,1390,1340 CE,1390 CE,#a88433,yellow,Indo-European
+E061,Late Neolithic Corded Ware cultures,EUROPE,archaeological culture,,1390,1610,1390 CE,1610 CE,#f8c06b,yellow,Slavic
+E061,Late Neolithic Corded Ware cultures,EUROPE,archaeological culture,,1610,1640,1610 CE,1640 CE,#e0b474,yellow,Afroasiatic
+E061,Late Neolithic Corded Ware cultures,EUROPE,archaeological culture,,1680,1710,1680 CE,1710 CE,#af874c,yellow,Austroasiatic
+E061,Late Neolithic Corded Ware cultures,EUROPE,archaeological culture,,1720,1760,1720 CE,1760 CE,#dbb067,yellow,Slavic
+E061,Late Neolithic Corded Ware cultures,EUROPE,archaeological culture,,1770,1800,1770 CE,1800 CE,#edba6f,yellow,Slavic
+E061,Late Neolithic Corded Ware cultures,EUROPE,archaeological culture,,1800,2000,1800 CE,2000 CE,#fb9804,yellow,Slavic
+E062,Early Bronze Age Unetice culture,EUROPE,archaeological culture,Germans,-1500,660,1500 BCE,660 CE,#bebebd,midgray,
+E062,Early Bronze Age Unetice culture,EUROPE,archaeological culture,,660,690,660 CE,690 CE,#dc97b5,pink,Ancient languages
+E062,Early Bronze Age Unetice culture,EUROPE,archaeological culture,AVAR KHAGANATE,690,880,690 CE,880 CE,#d0bc89,yellow,Afroasiatic
+E062,Early Bronze Age Unetice culture,EUROPE,archaeological culture,Slavs,880,1050,880 CE,1050 CE,#d0bc89,yellow,Afroasiatic
+E062,Early Bronze Age Unetice culture,EUROPE,archaeological culture,KINGDOM OF POLAND,1050,1370,1050 CE,1370 CE,#d0bc89,yellow,Afroasiatic
+E062,Early Bronze Age Unetice culture,EUROPE,archaeological culture,,1370,1400,1370 CE,1400 CE,#ecc36e,yellow,Slavic
+E062,Early Bronze Age Unetice culture,EUROPE,archaeological culture,,1400,1480,1400 CE,1480 CE,#dbc96a,yellow,Slavic
+E062,Early Bronze Age Unetice culture,EUROPE,archaeological culture,,1480,1540,1480 CE,1540 CE,#f4bc72,yellow,Slavic
+E062,Early Bronze Age Unetice culture,EUROPE,archaeological culture,AUSTRIA,1550,1640,1550 CE,1640 CE,#d9cc65,yellow,Slavic
+E062,Early Bronze Age Unetice culture,EUROPE,archaeological culture,,1640,1700,1640 CE,1700 CE,#b5f258,lime,Germanic
+E062,Early Bronze Age Unetice culture,EUROPE,archaeological culture,,1700,1820,1700 CE,1820 CE,#c5de62,lime,Germanic
+E062,Early Bronze Age Unetice culture,EUROPE,archaeological culture,,1820,1860,1820 CE,1860 CE,#a4d747,lime,Germanic
+E062,Early Bronze Age Unetice culture,EUROPE,archaeological culture,,1860,1890,1860 CE,1890 CE,#aefa51,lime,Germanic
+E062,Early Bronze Age Unetice culture,EUROPE,archaeological culture,,1890,1920,1890 CE,1920 CE,#9fc541,lime,Greek
+E062,Early Bronze Age Unetice culture,EUROPE,archaeological culture,PRUSSIA,1920,2000,1920 CE,2000 CE,#eec36c,yellow,Slavic
+E063,Bronze Age cultures,EUROPE,archaeological culture,Bronze Age cultures (Early Bronze Age),-3100,-1500,3100 BCE,1500 BCE,#bfbfbf,midgray,
+E063,Bronze Age cultures,EUROPE,archaeological culture,,-1290,-1170,1290 BCE,1170 BCE,#d8d6d6,lightgray,
+E063,Bronze Age cultures,EUROPE,archaeological culture,,-1170,-1120,1170 BCE,1120 BCE,#eae9ea,lightgray,
+E063,Bronze Age cultures,EUROPE,archaeological culture,,-1120,-1080,1120 BCE,1080 BCE,#d0cecb,midgray,
+E063,Bronze Age cultures,EUROPE,archaeological culture,,-1050,-1020,1050 BCE,1020 BCE,#e0dfe0,lightgray,
+E063,Bronze Age cultures,EUROPE,archaeological culture,,-1020,-990,1020 BCE,990 BCE,#d0cecd,midgray,
+E063,Bronze Age cultures,EUROPE,archaeological culture,,-990,-450,990 BCE,450 BCE,#ececec,lightgray,
+E063,Bronze Age cultures,EUROPE,archaeological culture,Dacia,-450,110,450 BCE,110 CE,#bebebe,midgray,
+E063,Bronze Age cultures,EUROPE,archaeological culture,,110,150,110 CE,150 CE,#f8f955,olive,Romance
+E063,Bronze Age cultures,EUROPE,archaeological culture,,150,240,150 CE,240 CE,#e4e573,olive,Romance
+E063,Bronze Age cultures,EUROPE,archaeological culture,,240,280,240 CE,280 CE,#f5f753,olive,Romance
+E063,Bronze Age cultures,EUROPE,archaeological culture,ROMAN EMPIRE / Dacians,280,430,280 CE,430 CE,#f0f0ef,white,
+E063,Bronze Age cultures,EUROPE,archaeological culture,Dacians,470,500,470 CE,500 CE,#c0eca3,green,Ancient languages
+E063,Bronze Age cultures,EUROPE,archaeological culture,,510,530,510 CE,530 CE,#c8dcb9,lime,
+E063,Bronze Age cultures,EUROPE,archaeological culture,,530,570,530 CE,570 CE,#e7eae0,lightgray,
+E063,Bronze Age cultures,EUROPE,archaeological culture,AVAR KHAGANATE,610,840,610 CE,840 CE,#f55096,pink,Turkic
+E063,Bronze Age cultures,EUROPE,archaeological culture,,850,880,850 CE,880 CE,#e22f7a,pink,Turkic
+E063,Bronze Age cultures,EUROPE,archaeological culture,FIRST BULGARIAN EMPIRE,1000,1090,1000 CE,1090 CE,#c70924,red,Amerindian
+E063,Bronze Age cultures,EUROPE,archaeological culture,,1120,1140,1120 CE,1140 CE,#e8bdc4,red,
+E063,Bronze Age cultures,EUROPE,archaeological culture,,1150,1210,1150 CE,1210 CE,#e49ea3,red,Ancient languages
+E063,Bronze Age cultures,EUROPE,archaeological culture,,1210,1230,1210 CE,1230 CE,#e9bcc5,red,
+E063,Bronze Age cultures,EUROPE,archaeological culture,KINGDOM OF HUNGARY,1240,1330,1240 CE,1330 CE,#ca0621,red,Amerindian
+E063,Bronze Age cultures,EUROPE,archaeological culture,,1350,1370,1350 CE,1370 CE,#c12033,red,Amerindian
+E063,Bronze Age cultures,EUROPE,archaeological culture,,1460,1480,1460 CE,1480 CE,#cc0829,red,Amerindian
+E063,Bronze Age cultures,EUROPE,archaeological culture,,1490,1530,1490 CE,1530 CE,#ca0526,red,Amerindian
+E063,Bronze Age cultures,EUROPE,archaeological culture,AUSTRIA,1530,1700,1530 CE,1700 CE,#e688a3,pink,Ancient languages
+E063,Bronze Age cultures,EUROPE,archaeological culture,,1700,1810,1700 CE,1810 CE,#b8e762,lime,Germanic
+E063,Bronze Age cultures,EUROPE,archaeological culture,AUSTRIA-HUNGARY,1810,1870,1810 CE,1870 CE,#c2b07e,yellow,Afroasiatic
+E063,Bronze Age cultures,EUROPE,archaeological culture,,1870,1920,1870 CE,1920 CE,#bde35e,lime,Germanic
+E063,Bronze Age cultures,EUROPE,archaeological culture,,1920,1940,1920 CE,1940 CE,#f9fa63,olive,Romance
+E063,Bronze Age cultures,EUROPE,archaeological culture,,1940,2000,1940 CE,2000 CE,#e0c86d,yellow,Slavic
+E064,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,ROMAN EMPIRE,-1500,420,1500 BCE,420 CE,#bfbfbd,midgray,
+E064,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,Germans,420,600,420 CE,600 CE,#bfbfbd,midgray,
+E064,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,FRANKS,600,700,600 CE,700 CE,#bfbfbd,midgray,
+E064,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,,700,720,700 CE,720 CE,#1595eb,blue,Indo-European
+E064,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,,720,740,720 CE,740 CE,#3eb4f0,blue,Afroasiatic
+E064,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,,770,830,770 CE,830 CE,#52b3f0,blue,Afroasiatic
+E064,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,,830,1320,830 CE,1320 CE,#1793e4,blue,Indo-European
+E064,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,OTTOMAN EMPIRE,1320,1600,1320 CE,1600 CE,#88e583,green,Indo-Iranian
+E064,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,,1600,1650,1600 CE,1650 CE,#5cbe8b,green,Indo-Iranian
+E064,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,,1670,1700,1670 CE,1700 CE,#8be982,green,Ancient languages
+E064,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,,1710,1740,1710 CE,1740 CE,#9af64a,lime,Germanic
+E064,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,,1740,1760,1740 CE,1760 CE,#6ba92f,lime,Afroasiatic
+E064,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,,1780,1950,1780 CE,1950 CE,#a1f63d,lime,Germanic
+E064,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,,1950,1990,1950 CE,1990 CE,#8bcf34,lime,Koreanic
+E065,Urnfield cultures,EUROPE,archaeological culture,,-3100,-1500,3100 BCE,1500 BCE,#efefef,lightgray,
+E065,Urnfield cultures,EUROPE,archaeological culture,,-1500,-670,1500 BCE,670 BCE,#bfbebe,midgray,
+E065,Urnfield cultures,EUROPE,archaeological culture,,-640,-530,640 BCE,530 BCE,#9f9f9f,darkgray,
+E065,Urnfield cultures,EUROPE,archaeological culture,,-530,-10,530 BCE,10 BCE,#bfbebe,midgray,
+E065,Urnfield cultures,EUROPE,archaeological culture,,0,90,0 CE,90 CE,#f2f568,olive,Romance
+E065,Urnfield cultures,EUROPE,archaeological culture,,90,120,90 CE,120 CE,#dad44c,olive,Romance
+E065,Urnfield cultures,EUROPE,archaeological culture,,120,160,120 CE,160 CE,#f0ed59,olive,Romance
+E065,Urnfield cultures,EUROPE,archaeological culture,,160,220,160 CE,220 CE,#ddde4d,olive,Romance
+E065,Urnfield cultures,EUROPE,archaeological culture,,220,410,220 CE,410 CE,#faf94c,olive,Romance
+E065,Urnfield cultures,EUROPE,archaeological culture,,420,450,420 CE,450 CE,#a8a759,olive,Austroasiatic
+E065,Urnfield cultures,EUROPE,archaeological culture,,450,480,450 CE,480 CE,#d1da60,olive,Slavic
+E065,Urnfield cultures,EUROPE,archaeological culture,,500,510,500 CE,510 CE,#95e62f,lime,Germanic
+E065,Urnfield cultures,EUROPE,archaeological culture,,510,570,510 CE,570 CE,#66b925,lime,Afroasiatic
+E065,Urnfield cultures,EUROPE,archaeological culture,,580,640,580 CE,640 CE,#b45867,red,Austroasiatic
+E065,Urnfield cultures,EUROPE,archaeological culture,,660,680,660 CE,680 CE,#af283d,red,Austronesian
+E065,Urnfield cultures,EUROPE,archaeological culture,,680,760,680 CE,760 CE,#b85a70,red,Austroasiatic
+E065,Urnfield cultures,EUROPE,archaeological culture,,760,790,760 CE,790 CE,#b12a48,red,Austronesian
+E065,Urnfield cultures,EUROPE,archaeological culture,,790,810,790 CE,810 CE,#cbea91,lime,Germanic
+E065,Urnfield cultures,EUROPE,archaeological culture,,870,1830,870 CE,1830 CE,#a8f655,lime,Germanic
+E065,Urnfield cultures,EUROPE,archaeological culture,,1830,1870,1830 CE,1870 CE,#80c53f,lime,Koreanic
+E065,Urnfield cultures,EUROPE,archaeological culture,,1870,1890,1870 CE,1890 CE,#82c72e,lime,Koreanic
+E065,Urnfield cultures,EUROPE,archaeological culture,,1900,1970,1900 CE,1970 CE,#95de3e,lime,Germanic
+E065,Urnfield cultures,EUROPE,archaeological culture,,1970,2000,1970 CE,2000 CE,#75b735,lime,Koreanic
+E066,UNITED KINGDOM,EUROPE,state,,-2640,-2570,2640 BCE,2570 BCE,#e2e2e2,lightgray,
+E066,UNITED KINGDOM,EUROPE,state,,-2550,-2440,2550 BCE,2440 BCE,#e1e1e1,lightgray,
+E066,UNITED KINGDOM,EUROPE,state,,-2420,-2400,2420 BCE,2400 BCE,#dcdcda,lightgray,
+E066,UNITED KINGDOM,EUROPE,state,,-2400,-2330,2400 BCE,2330 BCE,#eceded,lightgray,
+E066,UNITED KINGDOM,EUROPE,state,,-2320,-2290,2320 BCE,2290 BCE,#dcdad9,lightgray,
+E066,UNITED KINGDOM,EUROPE,state,,-2290,-1500,2290 BCE,1500 BCE,#eeedec,lightgray,
+E066,UNITED KINGDOM,EUROPE,state,,-1500,0,1500 BCE,0 CE,#b9b6b7,midgray,
+E066,UNITED KINGDOM,EUROPE,state,,0,330,0 CE,330 CE,#cbc77f,olive,Afroasiatic
+E066,UNITED KINGDOM,EUROPE,state,,360,390,360 CE,390 CE,#bebbba,midgray,
+E066,UNITED KINGDOM,EUROPE,state,,460,790,460 CE,790 CE,#b0c898,lime,
+E066,UNITED KINGDOM,EUROPE,state,,790,830,790 CE,830 CE,#c4f781,lime,Germanic
+E066,UNITED KINGDOM,EUROPE,state,,830,930,830 CE,930 CE,#9adb4f,lime,Germanic
+E066,UNITED KINGDOM,EUROPE,state,,930,960,930 CE,960 CE,#88d140,lime,Greek
+E066,UNITED KINGDOM,EUROPE,state,,960,1480,960 CE,1480 CE,#a5fa4b,lime,Germanic
+E066,UNITED KINGDOM,EUROPE,state,,1490,1510,1490 CE,1510 CE,#98e43c,lime,Germanic
+E066,UNITED KINGDOM,EUROPE,state,,1530,1620,1530 CE,1620 CE,#a6f84e,lime,Germanic
+E066,UNITED KINGDOM,EUROPE,state,GREAT BRITAIN,1640,1830,1640 CE,1830 CE,#a8fb4c,lime,Germanic
+E066,UNITED KINGDOM,EUROPE,state,UNITED KINGDOM,1870,1950,1870 CE,1950 CE,#a4f14a,lime,Germanic
+E066,UNITED KINGDOM,EUROPE,state,,1960,1980,1960 CE,1980 CE,#87c449,lime,
+E066,UNITED KINGDOM,EUROPE,state,,1980,2000,1980 CE,2000 CE,#a5f256,lime,Germanic
+E068,ROMAN EMPIRE,EUROPE,state,,-1500,-100,1500 BCE,100 BCE,#bebfbe,midgray,
+E068,ROMAN EMPIRE,EUROPE,state,,-100,-30,100 BCE,30 BCE,#c4c1ad,yellow,
+E068,ROMAN EMPIRE,EUROPE,state,,-30,0,30 BCE,0 CE,#eae970,olive,Dravidian
+E068,ROMAN EMPIRE,EUROPE,state,ROMAN EMPIRE,0,300,0 CE,300 CE,#f4f757,olive,Romance
+E068,ROMAN EMPIRE,EUROPE,state,,310,480,310 CE,480 CE,#d9d882,olive,Slavic
+E068,ROMAN EMPIRE,EUROPE,state,,500,530,500 CE,530 CE,#bcd5a3,lime,
+E068,ROMAN EMPIRE,EUROPE,state,FRANKS,540,830,540 CE,830 CE,#c2e995,lime,Germanic
+E068,ROMAN EMPIRE,EUROPE,state,,850,960,850 CE,960 CE,#a3cd35,lime,Greek
+E068,ROMAN EMPIRE,EUROPE,state,,960,1560,960 CE,1560 CE,#a8fb4c,lime,Germanic
+E068,ROMAN EMPIRE,EUROPE,state,,1590,1800,1590 CE,1800 CE,#97eb33,lime,Germanic
+E068,ROMAN EMPIRE,EUROPE,state,,1800,2000,1800 CE,2000 CE,#87ea1d,lime,Germanic
+E069,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,,-1500,-50,1500 BCE,50 BCE,#bfbfbf,midgray,
+E069,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,,-50,0,50 BCE,0 CE,#fafb44,olive,Romance
+E069,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,,0,480,0 CE,480 CE,#fdfd33,olive,Romance
+E069,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,WESTERN ROMAN EMPIRE,480,550,480 CE,550 CE,#b3e179,lime,Germanic
+E069,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,VISIGOTHIC KINGDOM,550,740,550 CE,740 CE,#b3e179,lime,Germanic
+E069,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,,740,850,740 CE,850 CE,#b4e789,lime,Germanic
+E069,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,,850,940,850 CE,940 CE,#f8f90b,olive,Romance
+E069,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,EAST FRANCIA,940,1060,940 CE,1060 CE,#f1f427,olive,Romance
+E069,Bell Beaker cultures (Late Neolithic farmers),EUROPE,farmer,HOLY ROMAN EMPIRE,1060,2000,1060 CE,2000 CE,#fcfc0a,olive,Romance
+E070,Urnfield cultures,EUROPE,archaeological culture,,-3100,-400,3100 BCE,400 BCE,#c0c0c0,midgray,
+E070,Urnfield cultures,EUROPE,archaeological culture,Celtiberians,-400,-210,400 BCE,210 BCE,#89bec3,cyan,Niger-Congo
+E070,Urnfield cultures,EUROPE,archaeological culture,,-200,-160,200 BCE,160 BCE,#fafd39,olive,Romance
+E070,Urnfield cultures,EUROPE,archaeological culture,ROMAN REPUBLIC,-150,-50,150 BCE,50 BCE,#e5e65b,olive,Romance
+E070,Urnfield cultures,EUROPE,archaeological culture,,-50,170,50 BCE,170 CE,#fafc38,olive,Romance
+E070,Urnfield cultures,EUROPE,archaeological culture,,170,210,170 CE,210 CE,#e7ec55,olive,Romance
+E070,Urnfield cultures,EUROPE,archaeological culture,ROMAN EMPIRE,210,530,210 CE,530 CE,#f5f93b,olive,Romance
+E070,Urnfield cultures,EUROPE,archaeological culture,,530,560,530 CE,560 CE,#9afa34,lime,Germanic
+E070,Urnfield cultures,EUROPE,archaeological culture,VISIGOTHIC KINGDOM,560,720,560 CE,720 CE,#bdf579,lime,Germanic
+E070,Urnfield cultures,EUROPE,archaeological culture,,730,780,730 CE,780 CE,#57d87c,green,Indo-Iranian
+E070,Urnfield cultures,EUROPE,archaeological culture,,790,850,790 CE,850 CE,#86ceb1,teal,Indo-Iranian
+E070,Urnfield cultures,EUROPE,archaeological culture,,860,890,860 CE,890 CE,#88ed7e,green,Ancient languages
+E070,Urnfield cultures,EUROPE,archaeological culture,,890,930,890 CE,930 CE,#45caaa,teal,Indo-Iranian
+E070,Urnfield cultures,EUROPE,archaeological culture,CÓRDOBA,940,1060,940 CE,1060 CE,#71e092,green,Indo-Iranian
+E070,Urnfield cultures,EUROPE,archaeological culture,PORTUGAL,1060,1210,1060 CE,1210 CE,#8bd57e,green,Indo-Iranian
+E070,Urnfield cultures,EUROPE,archaeological culture,KINGDOM OF CASTILE,1220,1300,1220 CE,1300 CE,#71e298,green,Indo-Iranian
+E070,Urnfield cultures,EUROPE,archaeological culture,,1300,1350,1300 CE,1350 CE,#a7e669,lime,Germanic
+E070,Urnfield cultures,EUROPE,archaeological culture,,1360,1380,1360 CE,1380 CE,#a8e553,lime,Germanic
+E070,Urnfield cultures,EUROPE,archaeological culture,,1390,1410,1390 CE,1410 CE,#bbdb58,lime,Germanic
+E070,Urnfield cultures,EUROPE,archaeological culture,,1410,1440,1410 CE,1440 CE,#e4e353,olive,Romance
+E070,Urnfield cultures,EUROPE,archaeological culture,,1460,1480,1460 CE,1480 CE,#c2e469,lime,Germanic
+E070,Urnfield cultures,EUROPE,archaeological culture,,1500,1590,1500 CE,1590 CE,#f4f245,olive,Romance
+E070,Urnfield cultures,EUROPE,archaeological culture,,1600,1630,1600 CE,1630 CE,#eaeb32,olive,Romance
+E070,Urnfield cultures,EUROPE,archaeological culture,,1630,1670,1630 CE,1670 CE,#f2f05a,olive,Romance
+E070,Urnfield cultures,EUROPE,archaeological culture,SPAIN,1670,1920,1670 CE,1920 CE,#f6f63d,olive,Romance
+E070,Urnfield cultures,EUROPE,archaeological culture,ITALY,1920,2000,1920 CE,2000 CE,#f6f63d,olive,Romance
+E071,Bronze Age cultures,EUROPE,archaeological culture,,-3100,-690,3100 BCE,690 BCE,#bfbfbf,midgray,
+E071,Bronze Age cultures,EUROPE,archaeological culture,,-680,-520,680 BCE,520 BCE,#aeada7,darkgray,
+E071,Bronze Age cultures,EUROPE,archaeological culture,,-520,-160,520 BCE,160 BCE,#bebebc,midgray,
+E071,Bronze Age cultures,EUROPE,archaeological culture,ROMAN REPUBLIC,-160,0,160 BCE,0 CE,#cac774,olive,Afroasiatic
+E071,Bronze Age cultures,EUROPE,archaeological culture,EASTERN ROMAN EMPIRE,0,480,0 CE,480 CE,#fafa36,olive,Romance
+E071,Bronze Age cultures,EUROPE,archaeological culture,,490,510,490 CE,510 CE,#b1c63e,olive,Greek
+E071,Bronze Age cultures,EUROPE,archaeological culture,,510,530,510 CE,530 CE,#6cba24,lime,Afroasiatic
+E071,Bronze Age cultures,EUROPE,archaeological culture,,540,560,540 CE,560 CE,#ccf628,lime,Germanic
+E071,Bronze Age cultures,EUROPE,archaeological culture,,560,630,560 CE,630 CE,#fffd32,olive,Romance
+E071,Bronze Age cultures,EUROPE,archaeological culture,,640,660,640 CE,660 CE,#c7c439,olive,Greek
+E071,Bronze Age cultures,EUROPE,archaeological culture,,660,690,660 CE,690 CE,#babd2a,olive,Greek
+E071,Bronze Age cultures,EUROPE,archaeological culture,,690,730,690 CE,730 CE,#b0b10e,olive,Greek
+E071,Bronze Age cultures,EUROPE,archaeological culture,BYZANTINE EMPIRE,730,790,730 CE,790 CE,#c4c93f,olive,Greek
+E071,Bronze Age cultures,EUROPE,archaeological culture,,790,800,790 CE,800 CE,#adb61e,olive,Greek
+E071,Bronze Age cultures,EUROPE,archaeological culture,,800,840,800 CE,840 CE,#b5d56d,lime,Germanic
+E071,Bronze Age cultures,EUROPE,archaeological culture,,840,880,840 CE,880 CE,#b0e85c,lime,Germanic
+E071,Bronze Age cultures,EUROPE,archaeological culture,FIRST BULGARIAN EMPIRE,890,970,890 CE,970 CE,#b8c94b,olive,
+E071,Bronze Age cultures,EUROPE,archaeological culture,,990,1010,990 CE,1010 CE,#a7972c,yellow,Greek
+E071,Bronze Age cultures,EUROPE,archaeological culture,,1060,1110,1060 CE,1110 CE,#d4ba41,yellow,Dravidian
+E071,Bronze Age cultures,EUROPE,archaeological culture,,1110,1200,1110 CE,1200 CE,#a5421c,orange,Afroasiatic
+E071,Bronze Age cultures,EUROPE,archaeological culture,,1200,1220,1200 CE,1220 CE,#a04e31,orange,Indo-European
+E071,Bronze Age cultures,EUROPE,archaeological culture,,1220,1250,1220 CE,1250 CE,#b85f45,orange,Austroasiatic
+E071,Bronze Age cultures,EUROPE,archaeological culture,,1250,1350,1250 CE,1350 CE,#af4d33,orange,Afroasiatic
+E071,Bronze Age cultures,EUROPE,archaeological culture,,1350,1530,1350 CE,1530 CE,#a9421f,orange,Afroasiatic
+E071,Bronze Age cultures,EUROPE,archaeological culture,AUSTRIA,1530,1700,1530 CE,1700 CE,#d59b86,orange,Afroasiatic
+E071,Bronze Age cultures,EUROPE,archaeological culture,,1700,1740,1700 CE,1740 CE,#b0f25a,lime,Germanic
+E071,Bronze Age cultures,EUROPE,archaeological culture,,1740,1840,1740 CE,1840 CE,#a6db55,lime,Germanic
+E071,Bronze Age cultures,EUROPE,archaeological culture,,1850,1890,1850 CE,1890 CE,#aaf04a,lime,Germanic
+E071,Bronze Age cultures,EUROPE,archaeological culture,,1910,1940,1910 CE,1940 CE,#d5b652,yellow,Slavic
+E071,Bronze Age cultures,EUROPE,archaeological culture,,1940,1960,1940 CE,1960 CE,#c38732,yellow,Austroasiatic
+E071,Bronze Age cultures,EUROPE,archaeological culture,,1970,2000,1970 CE,2000 CE,#e5a148,yellow,Slavic
+E072,KINGDOM OF HUNGARY,EUROPE,state,,-3100,-160,3100 BCE,160 BCE,#bebebe,midgray,
+E072,KINGDOM OF HUNGARY,EUROPE,state,,-160,-20,160 BCE,20 BCE,#c9c772,olive,Afroasiatic
+E072,KINGDOM OF HUNGARY,EUROPE,state,,-20,100,20 BCE,100 CE,#fbfc37,olive,Romance
+E072,KINGDOM OF HUNGARY,EUROPE,state,,120,130,120 CE,130 CE,#f2ef6c,olive,Romance
+E072,KINGDOM OF HUNGARY,EUROPE,state,,140,630,140 CE,630 CE,#fafc34,olive,Romance
+E072,KINGDOM OF HUNGARY,EUROPE,state,,630,840,630 CE,840 CE,#b2b011,olive,Greek
+E072,KINGDOM OF HUNGARY,EUROPE,state,,840,960,840 CE,960 CE,#d7a841,yellow,Dravidian
+E072,KINGDOM OF HUNGARY,EUROPE,state,,970,1010,970 CE,1010 CE,#e85689,pink,Turkic
+E072,KINGDOM OF HUNGARY,EUROPE,state,,1030,1110,1030 CE,1110 CE,#b2b205,olive,Greek
+E072,KINGDOM OF HUNGARY,EUROPE,state,,1130,1140,1130 CE,1140 CE,#b39e18,yellow,Greek
+E072,KINGDOM OF HUNGARY,EUROPE,state,,1140,1170,1140 CE,1170 CE,#b52c24,red,Kartvelian
+E072,KINGDOM OF HUNGARY,EUROPE,state,,1180,1210,1180 CE,1210 CE,#b84f3e,red,Austroasiatic
+E072,KINGDOM OF HUNGARY,EUROPE,state,,1210,1240,1210 CE,1240 CE,#f29553,orange,Slavic
+E072,KINGDOM OF HUNGARY,EUROPE,state,,1240,1260,1240 CE,1260 CE,#bc4335,red,Afroasiatic
+E072,KINGDOM OF HUNGARY,EUROPE,state,,1260,1280,1260 CE,1280 CE,#b95b39,orange,Austroasiatic
+E072,KINGDOM OF HUNGARY,EUROPE,state,,1300,1330,1300 CE,1330 CE,#ab463d,red,Afroasiatic
+E072,KINGDOM OF HUNGARY,EUROPE,state,,1330,1390,1330 CE,1390 CE,#ee9f44,yellow,Slavic
+E072,KINGDOM OF HUNGARY,EUROPE,state,KINGDOM OF HUNGARY,1390,1500,1390 CE,1500 CE,#f97fb1,pink,Turkic
+E072,KINGDOM OF HUNGARY,EUROPE,state,OTTOMAN EMPIRE,1500,1820,1500 CE,1820 CE,#f97fb1,pink,Turkic
+E072,KINGDOM OF HUNGARY,EUROPE,state,YUGOSLAVIA,1820,1890,1820 CE,1890 CE,#f97fb1,pink,Turkic
+E072,KINGDOM OF HUNGARY,EUROPE,state,,1900,1930,1900 CE,1930 CE,#d68f49,orange,Austroasiatic
+E072,KINGDOM OF HUNGARY,EUROPE,state,,1930,1960,1930 CE,1960 CE,#e0a744,yellow,Slavic
+E072,KINGDOM OF HUNGARY,EUROPE,state,,1960,1980,1960 CE,1980 CE,#e3af5f,yellow,Slavic
+E073,Greek Dark Ages,EUROPE,other,,-3100,-510,3100 BCE,510 BCE,#bebebd,midgray,
+E073,Greek Dark Ages,EUROPE,other,,-490,-470,490 BCE,470 BCE,#7ae1c5,teal,Iranic
+E073,Greek Dark Ages,EUROPE,other,,-470,-340,470 BCE,340 BCE,#c1c146,olive,
+E073,Greek Dark Ages,EUROPE,other,,-340,-330,340 BCE,330 BCE,#abae0d,olive,Greek
+E073,Greek Dark Ages,EUROPE,other,,-320,0,320 BCE,0 CE,#caca39,olive,Greek
+E073,Greek Dark Ages,EUROPE,other,,0,630,0 CE,630 CE,#faf935,olive,Romance
+E073,Greek Dark Ages,EUROPE,other,,630,700,630 CE,700 CE,#b3b205,olive,Greek
+E073,Greek Dark Ages,EUROPE,other,,700,720,700 CE,720 CE,#d1a642,yellow,Austroasiatic
+E073,Greek Dark Ages,EUROPE,other,,760,800,760 CE,800 CE,#bd8c2b,yellow,Austroasiatic
+E073,Greek Dark Ages,EUROPE,other,,810,830,810 CE,830 CE,#de5f7d,red,Mongolic
+E073,Greek Dark Ages,EUROPE,other,,830,900,830 CE,900 CE,#d33d3d,red,Afroasiatic
+E073,Greek Dark Ages,EUROPE,other,,900,920,900 CE,920 CE,#ea0b63,pink,Turkic
+E073,Greek Dark Ages,EUROPE,other,,920,980,920 CE,980 CE,#f25395,pink,Turkic
+E073,Greek Dark Ages,EUROPE,other,,1020,1050,1020 CE,1050 CE,#b3b301,olive,Greek
+E073,Greek Dark Ages,EUROPE,other,BYZANTINE EMPIRE,1050,1170,1050 CE,1170 CE,#c7c94e,olive,Romance
+E073,Greek Dark Ages,EUROPE,other,,1170,1190,1170 CE,1190 CE,#bebe36,olive,Greek
+E073,Greek Dark Ages,EUROPE,other,,1190,1260,1190 CE,1260 CE,#e9b13a,yellow,Slavic
+E073,Greek Dark Ages,EUROPE,other,,1260,1330,1260 CE,1330 CE,#ccc048,yellow,Dravidian
+E073,Greek Dark Ages,EUROPE,other,,1330,1370,1330 CE,1370 CE,#d2ae40,yellow,Dravidian
+E073,Greek Dark Ages,EUROPE,other,,1370,1910,1370 CE,1910 CE,#fb7fb3,pink,Turkic
+E073,Greek Dark Ages,EUROPE,other,BULGARIA,1910,2000,1910 CE,2000 CE,#e4a740,yellow,Slavic
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,-3100,-1600,3100 BCE,1600 BCE,#b6b6b5,midgray,
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,HITTITE OLD KINGDOM,-1600,-1380,1600 BCE,1380 BCE,#e28fe0,magenta,Ancient languages
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,-1370,-1220,1370 BCE,1220 BCE,#d393d3,magenta,Ancient languages
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,HITTITE NEW KINGDOM,-1220,-590,1220 BCE,590 BCE,#c2aac1,magenta,
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,-590,-570,590 BCE,570 BCE,#9698bf,blue,
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,-560,-540,560 BCE,540 BCE,#8abbd2,blue,Niger-Congo
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,-540,-330,540 BCE,330 BCE,#79f5d9,teal,Iranic
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,-310,-270,310 BCE,270 BCE,#c4a565,yellow,Austroasiatic
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,-270,-250,270 BCE,250 BCE,#b38880,red,Austroasiatic
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,-250,-210,250 BCE,210 BCE,#bb9871,orange,Austroasiatic
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,-210,-180,210 BCE,180 BCE,#bbb842,olive,Greek
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,-180,-110,180 BCE,110 BCE,#bb946e,orange,Austroasiatic
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,-90,-70,90 BCE,70 BCE,#d3a77c,orange,Afroasiatic
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,-70,60,70 BCE,60 CE,#fafc34,olive,Romance
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,60,120,60 CE,120 CE,#e6e447,olive,Romance
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,120,220,120 CE,220 CE,#f7fa3a,olive,Romance
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,220,250,220 CE,250 CE,#dfda45,olive,Romance
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,ROMAN EMPIRE,260,610,260 CE,610 CE,#f2f540,olive,Romance
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,610,630,610 CE,630 CE,#78f9de,teal,Iranic
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,EASTERN ROMAN EMPIRE,630,830,630 CE,830 CE,#a7b220,olive,Greek
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,BYZANTINE EMPIRE,830,960,830 CE,960 CE,#bdc130,olive,Greek
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,960,1080,960 CE,1080 CE,#b4b309,olive,Greek
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,1080,1100,1080 CE,1100 CE,#c59355,yellow,Austroasiatic
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,1100,1240,1100 CE,1240 CE,#c4b548,yellow,
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,1250,1280,1250 CE,1280 CE,#d79a46,yellow,Austroasiatic
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,1290,1300,1290 CE,1300 CE,#da3416,red,Mongolic
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,,1300,1430,1300 CE,1430 CE,#db7397,pink,Turkic
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,OTTOMAN EMPIRE,1430,1960,1430 CE,1960 CE,#f17faf,pink,Turkic
+E075,EASTERN ROMAN EMPIRE,EUROPE,state,TURKEY,1960,2000,1960 CE,2000 CE,#f17faf,pink,Turkic
+E076,Unnamed band,EUROPE,other,,-3100,-590,3100 BCE,590 BCE,#bcbbbe,midgray,
+E076,Unnamed band,EUROPE,other,,-580,-550,580 BCE,550 BCE,#25e5c3,teal,Iranic
+E076,Unnamed band,EUROPE,other,,-550,-330,550 BCE,330 BCE,#7cf7da,teal,Iranic
+E076,Unnamed band,EUROPE,other,,-230,-210,230 BCE,210 BCE,#9b0f6b,pink,
+E076,Unnamed band,EUROPE,other,,-210,-180,210 BCE,180 BCE,#cdb361,yellow,Slavic
+E076,Unnamed band,EUROPE,other,,-180,-120,180 BCE,120 BCE,#991264,pink,
+E076,Unnamed band,EUROPE,other,,-110,-40,110 BCE,40 BCE,#cdaa98,orange,Afroasiatic
+E076,Unnamed band,EUROPE,other,,-20,-10,20 BCE,10 BCE,#7a816d,lime,
+E076,Unnamed band,EUROPE,other,,0,40,0 CE,40 CE,#bfc382,olive,
+E076,Unnamed band,EUROPE,other,,70,110,70 CE,110 CE,#af7bbd,magenta,Sino-Tibetan
+E076,Unnamed band,EUROPE,other,,120,140,120 CE,140 CE,#ece469,olive,Dravidian
+E076,Unnamed band,EUROPE,other,,170,190,170 CE,190 CE,#cbb754,yellow,Slavic
+E076,Unnamed band,EUROPE,other,,240,260,240 CE,260 CE,#f7ef64,olive,Romance
+E076,Unnamed band,EUROPE,other,,300,320,300 CE,320 CE,#cb9752,yellow,Austroasiatic
+E076,Unnamed band,EUROPE,other,,320,340,320 CE,340 CE,#d9c85a,yellow,Slavic
+E076,Unnamed band,EUROPE,other,,340,400,340 CE,400 CE,#97ead6,teal,Ancient languages
+E076,Unnamed band,EUROPE,other,,400,460,400 CE,460 CE,#91c3af,teal,Indo-Iranian
+E076,Unnamed band,EUROPE,other,,460,480,460 CE,480 CE,#90cebe,teal,Indo-Iranian
+E076,Unnamed band,EUROPE,other,,510,570,510 CE,570 CE,#94edda,teal,Ancient languages
+E076,Unnamed band,EUROPE,other,,650,820,650 CE,820 CE,#29c6f9,cyan,Afroasiatic
+E076,Unnamed band,EUROPE,other,,830,850,830 CE,850 CE,#7988a0,blue,
+E076,Unnamed band,EUROPE,other,,850,890,850 CE,890 CE,#4fb8e3,blue,Afroasiatic
+E076,Unnamed band,EUROPE,other,,890,930,890 CE,930 CE,#882374,magenta,
+E076,Unnamed band,EUROPE,other,,930,950,930 CE,950 CE,#a951bd,magenta,Sino-Tibetan
+E076,Unnamed band,EUROPE,other,,980,1000,980 CE,1000 CE,#ad61c0,magenta,Sino-Tibetan
+E076,Unnamed band,EUROPE,other,,1020,1050,1020 CE,1050 CE,#962588,magenta,
+E076,Unnamed band,EUROPE,other,,1050,1080,1050 CE,1080 CE,#c9bc62,yellow,Afroasiatic
+E076,Unnamed band,EUROPE,other,,1090,1110,1090 CE,1110 CE,#be5860,red,Austroasiatic
+E076,Unnamed band,EUROPE,other,,1110,1130,1110 CE,1130 CE,#cc708a,pink,Mongolic
+E076,Unnamed band,EUROPE,other,,1130,1150,1130 CE,1150 CE,#a7070c,red,Kartvelian
+E076,Unnamed band,EUROPE,other,,1160,1220,1160 CE,1220 CE,#b14742,red,Austroasiatic
+E076,Unnamed band,EUROPE,other,,1220,1250,1220 CE,1250 CE,#ac0b08,red,Kartvelian
+E076,Unnamed band,EUROPE,other,,1260,1280,1260 CE,1280 CE,#ea0b0b,red,Mongolic
+E076,Unnamed band,EUROPE,other,,1320,1340,1320 CE,1340 CE,#ed0b06,red,Mongolic
+E076,Unnamed band,EUROPE,other,,1360,1380,1360 CE,1380 CE,#afdbcd,teal,
+E076,Unnamed band,EUROPE,other,,1400,1510,1400 CE,1510 CE,#db708e,pink,Turkic
+E076,Unnamed band,EUROPE,other,,1510,1560,1510 CE,1560 CE,#a0bba7,green,
+E076,Unnamed band,EUROPE,other,,1580,1610,1580 CE,1610 CE,#ef7fb2,pink,Turkic
+E076,Unnamed band,EUROPE,other,,1610,1730,1610 CE,1730 CE,#84e6d3,teal,Iranic
+E076,Unnamed band,EUROPE,other,,1750,1800,1750 CE,1800 CE,#ee7fa7,pink,Turkic
+E076,Unnamed band,EUROPE,other,,1810,1850,1810 CE,1850 CE,#c5a748,yellow,Austroasiatic
+E076,Unnamed band,EUROPE,other,,1850,1880,1850 CE,1880 CE,#ae6421,orange,Afroasiatic
+E076,Unnamed band,EUROPE,other,,1880,1910,1880 CE,1910 CE,#c37324,orange,Austroasiatic
+E076,Unnamed band,EUROPE,other,,1910,1940,1910 CE,1940 CE,#f79811,yellow,Slavic
+E076,Unnamed band,EUROPE,other,,1960,1980,1960 CE,1980 CE,#c58432,yellow,Austroasiatic
+E078,City states,EUROPE,state,AKKADIAN EMPIRE,-3100,-2560,3100 BCE,2560 BCE,#cea4b5,pink,
+E078,City states,EUROPE,state,,-2540,-2520,2540 BCE,2520 BCE,#be8ba9,pink,Niger-Congo
+E078,City states,EUROPE,state,,-2500,-2240,2500 BCE,2240 BCE,#b6aac8,purple,
+E078,City states,EUROPE,state,,-2240,-2200,2240 BCE,2200 BCE,#72abce,blue,Niger-Congo
+E078,City states,EUROPE,state,,-2170,-2120,2170 BCE,2120 BCE,#8fafd4,blue,Niger-Congo
+E078,City states,EUROPE,state,,-2120,-2060,2120 BCE,2060 BCE,#79aac7,blue,Niger-Congo
+E078,City states,EUROPE,state,,-2060,-1960,2060 BCE,1960 BCE,#a3c6ee,blue,Ancient languages
+E078,City states,EUROPE,state,,-1960,-1840,1960 BCE,1840 BCE,#6ba5bd,blue,Niger-Congo
+E078,City states,EUROPE,state,,-1840,-1500,1840 BCE,1500 BCE,#a4c6ed,blue,Ancient languages
+E078,City states,EUROPE,state,,-1500,-1460,1500 BCE,1460 BCE,#f4dea4,yellow,Dravidian
+E078,City states,EUROPE,state,,-1450,-1430,1450 BCE,1430 BCE,#e1d399,yellow,Ancient languages
+E078,City states,EUROPE,state,,-1390,-1350,1390 BCE,1350 BCE,#f6e5a8,yellow,Dravidian
+E078,City states,EUROPE,state,,-1350,-1210,1350 BCE,1210 BCE,#91c5df,blue,Ancient languages
+E078,City states,EUROPE,state,NEO-ASSYRIAN EMPIRE,-1210,-690,1210 BCE,690 BCE,#96bdc9,cyan,Niger-Congo
+E078,City states,EUROPE,state,,-660,-580,660 BCE,580 BCE,#9bcbf8,blue,Ancient languages
+E078,City states,EUROPE,state,,-580,-530,580 BCE,530 BCE,#88b1da,blue,Niger-Congo
+E078,City states,EUROPE,state,,-530,-490,530 BCE,490 BCE,#72fcde,teal,Iranic
+E078,City states,EUROPE,state,,-380,-330,380 BCE,330 BCE,#75f8da,teal,Iranic
+E078,City states,EUROPE,state,,-330,-90,330 BCE,90 BCE,#b0b40e,olive,Greek
+E078,City states,EUROPE,state,,-30,40,30 BCE,40 CE,#fcfb34,olive,Romance
+E078,City states,EUROPE,state,,60,80,60 CE,80 CE,#f1e848,olive,Romance
+E078,City states,EUROPE,state,ROMAN EMPIRE,100,270,100 CE,270 CE,#fafb33,olive,Romance
+E078,City states,EUROPE,state,,300,360,300 CE,360 CE,#d0d146,olive,Romance
+E078,City states,EUROPE,state,,370,420,370 CE,420 CE,#d8e43f,olive,Romance
+E078,City states,EUROPE,state,,440,450,440 CE,450 CE,#cdc947,olive,Dravidian
+E078,City states,EUROPE,state,,450,490,450 CE,490 CE,#b5b429,olive,Greek
+E078,City states,EUROPE,state,,510,540,510 CE,540 CE,#dfde41,olive,Romance
+E078,City states,EUROPE,state,,590,610,590 CE,610 CE,#f5f93c,olive,Romance
+E078,City states,EUROPE,state,,610,630,610 CE,630 CE,#80e8b4,green,Ancient languages
+E078,City states,EUROPE,state,SASSANID EMPIRE,640,990,640 CE,990 CE,#2ac4eb,cyan,Afroasiatic
+E078,City states,EUROPE,state,,1000,1030,1000 CE,1030 CE,#2bb6e3,cyan,Afroasiatic
+E078,City states,EUROPE,state,,1040,1060,1040 CE,1060 CE,#2f9fc1,cyan,Niger-Congo
+E078,City states,EUROPE,state,,1080,1100,1080 CE,1100 CE,#f780b2,pink,Turkic
+E078,City states,EUROPE,state,,1100,1120,1100 CE,1120 CE,#589890,teal,
+E078,City states,EUROPE,state,,1130,1180,1130 CE,1180 CE,#c7897e,red,Austroasiatic
+E078,City states,EUROPE,state,,1220,1250,1220 CE,1250 CE,#1d88c0,blue,Niger-Congo
+E078,City states,EUROPE,state,MAMLUK SULTANATE,1280,1320,1280 CE,1320 CE,#29c5fa,blue,Afroasiatic
+E078,City states,EUROPE,state,,1330,1350,1330 CE,1350 CE,#35b4d8,cyan,Afroasiatic
+E078,City states,EUROPE,state,,1350,1380,1350 CE,1380 CE,#249ec8,blue,Afroasiatic
+E078,City states,EUROPE,state,,1380,1420,1380 CE,1420 CE,#35abce,cyan,Niger-Congo
+E078,City states,EUROPE,state,,1420,1520,1420 CE,1520 CE,#2cb5e5,blue,Afroasiatic
+E078,City states,EUROPE,state,OTTOMAN EMPIRE,1520,1670,1520 CE,1670 CE,#fb80b3,pink,Turkic
+E078,City states,EUROPE,state,,1720,1830,1720 CE,1830 CE,#f07eab,pink,Turkic
+E078,City states,EUROPE,state,,1830,1920,1830 CE,1920 CE,#fe7eb1,pink,Turkic
+E078,City states,EUROPE,state,,1920,1940,1920 CE,1940 CE,#d2ce23,olive,Amerindian
+E078,City states,EUROPE,state,IRAQ,1960,2000,1960 CE,2000 CE,#34b3da,cyan,Afroasiatic
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,-3100,-2900,3100 BCE,2900 BCE,#aacdcc,cyan,
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,-2900,-2790,2900 BCE,2790 BCE,#a6faee,teal,Ancient languages
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,-2770,-2760,2770 BCE,2760 BCE,#a2e2c8,teal,Indo-Iranian
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,-2730,-2680,2730 BCE,2680 BCE,#a4ebe6,cyan,Afroasiatic
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,-2650,-2630,2650 BCE,2630 BCE,#a3f7f1,cyan,Ancient languages
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,-2630,-2600,2630 BCE,2600 BCE,#9befc1,green,Ancient languages
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,-2540,-2470,2540 BCE,2470 BCE,#abf2ec,teal,Ancient languages
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,SUMER (EARLY DYNASTIC PERIOD),-2440,-2110,2440 BCE,2110 BCE,#9acee8,blue,Ancient languages
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,-2100,-2070,2100 BCE,2070 BCE,#8ccab8,teal,Indo-Iranian
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,-2070,-2000,2070 BCE,2000 BCE,#a3e8e5,cyan,Afroasiatic
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,-2000,-1830,2000 BCE,1830 BCE,#9fbbcd,blue,
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,-1830,-1810,1830 BCE,1810 BCE,#7facb4,cyan,Niger-Congo
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,OLD BABYLONIAN,-1810,-530,1810 BCE,530 BCE,#9dbed6,blue,Niger-Congo
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,-530,-330,530 BCE,330 BCE,#7df3da,teal,Iranic
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,-330,-210,330 BCE,210 BCE,#babf31,olive,Greek
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,-210,-140,210 BCE,140 BCE,#b2b30a,olive,Greek
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,PARTHIAN EMPIRE,-140,230,140 BCE,230 CE,#34f6ce,teal,Iranic
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,ROMAN EMPIRE,230,620,230 CE,620 CE,#90cbc0,teal,Indo-Iranian
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,SASSANIAN EMPIRE,630,840,630 CE,840 CE,#2cc6f4,cyan,Afroasiatic
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,SASSANID EMPIRE,840,1060,840 CE,1060 CE,#2cc6f4,cyan,Afroasiatic
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,1060,1090,1060 CE,1090 CE,#cf7795,pink,Ancient languages
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,1090,1170,1090 CE,1170 CE,#e97ca6,pink,Turkic
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,1180,1260,1180 CE,1260 CE,#32bce9,cyan,Afroasiatic
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,1280,1310,1280 CE,1310 CE,#fd6a6b,red,Mongolic
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,1310,1320,1310 CE,1320 CE,#e14245,red,Mongolic
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,1320,1340,1320 CE,1340 CE,#ed0d0c,red,Mongolic
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,1350,1400,1350 CE,1400 CE,#8eccbe,teal,Indo-Iranian
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,1420,1510,1420 CE,1510 CE,#e080a6,pink,Turkic
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,1510,1530,1510 CE,1530 CE,#84e7d9,teal,Iranic
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,1540,1920,1540 CE,1920 CE,#fc7fb2,pink,Turkic
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,1920,1940,1920 CE,1940 CE,#9ee45c,lime,Germanic
+E079,SUMER (EARLY DYNASTIC PERIOD),EUROPE,other,,1940,2000,1940 CE,2000 CE,#30c4ed,cyan,Afroasiatic
+E081,Arab nomads,EUROPE,pastoralist,,640,900,640 CE,900 CE,#2bc0ed,cyan,Afroasiatic
+E081,Arab nomads,EUROPE,pastoralist,,900,1090,900 CE,1090 CE,#daf5f3,cyan,
+E081,Arab nomads,EUROPE,pastoralist,,1090,1130,1090 CE,1130 CE,#f7bccf,pink,
+E081,Arab nomads,EUROPE,pastoralist,,1420,1520,1420 CE,1520 CE,#2ac2ed,cyan,Afroasiatic
+E081,Arab nomads,EUROPE,pastoralist,,1530,1600,1530 CE,1600 CE,#f7c3d8,pink,
+E081,Arab nomads,EUROPE,pastoralist,,1610,1630,1610 CE,1630 CE,#edb7c1,red,
+E081,Arab nomads,EUROPE,pastoralist,,1660,1700,1660 CE,1700 CE,#f7c6d7,pink,
+E081,Arab nomads,EUROPE,pastoralist,,1760,1920,1760 CE,1920 CE,#db85b8,pink,Turkic
+E081,Arab nomads,EUROPE,pastoralist,,1920,1970,1920 CE,1970 CE,#28b7e3,cyan,Afroasiatic
+E081,Arab nomads,EUROPE,pastoralist,,1990,2000,1990 CE,2000 CE,#29b0d5,cyan,Afroasiatic
+E082,Arab nomads,IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-3100,640,3100 BCE,640 CE,#c9cac9,midgray,
+E082,Arab nomads,IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,640,660,640 CE,660 CE,#2ec3f7,blue,Afroasiatic
+E082,Arab nomads,IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,660,690,660 CE,690 CE,#26b8de,cyan,Afroasiatic
+E082,Arab nomads,IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,690,700,690 CE,700 CE,#308aa9,blue,Japanese
+E082,Arab nomads,IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,700,900,700 CE,900 CE,#2ac6f2,cyan,Afroasiatic
+E082,Arab nomads,IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,900,1420,900 CE,1420 CE,#eeeceb,lightgray,
+E082,Arab nomads,IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1420,1440,1420 CE,1440 CE,#2cc6f9,cyan,Afroasiatic
+E082,Arab nomads,IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1440,1510,1440 CE,1510 CE,#2ca1c9,blue,Niger-Congo
+E082,Arab nomads,IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1510,1530,1510 CE,1530 CE,#2dcaf5,cyan,Afroasiatic
+E082,Arab nomads,IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1670,1690,1670 CE,1690 CE,#2ec8f3,cyan,Afroasiatic
+E082,Arab nomads,IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1690,1780,1690 CE,1780 CE,#319bc0,blue,Niger-Congo
+E082,Arab nomads,IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1780,1800,1780 CE,1800 CE,#2bc6e7,cyan,Afroasiatic
+E082,Arab nomads,IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1860,1880,1860 CE,1880 CE,#31a2bb,cyan,Niger-Congo
+E082,Arab nomads,IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1880,1900,1880 CE,1900 CE,#7e87ad,blue,Niger-Congo
+E082,Arab nomads,IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1900,1980,1900 CE,1980 CE,#6cb947,green,Indo-Iranian
+E082,Arab nomads,IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1980,2000,1980 CE,2000 CE,#2897bf,blue,Niger-Congo
+E083,Arabs,IRON AGE IN THE INDIAN SUBCONTINENT,other,Arabs,-1000,100,1000 BCE,100 CE,#b7c8ca,midgray,
+E083,Arabs,IRON AGE IN THE INDIAN SUBCONTINENT,other,,100,290,100 CE,290 CE,#bbd9e9,blue,
+E083,Arabs,IRON AGE IN THE INDIAN SUBCONTINENT,other,,310,530,310 CE,530 CE,#77dafb,blue,Afroasiatic
+E083,Arabs,IRON AGE IN THE INDIAN SUBCONTINENT,other,,580,640,580 CE,640 CE,#c6ebe1,teal,
+E083,Arabs,IRON AGE IN THE INDIAN SUBCONTINENT,other,,640,900,640 CE,900 CE,#29c5fa,blue,Afroasiatic
+E083,Arabs,IRON AGE IN THE INDIAN SUBCONTINENT,other,RASULID DYNASTY,900,1260,900 CE,1260 CE,#e6eff1,white,
+E083,Arabs,IRON AGE IN THE INDIAN SUBCONTINENT,other,,1260,1300,1260 CE,1300 CE,#2dc3e8,cyan,Afroasiatic
+E083,Arabs,IRON AGE IN THE INDIAN SUBCONTINENT,other,TAHIRIDS,1340,1450,1340 CE,1450 CE,#2aadd5,cyan,Afroasiatic
+E083,Arabs,IRON AGE IN THE INDIAN SUBCONTINENT,other,,1450,1470,1450 CE,1470 CE,#2bbae9,cyan,Afroasiatic
+E083,Arabs,IRON AGE IN THE INDIAN SUBCONTINENT,other,,1490,1510,1490 CE,1510 CE,#3f9ec9,blue,Niger-Congo
+E083,Arabs,IRON AGE IN THE INDIAN SUBCONTINENT,other,,1510,1610,1510 CE,1610 CE,#34bcea,blue,Afroasiatic
+E083,Arabs,IRON AGE IN THE INDIAN SUBCONTINENT,other,,1610,1630,1610 CE,1630 CE,#35a7d2,blue,Niger-Congo
+E083,Arabs,IRON AGE IN THE INDIAN SUBCONTINENT,other,,1630,1890,1630 CE,1890 CE,#2ebbe3,cyan,Afroasiatic
+E083,Arabs,IRON AGE IN THE INDIAN SUBCONTINENT,other,,1900,1970,1900 CE,1970 CE,#91ef5f,green,Germanic
+E083,Arabs,IRON AGE IN THE INDIAN SUBCONTINENT,other,,1970,2000,1970 CE,2000 CE,#2eb0d1,cyan,Afroasiatic
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-3100,-620,3100 BCE,620 BCE,#bcbbb7,midgray,
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-610,-550,610 BCE,550 BCE,#19cea3,teal,Indo-European
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,ACHAEMENID EMPIRE,-550,-320,550 BCE,320 BCE,#78fada,teal,Iranic
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-310,-280,310 BCE,280 BCE,#b2b20b,olive,Greek
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-280,-190,280 BCE,190 BCE,#c4c33c,olive,Greek
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-190,-140,190 BCE,140 BCE,#aeb309,olive,Greek
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,PARTHIA,-140,-60,140 BCE,60 BCE,#2afad1,teal,Iranic
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,PARTHIAN EMPIRE,-50,220,50 BCE,220 CE,#2cf4cc,teal,Iranic
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,SASSANIAN EMPIRE,220,510,220 CE,510 CE,#7af3da,teal,Iranic
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,510,540,510 CE,540 CE,#75cec2,teal,Indo-Iranian
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,560,670,560 CE,670 CE,#72fede,teal,Iranic
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,UMAYYAD CALIPHATE,670,790,670 CE,790 CE,#2cc5f3,cyan,Afroasiatic
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,ABBASID CALIPHATE,790,960,790 CE,960 CE,#2cc5f3,cyan,Afroasiatic
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,970,1030,970 CE,1030 CE,#2394bf,blue,Japanese
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1030,1050,1030 CE,1050 CE,#2ecaeb,cyan,Afroasiatic
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,SELJUK EMPIRE,1130,1200,1130 CE,1200 CE,#f67fb2,pink,Turkic
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,ILKHANATE,1260,1320,1260 CE,1320 CE,#e62120,red,Mongolic
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1340,1400,1340 CE,1400 CE,#78b9a9,teal,Indo-Iranian
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1400,1420,1400 CE,1420 CE,#f6096a,pink,Turkic
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1430,1460,1430 CE,1460 CE,#df2b71,pink,Turkic
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1470,1500,1470 CE,1500 CE,#ee759f,pink,Turkic
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,TIMURID EMPIRE,1510,1550,1510 CE,1550 CE,#7ee6d0,teal,Iranic
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,SAFAVID IRAN,1550,1650,1550 CE,1650 CE,#7ee6d0,teal,Iranic
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1710,1730,1710 CE,1730 CE,#72f4d3,teal,Iranic
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1730,1750,1730 CE,1750 CE,#78c0ae,teal,Indo-Iranian
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1760,1790,1760 CE,1790 CE,#58c6ae,teal,Indo-Iranian
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,QAJAR IRAN,1790,1920,1790 CE,1920 CE,#76fade,teal,Iranic
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,IRAN,1920,1950,1920 CE,1950 CE,#76fade,teal,Iranic
+E084,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1990,2000,1990 CE,2000 CE,#66a690,teal,Indo-Iranian
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-3100,-550,3100 BCE,550 BCE,#bebdbc,midgray,
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,ACHAEMENID EMPIRE,-550,-430,550 BCE,430 BCE,#76f8dc,teal,Iranic
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,SELEUCID EMPIRE,-430,-320,430 BCE,320 BCE,#76f8dc,teal,Iranic
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-310,-270,310 BCE,270 BCE,#b3b20b,olive,Greek
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-270,-230,270 BCE,230 BCE,#c8cf3e,olive,Greek
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-230,-170,230 BCE,170 BCE,#c7cb48,olive,Romance
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-160,-140,160 BCE,140 BCE,#c4c839,olive,Greek
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-120,0,120 BCE,0 CE,#27fdd4,teal,Iranic
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,0,370,0 CE,370 CE,#45f9d4,teal,Iranic
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,380,410,380 CE,410 CE,#78e1cf,teal,Iranic
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,450,480,450 CE,480 CE,#7af6d8,teal,Iranic
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,490,520,490 CE,520 CE,#7de7d1,teal,Iranic
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,520,660,520 CE,660 CE,#75fcdd,teal,Iranic
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,660,870,660 CE,870 CE,#2ec7f6,cyan,Afroasiatic
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,870,910,870 CE,910 CE,#7dedd6,teal,Iranic
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,910,950,910 CE,950 CE,#76d3c5,teal,Indo-Iranian
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,970,990,970 CE,990 CE,#7decd9,teal,Iranic
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,990,1040,990 CE,1040 CE,#86c2b4,teal,Indo-Iranian
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1040,1060,1040 CE,1060 CE,#a4e3d2,teal,Ancient languages
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1060,1090,1060 CE,1090 CE,#c78bb5,magenta,Sino-Tibetan
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1090,1170,1090 CE,1170 CE,#acded6,teal,
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1170,1210,1170 CE,1210 CE,#97f4e3,teal,Iranic
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1230,1280,1230 CE,1280 CE,#eb090d,red,Mongolic
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1290,1340,1290 CE,1340 CE,#e81e1e,red,Mongolic
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1340,1390,1340 CE,1390 CE,#8fdbc9,teal,Indo-Iranian
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1400,1450,1400 CE,1450 CE,#ed0f69,pink,Turkic
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1450,1470,1450 CE,1470 CE,#ee4692,pink,Turkic
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1480,1510,1480 CE,1510 CE,#f175a3,pink,Turkic
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1510,1740,1510 CE,1740 CE,#76fbdb,teal,Iranic
+E085,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1750,2000,1750 CE,2000 CE,#61f2d4,teal,Iranic
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-3100,-1500,3100 BCE,1500 BCE,#f0ecd7,yellow,
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-1500,-1330,1500 BCE,1330 BCE,#e7cebd,orange,
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,Vedic period,-1320,-550,1320 BCE,550 BCE,#c0c3be,midgray,
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-550,-480,550 BCE,480 BCE,#78f4d3,teal,Iranic
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,MAURYAN EMPIRE,-470,-380,470 BCE,380 BCE,#8bead7,teal,Ancient languages
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-370,-320,370 BCE,320 BCE,#74fcdb,teal,Iranic
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-300,-220,300 BCE,220 BCE,#52c975,green,Indo-Iranian
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-220,-190,220 BCE,190 BCE,#a9ba32,olive,Greek
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-170,-120,170 BCE,120 BCE,#afb308,olive,Greek
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-100,-90,100 BCE,90 BCE,#d9d159,olive,Slavic
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-90,-60,90 BCE,60 BCE,#c4f4be,green,
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,-60,0,60 BCE,0 CE,#96eecb,teal,Ancient languages
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,0,100,0 CE,100 CE,#97dacd,teal,Indo-Iranian
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,KUSHAN EMPIRE,100,270,100 CE,270 CE,#9bfcdd,teal,Iranic
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,SASSANIAN EMPIRE,270,470,270 CE,470 CE,#9bfcdd,teal,Iranic
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,470,500,470 CE,500 CE,#a6ddd9,cyan,
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,510,530,510 CE,530 CE,#c73880,pink,
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,560,620,560 CE,620 CE,#9f6f77,red,Austroasiatic
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,TURK SHAHIS,630,750,630 CE,750 CE,#cd1a67,pink,Austronesian
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,790,830,790 CE,830 CE,#ca3277,pink,Austronesian
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,850,890,850 CE,890 CE,#53c576,green,Indo-Iranian
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,PRATIHARA DYNASTY,900,1010,900 CE,1010 CE,#73d38d,green,Indo-Iranian
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,GHAZNAVIDS,1010,1210,1010 CE,1210 CE,#9bf7e2,teal,Iranic
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,DELHI SULTANATE,1210,1250,1210 CE,1250 CE,#b0f4df,teal,Iranic
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1250,1270,1250 CE,1270 CE,#cb171e,red,Amerindian
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1270,1290,1270 CE,1290 CE,#d18eb2,pink,Ancient languages
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1290,1310,1290 CE,1310 CE,#e2649f,pink,Turkic
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1310,1320,1310 CE,1320 CE,#d49ab4,pink,Ancient languages
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1320,1340,1320 CE,1340 CE,#e676ae,pink,Turkic
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1380,1400,1380 CE,1400 CE,#c1cbd7,blue,
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1400,1420,1400 CE,1420 CE,#e51164,pink,Turkic
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1470,1480,1470 CE,1480 CE,#cf6496,pink,Turkic
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1520,1560,1520 CE,1560 CE,#a8c3ba,teal,
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,DURRANI EMPIRE,1560,1850,1560 CE,1850 CE,#96dfca,teal,Indo-Iranian
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,AFGHANISTAN,1850,1930,1850 CE,1930 CE,#93f947,lime,Germanic
+E086,Iranians (pastoralists),IRON AGE IN THE INDIAN SUBCONTINENT,pastoralist,,1970,2000,1970 CE,2000 CE,#77cfb2,teal,Indo-Iranian
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,-3100,-2980,3100 BCE,2980 BCE,#fbd12e,yellow,Dravidian
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,-2970,-2920,2970 BCE,2920 BCE,#edd154,yellow,Dravidian
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,-2910,-2900,2910 BCE,2900 BCE,#f6cf31,yellow,Dravidian
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,-2900,-2780,2900 BCE,2780 BCE,#ecd15a,yellow,Dravidian
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,INDUS VALLEY CIVILIZATION (EARLY HARAPPAN),-2780,-2260,2780 BCE,2260 BCE,#f6d13a,yellow,Dravidian
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),-2260,-1840,2260 BCE,1840 BCE,#f6d13a,yellow,Dravidian
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,INDUS VALLEY CIVILIZATION,-1840,-1570,1840 BCE,1570 BCE,#f6d13a,yellow,Dravidian
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,INDUS VALLEY CIVILIZATION (LATE HARAPPAN),-1570,-1300,1570 BCE,1300 BCE,#f6d13a,yellow,Dravidian
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,-1270,-450,1270 BCE,450 BCE,#bdbcbc,midgray,
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,-450,-390,450 BCE,390 BCE,#79d498,green,Indo-Iranian
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,-390,-200,390 BCE,200 BCE,#65cc83,green,Indo-Iranian
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,-200,-190,200 BCE,190 BCE,#9cb52d,olive,Greek
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,-170,-110,170 BCE,110 BCE,#acb412,olive,Greek
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,-100,-90,100 BCE,90 BCE,#cac552,olive,Slavic
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,-90,-20,90 BCE,20 BCE,#bcfeef,teal,Iranic
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,-20,20,20 BCE,20 CE,#afe1d2,teal,
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,20,350,20 CE,350 CE,#b9f7eb,teal,Iranic
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,350,500,350 CE,500 CE,#5fc87b,green,Indo-Iranian
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,520,540,520 CE,540 CE,#f93f93,pink,Turkic
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,540,560,540 CE,560 CE,#e74990,pink,Turkic
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,570,1020,570 CE,1020 CE,#77cd90,green,Indo-Iranian
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,1030,1110,1030 CE,1110 CE,#84e5b8,green,Ancient languages
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,1150,1170,1150 CE,1170 CE,#95f6db,teal,Iranic
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,1180,1230,1180 CE,1230 CE,#8ce9c5,teal,Ancient languages
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,1230,1310,1230 CE,1310 CE,#7bcc95,green,Indo-Iranian
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,1310,1720,1310 CE,1720 CE,#98eed9,teal,Ancient languages
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,1720,1810,1720 CE,1810 CE,#78d0a7,green,Indo-Iranian
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,1820,1890,1820 CE,1890 CE,#99f444,lime,Germanic
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,1900,1950,1900 CE,1950 CE,#97fe34,lime,Germanic
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,1950,1970,1950 CE,1970 CE,#31ca5a,green,Indo-Iranian
+E087,INDUS VALLEY CIVILIZATION (MATURE HARAPPAN),IRON AGE IN THE INDIAN SUBCONTINENT,other,,1970,2000,1970 CE,2000 CE,#9aeeb0,green,Ancient languages
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,,-750,-740,750 BCE,740 BCE,#c3c3c3,midgray,
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,,-730,-700,730 BCE,700 BCE,#abaaa9,darkgray,
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,Dravidians,-700,-450,700 BCE,450 BCE,#bfc0c0,midgray,
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,Hindu Kingdoms,-450,-200,450 BCE,200 BCE,#54c675,green,Indo-Iranian
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,,-200,-90,200 BCE,90 BCE,#71c161,green,Indo-Iranian
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,,-90,-40,90 BCE,40 BCE,#bcfbde,green,Iranic
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,,-40,40,40 BCE,40 CE,#6cbc8a,green,Indo-Iranian
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,INDO-SCYTHIA,50,130,50 CE,130 CE,#bbfee1,green,Iranic
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,WESTERN SATRAPS,130,160,130 CE,160 CE,#bbfee1,green,Iranic
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,,190,210,190 CE,210 CE,#70bf8d,green,Indo-Iranian
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,,220,240,220 CE,240 CE,#bbfbe0,green,Iranic
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,,290,350,290 CE,350 CE,#b9fdde,green,Iranic
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,GUPTA EMPIRE,360,460,360 CE,460 CE,#65c981,green,Indo-Iranian
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,,460,510,460 CE,510 CE,#9f6f6e,red,Austroasiatic
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,,520,540,520 CE,540 CE,#c46c6f,red,Austroasiatic
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,,540,570,540 CE,570 CE,#95b17e,lime,Indo-Iranian
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,ALCHON HUNS,570,790,570 CE,790 CE,#61bc76,green,Indo-Iranian
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,RASHTRAKUTA EMPIRE,790,1020,790 CE,1020 CE,#61bc76,green,Indo-Iranian
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,,1030,1060,1030 CE,1060 CE,#a6c17a,lime,Indo-Iranian
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,,1080,1180,1080 CE,1180 CE,#59c374,green,Indo-Iranian
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,,1190,1250,1190 CE,1250 CE,#64ba8a,green,Indo-Iranian
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,DELHI SULTANATE,1260,1340,1260 CE,1340 CE,#918687,darkgray,
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,,1340,1400,1340 CE,1400 CE,#9bf9da,teal,Iranic
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,,1490,1510,1490 CE,1510 CE,#6eb38c,green,Indo-Iranian
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,MUGHAL EMPIRE,1530,1610,1530 CE,1610 CE,#9ef5da,teal,Iranic
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,,1620,1640,1620 CE,1640 CE,#aff5dd,teal,Ancient languages
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,,1690,1750,1690 CE,1750 CE,#9bfbe1,teal,Iranic
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,,1750,1800,1750 CE,1800 CE,#6dbd90,green,Indo-Iranian
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,,1820,1840,1820 CE,1840 CE,#81ce69,green,Indo-Iranian
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,BRITISH RAJ,1850,1950,1850 CE,1950 CE,#96f436,lime,Germanic
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,INDIA,1950,1990,1950 CE,1990 CE,#39cc64,green,Indo-Iranian
+E088,Dravidia[?],IRON AGE IN THE INDIAN SUBCONTINENT,other,,1990,2000,1990 CE,2000 CE,#2bcb59,green,Indo-Iranian
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,,-750,-450,750 BCE,450 BCE,#bfbfbf,midgray,
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,,-450,-250,450 BCE,250 BCE,#d4dbd8,lightgray,
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,SATAVAHANA DYNASTY,-250,40,250 BCE,40 CE,#ece8ba,olive,
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,KALABHRA DYNASTY,80,350,80 CE,350 CE,#ece6b9,yellow,
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,CHALUKYAS,350,1000,350 CE,1000 CE,#67c871,green,Indo-Iranian
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,,1000,1020,1000 CE,1020 CE,#1bc63e,green,Indo-Iranian
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,,1070,1090,1070 CE,1090 CE,#e8f286,olive,Romance
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,,1100,1140,1100 CE,1140 CE,#3abe57,green,Indo-Iranian
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,CHOLA EMPIRE,1140,1170,1140 CE,1170 CE,#4cc45b,green,Indo-Iranian
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,,1200,1220,1200 CE,1220 CE,#65bd64,green,Indo-Iranian
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,,1230,1250,1230 CE,1250 CE,#49c263,green,Indo-Iranian
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,,1250,1270,1250 CE,1270 CE,#6fcb82,green,Indo-Iranian
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,PANDYAN DYNASTY,1280,1350,1280 CE,1350 CE,#b2e3a6,green,Ancient languages
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,,1360,1390,1360 CE,1390 CE,#9df8d9,teal,Ancient languages
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,,1440,1460,1440 CE,1460 CE,#a2e698,green,Ancient languages
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,,1470,1490,1470 CE,1490 CE,#beef9d,green,Ancient languages
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,VIJAYANAGARA EMPIRE,1510,1540,1510 CE,1540 CE,#9cfadb,teal,Iranic
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,,1540,1570,1540 CE,1570 CE,#bbea9b,green,Germanic
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,,1580,1600,1580 CE,1600 CE,#9df8db,teal,Iranic
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,,1660,1690,1660 CE,1690 CE,#5cc689,green,Indo-Iranian
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,,1700,1740,1700 CE,1740 CE,#9ffcde,teal,Iranic
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,,1740,1760,1740 CE,1760 CE,#71c384,green,Indo-Iranian
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,,1770,1840,1770 CE,1840 CE,#75d446,green,Germanic
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,,1860,1950,1860 CE,1950 CE,#9afd33,lime,Germanic
+E089,VIJAYANAGARA EMPIRE,IRON AGE IN THE INDIAN SUBCONTINENT,state,,1950,2000,1950 CE,2000 CE,#3dc558,green,Indo-Iranian
+E090,[?] and Yakut reindeer herders,CENTRAL ASIA,pastoralist,,-3100,-60,3100 BCE,60 BCE,#efefef,lightgray,
+E090,[?] and Yakut reindeer herders,CENTRAL ASIA,pastoralist,,20,40,20 CE,40 CE,#dadada,lightgray,
+E090,[?] and Yakut reindeer herders,CENTRAL ASIA,pastoralist,,300,330,300 CE,330 CE,#d2d2d1,lightgray,
+E090,[?] and Yakut reindeer herders,CENTRAL ASIA,pastoralist,,330,380,330 CE,380 CE,#ececec,lightgray,
+E090,[?] and Yakut reindeer herders,CENTRAL ASIA,pastoralist,,390,460,390 CE,460 CE,#dad8d8,lightgray,
+E090,[?] and Yakut reindeer herders,CENTRAL ASIA,pastoralist,,1550,1570,1550 CE,1570 CE,#d3d3d3,lightgray,
+E090,[?] and Yakut reindeer herders,CENTRAL ASIA,pastoralist,,1630,1750,1630 CE,1750 CE,#f99808,yellow,Slavic
+E090,[?] and Yakut reindeer herders,CENTRAL ASIA,pastoralist,,1750,1770,1750 CE,1770 CE,#9f631a,yellow,Indo-European
+E090,[?] and Yakut reindeer herders,CENTRAL ASIA,pastoralist,,1800,1810,1800 CE,1810 CE,#c1742e,orange,Austroasiatic
+E090,[?] and Yakut reindeer herders,CENTRAL ASIA,pastoralist,,1900,2000,1900 CE,2000 CE,#f8960c,yellow,Slavic
+E091,Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,-3100,230,3100 BCE,230 CE,#e9e9e9,lightgray,
+E091,Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,230,400,230 CE,400 CE,#adacac,darkgray,
+E091,Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,1310,1360,1310 CE,1360 CE,#c39d9e,red,
+E091,Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,1470,1600,1470 CE,1600 CE,#c0c0bf,midgray,
+E091,Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,1600,1620,1600 CE,1620 CE,#f29915,yellow,Slavic
+E091,Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,1630,1650,1630 CE,1650 CE,#cf851a,yellow,Austroasiatic
+E091,Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,1660,1690,1660 CE,1690 CE,#b16e15,yellow,Afroasiatic
+E091,Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,1690,1710,1690 CE,1710 CE,#c66f0c,orange,Amerindian
+E091,Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,1720,1750,1720 CE,1750 CE,#f5990b,yellow,Slavic
+E091,Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,1860,1870,1860 CE,1870 CE,#cb8c25,yellow,Austroasiatic
+E091,Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,1870,1890,1870 CE,1890 CE,#e49120,yellow,Slavic
+E091,Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,1900,2000,1900 CE,2000 CE,#f39703,yellow,Slavic
+E092,Paleo-Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,-3100,1240,3100 BCE,1240 CE,#eeeeee,lightgray,
+E092,Paleo-Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,1240,1260,1240 CE,1260 CE,#f10604,red,Mongolic
+E092,Paleo-Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,1290,1310,1290 CE,1310 CE,#da2e2f,red,Mongolic
+E092,Paleo-Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,1310,1330,1310 CE,1330 CE,#dd211d,red,Mongolic
+E092,Paleo-Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,1360,1380,1360 CE,1380 CE,#e84d45,red,Austroasiatic
+E092,Paleo-Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,WHITE HORDE,1380,1470,1380 CE,1470 CE,#e32624,red,Mongolic
+E092,Paleo-Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,Khanate of Sibir,1470,1600,1470 CE,1600 CE,#c4c2c1,midgray,
+E092,Paleo-Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,1660,1690,1660 CE,1690 CE,#c98024,yellow,Austroasiatic
+E092,Paleo-Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,1720,1760,1720 CE,1760 CE,#fb9905,yellow,Slavic
+E092,Paleo-Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,1770,1790,1770 CE,1790 CE,#e2941d,yellow,Slavic
+E092,Paleo-Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,1820,1860,1820 CE,1860 CE,#cc8b10,yellow,Austroasiatic
+E092,Paleo-Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,TSARDOM OF RUSSIA,1880,1960,1880 CE,1960 CE,#fa960a,yellow,Slavic
+E092,Paleo-Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,1960,1980,1960 CE,1980 CE,#a05e0f,yellow,Indo-European
+E092,Paleo-Siberian taiga hunter-gatherers,CENTRAL ASIA,hunter-gatherer,,1980,2000,1980 CE,2000 CE,#ef950b,yellow,Slavic
+E093,Paleo-Asiatic pastoralists (ancestral Turkic-Mongol),CENTRAL ASIA,pastoralist,,-3100,-1350,3100 BCE,1350 BCE,#ececec,lightgray,
+E093,Paleo-Asiatic pastoralists (ancestral Turkic-Mongol),CENTRAL ASIA,pastoralist,,-1350,0,1350 BCE,0 CE,#dfdfde,lightgray,
+E093,Paleo-Asiatic pastoralists (ancestral Turkic-Mongol),CENTRAL ASIA,pastoralist,Xiongnu,0,230,0 CE,230 CE,#bfbfc0,midgray,
+E093,Paleo-Asiatic pastoralists (ancestral Turkic-Mongol),CENTRAL ASIA,pastoralist,,350,920,350 CE,920 CE,#dac7d2,lightgray,
+E093,Paleo-Asiatic pastoralists (ancestral Turkic-Mongol),CENTRAL ASIA,pastoralist,Khamag Mongol,920,1210,920 CE,1210 CE,#dedbdc,lightgray,
+E093,Paleo-Asiatic pastoralists (ancestral Turkic-Mongol),CENTRAL ASIA,pastoralist,,1210,1240,1210 CE,1240 CE,#f70402,red,Mongolic
+E093,Paleo-Asiatic pastoralists (ancestral Turkic-Mongol),CENTRAL ASIA,pastoralist,,1260,1300,1260 CE,1300 CE,#f10606,red,Mongolic
+E093,Paleo-Asiatic pastoralists (ancestral Turkic-Mongol),CENTRAL ASIA,pastoralist,GOLDEN HORDE,1300,1450,1300 CE,1450 CE,#e81918,red,Mongolic
+E093,Paleo-Asiatic pastoralists (ancestral Turkic-Mongol),CENTRAL ASIA,pastoralist,,1450,1490,1450 CE,1490 CE,#db4641,red,Austroasiatic
+E093,Paleo-Asiatic pastoralists (ancestral Turkic-Mongol),CENTRAL ASIA,pastoralist,,1490,1560,1490 CE,1560 CE,#e51c1d,red,Mongolic
+E093,Paleo-Asiatic pastoralists (ancestral Turkic-Mongol),CENTRAL ASIA,pastoralist,,1560,1640,1560 CE,1640 CE,#df3032,red,Mongolic
+E093,Paleo-Asiatic pastoralists (ancestral Turkic-Mongol),CENTRAL ASIA,pastoralist,,1640,1660,1640 CE,1660 CE,#edd0c9,red,
+E093,Paleo-Asiatic pastoralists (ancestral Turkic-Mongol),CENTRAL ASIA,pastoralist,,1660,1760,1660 CE,1760 CE,#ed711d,orange,Austroasiatic
+E093,Paleo-Asiatic pastoralists (ancestral Turkic-Mongol),CENTRAL ASIA,pastoralist,RUSSIAN EMPIRE,1760,1950,1760 CE,1950 CE,#f59713,yellow,Slavic
+E093,Paleo-Asiatic pastoralists (ancestral Turkic-Mongol),CENTRAL ASIA,pastoralist,,1950,2000,1950 CE,2000 CE,#dc8e14,yellow,Slavic
+E094,Paleo-Asiatic pastoralists (ancient Turkic-Mongol),CENTRAL ASIA,pastoralist,,-1500,-750,1500 BCE,750 BCE,#bfbfbf,midgray,
+E094,Paleo-Asiatic pastoralists (ancient Turkic-Mongol),CENTRAL ASIA,pastoralist,,-750,-120,750 BCE,120 BCE,#eeeeee,lightgray,
+E094,Paleo-Asiatic pastoralists (ancient Turkic-Mongol),CENTRAL ASIA,pastoralist,Xiongnu,-110,560,110 BCE,560 CE,#d3d2d2,lightgray,
+E094,Paleo-Asiatic pastoralists (ancient Turkic-Mongol),CENTRAL ASIA,pastoralist,,560,610,560 CE,610 CE,#de2773,pink,Turkic
+E094,Paleo-Asiatic pastoralists (ancient Turkic-Mongol),CENTRAL ASIA,pastoralist,,1160,1190,1160 CE,1190 CE,#e8c6c9,red,
+E094,Paleo-Asiatic pastoralists (ancient Turkic-Mongol),CENTRAL ASIA,pastoralist,,1210,1240,1210 CE,1240 CE,#ffe5e3,red,
+E094,Paleo-Asiatic pastoralists (ancient Turkic-Mongol),CENTRAL ASIA,pastoralist,,1240,1260,1240 CE,1260 CE,#ef4750,red,Mongolic
+E094,Paleo-Asiatic pastoralists (ancient Turkic-Mongol),CENTRAL ASIA,pastoralist,,1260,1290,1260 CE,1290 CE,#e41528,red,Amerindian
+E094,Paleo-Asiatic pastoralists (ancient Turkic-Mongol),CENTRAL ASIA,pastoralist,YUAN DYNASTY,1290,1450,1290 CE,1450 CE,#e0354a,red,Turkic
+E094,Paleo-Asiatic pastoralists (ancient Turkic-Mongol),CENTRAL ASIA,pastoralist,,1480,1510,1480 CE,1510 CE,#cc5556,red,Austroasiatic
+E094,Paleo-Asiatic pastoralists (ancient Turkic-Mongol),CENTRAL ASIA,pastoralist,,1530,1590,1530 CE,1590 CE,#bd6767,red,Austroasiatic
+E094,Paleo-Asiatic pastoralists (ancient Turkic-Mongol),CENTRAL ASIA,pastoralist,NORTHERN YUAN,1610,1760,1610 CE,1760 CE,#c93e31,red,Afroasiatic
+E094,Paleo-Asiatic pastoralists (ancient Turkic-Mongol),CENTRAL ASIA,pastoralist,,1760,1880,1760 CE,1880 CE,#b940f0,purple,Sino-Tibetan
+E094,Paleo-Asiatic pastoralists (ancient Turkic-Mongol),CENTRAL ASIA,pastoralist,RUSSIAN EMPIRE,1880,1950,1880 CE,1950 CE,#c75189,pink,Mongolic
+E094,Paleo-Asiatic pastoralists (ancient Turkic-Mongol),CENTRAL ASIA,pastoralist,,1960,2000,1960 CE,2000 CE,#e9980b,yellow,Slavic
+E095,QING DYNASTY,CENTRAL ASIA,state,,-1500,-1320,1500 BCE,1320 BCE,#bfbfbf,midgray,
+E095,QING DYNASTY,CENTRAL ASIA,state,,-1320,-1300,1320 BCE,1300 BCE,#8a8c8b,darkgray,
+E095,QING DYNASTY,CENTRAL ASIA,state,,-1300,-750,1300 BCE,750 BCE,#bfbfbf,midgray,
+E095,QING DYNASTY,CENTRAL ASIA,state,,1240,1410,1240 CE,1410 CE,#da2028,red,Mongolic
+E095,QING DYNASTY,CENTRAL ASIA,state,,1430,1500,1430 CE,1500 CE,#d8b7be,red,
+E095,QING DYNASTY,CENTRAL ASIA,state,,1510,1700,1510 CE,1700 CE,#c2c3bf,midgray,
+E095,QING DYNASTY,CENTRAL ASIA,state,,1710,1800,1710 CE,1800 CE,#ddbdbf,red,
+E095,QING DYNASTY,CENTRAL ASIA,state,QING DYNASTY,1820,1890,1820 CE,1890 CE,#d07f49,orange,Austroasiatic
+E095,QING DYNASTY,CENTRAL ASIA,state,,1910,2000,1910 CE,2000 CE,#fa9907,yellow,Slavic
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,,-3100,-1500,3100 BCE,1500 BCE,#efefee,lightgray,
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,,-1500,-750,1500 BCE,750 BCE,#bfbfbf,midgray,
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,Greater Yuezhi (Kushans),-750,0,750 BCE,0 CE,#f0f0ef,white,
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,,0,240,0 CE,240 CE,#c4f8ec,teal,
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,KUSHAN EMPIRE,240,450,240 CE,450 CE,#7ff5db,teal,Iranic
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,,460,490,460 CE,490 CE,#dc327f,pink,Turkic
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,HEPHTHALITES,550,610,550 CE,610 CE,#ea1166,pink,Turkic
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,,610,790,610 CE,790 CE,#eceeed,lightgray,
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,,800,820,800 CE,820 CE,#97a2af,blue,
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,,840,860,840 CE,860 CE,#bd517c,pink,
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,,860,900,860 CE,900 CE,#c5c2d1,midgray,
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,,910,950,910 CE,950 CE,#b7ced2,cyan,
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,,980,1000,980 CE,1000 CE,#c6e4e1,teal,
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,,1000,1060,1000 CE,1060 CE,#e04682,pink,Turkic
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,,1060,1210,1060 CE,1210 CE,#dc4771,pink,Mongolic
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,,1210,1230,1210 CE,1230 CE,#e3576c,red,Mongolic
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,,1260,1270,1260 CE,1270 CE,#f10507,red,Mongolic
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,KHWARAZMIAN EMP,1270,1410,1270 CE,1410 CE,#e81e60,pink,Turkic
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,,1410,1440,1410 CE,1440 CE,#e94780,pink,Turkic
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,,1440,1450,1440 CE,1450 CE,#e72373,pink,Turkic
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,,1460,1480,1460 CE,1480 CE,#a39c9b,darkgray,
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,Khanate of Bukhara,1480,1880,1480 CE,1880 CE,#bec0bf,midgray,
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,,1910,1950,1910 CE,1950 CE,#fa970a,yellow,Slavic
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,,1950,1980,1950 CE,1980 CE,#c68225,yellow,Austroasiatic
+E097,Greater Yuezhi (Kushans),CENTRAL ASIA,other,,1980,2000,1980 CE,2000 CE,#f99a0d,yellow,Slavic
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,-1500,-750,1500 BCE,750 BCE,#bdbdbd,midgray,
+E098,Khanate of Bukhara,CENTRAL ASIA,state,ACHAEMENID EMPIRE,-520,-330,520 BCE,330 BCE,#78fbdc,teal,Iranic
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,-330,-250,330 BCE,250 BCE,#ebeabe,olive,
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,-250,30,250 BCE,30 CE,#ccf1e9,teal,
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,40,100,40 CE,100 CE,#9ff8ec,teal,Iranic
+E098,Khanate of Bukhara,CENTRAL ASIA,state,KUSHAN EMPIRE,100,240,100 CE,240 CE,#c2fcec,teal,
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,240,300,240 CE,300 CE,#74fedc,teal,Iranic
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,310,320,310 CE,320 CE,#54b89d,teal,Indo-Iranian
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,330,380,330 CE,380 CE,#4d9488,teal,Japanese
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,400,450,400 CE,450 CE,#75fedd,teal,Iranic
+E098,Khanate of Bukhara,CENTRAL ASIA,state,HEPHTHALITES,450,610,450 CE,610 CE,#b14378,pink,
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,630,720,630 CE,720 CE,#c9eef1,cyan,
+E098,Khanate of Bukhara,CENTRAL ASIA,state,ABBASID CALIPHATE,720,780,720 CE,780 CE,#2ec0ea,cyan,Afroasiatic
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,810,820,810 CE,820 CE,#3cb0d3,cyan,Niger-Congo
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,820,1020,820 CE,1020 CE,#9df2e6,teal,Iranic
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,1040,1070,1040 CE,1070 CE,#b98ba1,pink,
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,1070,1090,1070 CE,1090 CE,#f2d9e9,pink,
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,1090,1230,1090 CE,1230 CE,#f368a3,pink,Turkic
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,1230,1250,1230 CE,1250 CE,#eb0b13,red,Mongolic
+E098,Khanate of Bukhara,CENTRAL ASIA,state,KHWARAZMIAN EMP,1250,1330,1250 CE,1330 CE,#db2e25,red,Mongolic
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,1330,1380,1330 CE,1380 CE,#c5464b,red,Austroasiatic
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,1380,1450,1380 CE,1450 CE,#f70366,pink,Turkic
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,1450,1510,1450 CE,1510 CE,#b15375,pink,
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,1510,1610,1510 CE,1610 CE,#bfbfbf,midgray,
+E098,Khanate of Bukhara,CENTRAL ASIA,state,Khanate of Bukhara,1650,1880,1650 CE,1880 CE,#babab9,midgray,
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,1880,1900,1880 CE,1900 CE,#dfa127,yellow,Slavic
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,1910,1950,1910 CE,1950 CE,#f99807,yellow,Slavic
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,1950,1970,1950 CE,1970 CE,#9c6317,yellow,Indo-European
+E098,Khanate of Bukhara,CENTRAL ASIA,state,,1970,2000,1970 CE,2000 CE,#f69b10,yellow,Slavic
+E099,Sakas,CENTRAL ASIA,other,,-3100,-750,3100 BCE,750 BCE,#bdbdbd,midgray,
+E099,Sakas,CENTRAL ASIA,other,,-650,-610,650 BCE,610 BCE,#737373,darkgray,
+E099,Sakas,CENTRAL ASIA,other,ACHAEMENID EMPIRE,-550,-470,550 BCE,470 BCE,#7af6de,teal,Iranic
+E099,Sakas,CENTRAL ASIA,other,,-450,-420,450 BCE,420 BCE,#489e91,teal,Indo-Iranian
+E099,Sakas,CENTRAL ASIA,other,,-420,-400,420 BCE,400 BCE,#398d80,teal,Japanese
+E099,Sakas,CENTRAL ASIA,other,,-380,-330,380 BCE,330 BCE,#71fadd,teal,Iranic
+E099,Sakas,CENTRAL ASIA,other,,-330,-170,330 BCE,170 BCE,#b6be3f,olive,Greek
+E099,Sakas,CENTRAL ASIA,other,,-170,-40,170 BCE,40 BCE,#39eebc,teal,Iranic
+E099,Sakas,CENTRAL ASIA,other,Greater Yuezhi (Kushans),-40,90,40 BCE,90 CE,#38dbb8,teal,Iranic
+E099,Sakas,CENTRAL ASIA,other,,90,120,90 CE,120 CE,#acfaee,teal,Ancient languages
+E099,Sakas,CENTRAL ASIA,other,,120,140,120 CE,140 CE,#89bfb3,teal,Indo-Iranian
+E099,Sakas,CENTRAL ASIA,other,,140,160,140 CE,160 CE,#9fd1c6,teal,
+E099,Sakas,CENTRAL ASIA,other,,200,220,200 CE,220 CE,#93c3b5,teal,
+E099,Sakas,CENTRAL ASIA,other,,220,240,220 CE,240 CE,#bdfeee,teal,Iranic
+E099,Sakas,CENTRAL ASIA,other,SASANIAN EMPIRE,240,450,240 CE,450 CE,#76f7dc,teal,Iranic
+E099,Sakas,CENTRAL ASIA,other,,450,470,450 CE,470 CE,#8defde,teal,Iranic
+E099,Sakas,CENTRAL ASIA,other,Turkic nomads,470,600,470 CE,600 CE,#78c4b8,teal,Indo-Iranian
+E099,Sakas,CENTRAL ASIA,other,,600,620,600 CE,620 CE,#68c7b3,teal,Indo-Iranian
+E099,Sakas,CENTRAL ASIA,other,,650,660,650 CE,660 CE,#66c0be,cyan,Indo-Iranian
+E099,Sakas,CENTRAL ASIA,other,ABBASID CALIPHATE,660,760,660 CE,760 CE,#26a6c7,cyan,Afroasiatic
+E099,Sakas,CENTRAL ASIA,other,,770,790,770 CE,790 CE,#1892b6,cyan,Japanese
+E099,Sakas,CENTRAL ASIA,other,,800,830,800 CE,830 CE,#3495bd,blue,Niger-Congo
+E099,Sakas,CENTRAL ASIA,other,,850,880,850 CE,880 CE,#32c1e4,cyan,Afroasiatic
+E099,Sakas,CENTRAL ASIA,other,,880,930,880 CE,930 CE,#85cec2,teal,Indo-Iranian
+E099,Sakas,CENTRAL ASIA,other,SAMANID EMPIRE,970,1080,970 CE,1080 CE,#83c4b4,teal,Indo-Iranian
+E099,Sakas,CENTRAL ASIA,other,,1110,1220,1110 CE,1220 CE,#b54b72,pink,
+E099,Sakas,CENTRAL ASIA,other,TIMURID EMPIRE,1230,1280,1230 CE,1280 CE,#eb0b09,red,Mongolic
+E099,Sakas,CENTRAL ASIA,other,,1280,1310,1280 CE,1310 CE,#de302e,red,Mongolic
+E099,Sakas,CENTRAL ASIA,other,,1310,1330,1310 CE,1330 CE,#f2120a,red,Mongolic
+E099,Sakas,CENTRAL ASIA,other,,1350,1360,1350 CE,1360 CE,#77bdaf,teal,Indo-Iranian
+E099,Sakas,CENTRAL ASIA,other,,1390,1420,1390 CE,1420 CE,#f40264,pink,Turkic
+E099,Sakas,CENTRAL ASIA,other,,1420,1440,1420 CE,1440 CE,#e93481,pink,Turkic
+E099,Sakas,CENTRAL ASIA,other,,1460,1510,1460 CE,1510 CE,#f41873,pink,Turkic
+E099,Sakas,CENTRAL ASIA,other,,1520,1590,1520 CE,1590 CE,#6dcab7,teal,Indo-Iranian
+E099,Sakas,CENTRAL ASIA,other,,1600,1640,1600 CE,1640 CE,#7eefd4,teal,Iranic
+E099,Sakas,CENTRAL ASIA,other,,1640,1690,1640 CE,1690 CE,#67c4b0,teal,Indo-Iranian
+E099,Sakas,CENTRAL ASIA,other,SAFAVID,1690,1740,1690 CE,1740 CE,#7aeedd,teal,Iranic
+E099,Sakas,CENTRAL ASIA,other,,1740,1770,1740 CE,1770 CE,#4daa90,teal,Indo-Iranian
+E099,Sakas,CENTRAL ASIA,other,,1770,1790,1770 CE,1790 CE,#62ae9a,teal,Indo-Iranian
+E099,Sakas,CENTRAL ASIA,other,,1790,1810,1790 CE,1810 CE,#8decdc,teal,Ancient languages
+E099,Sakas,CENTRAL ASIA,other,,1810,1850,1810 CE,1850 CE,#56b3a6,teal,Indo-Iranian
+E099,Sakas,CENTRAL ASIA,other,,1870,1890,1870 CE,1890 CE,#81f0d8,teal,Iranic
+E099,Sakas,CENTRAL ASIA,other,SOVIET UNION,1910,1950,1910 CE,1950 CE,#f89807,yellow,Slavic
+E099,Sakas,CENTRAL ASIA,other,,1960,2000,1960 CE,2000 CE,#f49912,yellow,Slavic
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,Central Asian Farmers,-3100,-750,3100 BCE,750 BCE,#bfbfbf,midgray,
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,-430,-330,430 BCE,330 BCE,#d2efea,teal,
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,-330,-260,330 BCE,260 BCE,#eceacd,olive,
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,-260,-120,260 BCE,120 BCE,#bebf9d,olive,
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,-120,0,120 BCE,0 CE,#c9c8c9,midgray,
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,0,210,0 CE,210 CE,#b8c4c3,midgray,
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,210,400,210 CE,400 CE,#bcdcd2,teal,
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,410,450,410 CE,450 CE,#d2f3ec,teal,
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,450,490,450 CE,490 CE,#e4468b,pink,Turkic
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,490,510,490 CE,510 CE,#e72d75,pink,Turkic
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,510,590,510 CE,590 CE,#f63c8a,pink,Turkic
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,620,660,620 CE,660 CE,#c8c7c8,midgray,
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,720,760,720 CE,760 CE,#a8bac6,blue,
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,760,770,760 CE,770 CE,#cbeaec,cyan,
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,770,840,770 CE,840 CE,#b8c9cb,midgray,
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,860,990,860 CE,990 CE,#d175a1,pink,Ancient languages
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,1000,1020,1000 CE,1020 CE,#ee1a72,pink,Turkic
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,1020,1080,1020 CE,1080 CE,#f15b9d,pink,Turkic
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,1080,1090,1080 CE,1090 CE,#ed186f,pink,Turkic
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,1090,1110,1090 CE,1110 CE,#f15e9c,pink,Turkic
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,1110,1130,1110 CE,1130 CE,#e22670,pink,Turkic
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,1130,1210,1130 CE,1210 CE,#de6372,red,Mongolic
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,1210,1230,1210 CE,1230 CE,#fd626d,red,Mongolic
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,1230,1270,1230 CE,1270 CE,#f80200,red,Mongolic
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,1270,1310,1270 CE,1310 CE,#d52e66,pink,Turkic
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,1340,1380,1340 CE,1380 CE,#f2277a,pink,Turkic
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,1380,1490,1380 CE,1490 CE,#f24c95,pink,Turkic
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,1490,1740,1490 CE,1740 CE,#b8b3b4,midgray,
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,1770,1870,1770 CE,1870 CE,#bb82cb,magenta,Sino-Tibetan
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,1880,1950,1880 CE,1950 CE,#f99a0e,yellow,Slavic
+E101,Central Asian Farmers,CENTRAL ASIA,farmer,,1960,2000,1960 CE,2000 CE,#ef9b2c,yellow,Slavic
+E102,Xiongnu,EAST ASIA,other,,-3100,-230,3100 BCE,230 BCE,#ececec,lightgray,
+E102,Xiongnu,EAST ASIA,other,Xiongnu,-230,560,230 BCE,560 CE,#bfbfbf,midgray,
+E102,Xiongnu,EAST ASIA,other,,560,640,560 CE,640 CE,#e91565,pink,Turkic
+E102,Xiongnu,EAST ASIA,other,,640,690,640 CE,690 CE,#b83ae5,purple,Sino-Tibetan
+E102,Xiongnu,EAST ASIA,other,,700,750,700 CE,750 CE,#e8216e,pink,Turkic
+E102,Xiongnu,EAST ASIA,other,,760,800,760 CE,800 CE,#eacedb,pink,
+E102,Xiongnu,EAST ASIA,other,,810,830,810 CE,830 CE,#cbaab9,pink,
+E102,Xiongnu,EAST ASIA,other,,1120,1210,1120 CE,1210 CE,#bfbfbf,midgray,
+E102,Xiongnu,EAST ASIA,other,,1210,1240,1210 CE,1240 CE,#db1417,red,Amerindian
+E102,Xiongnu,EAST ASIA,other,,1240,1640,1240 CE,1640 CE,#f60506,red,Mongolic
+E102,Xiongnu,EAST ASIA,other,,1650,1690,1650 CE,1690 CE,#c2bcbd,midgray,
+E102,Xiongnu,EAST ASIA,other,,1700,1920,1700 CE,1920 CE,#bc32fa,purple,Sino-Tibetan
+E102,Xiongnu,EAST ASIA,other,,1920,1940,1920 CE,1940 CE,#f60510,red,Mongolic
+E102,Xiongnu,EAST ASIA,other,,1940,2000,1940 CE,2000 CE,#df1d1e,red,Mongolic
+E103,Yuezhi (Kushans),EAST ASIA,other,Xiongnu,-400,-10,400 BCE,10 BCE,#c3c2c2,midgray,
+E103,Yuezhi (Kushans),EAST ASIA,other,,-10,0,10 BCE,0 CE,#928c8b,darkgray,
+E103,Yuezhi (Kushans),EAST ASIA,other,,0,240,0 CE,240 CE,#c0c0c2,midgray,
+E103,Yuezhi (Kushans),EAST ASIA,other,Rouran Khaganate,330,560,330 CE,560 CE,#c2c0c2,midgray,
+E103,Yuezhi (Kushans),EAST ASIA,other,,600,630,600 CE,630 CE,#e64694,pink,Turkic
+E103,Yuezhi (Kushans),EAST ASIA,other,,640,660,640 CE,660 CE,#bc34f8,purple,Sino-Tibetan
+E103,Yuezhi (Kushans),EAST ASIA,other,UYGHUR KHAGANATE,700,730,700 CE,730 CE,#f03889,pink,Turkic
+E103,Yuezhi (Kushans),EAST ASIA,other,,750,920,750 CE,920 CE,#efcede,pink,
+E103,Yuezhi (Kushans),EAST ASIA,other,LIAO DYNASTY,920,1130,920 CE,1130 CE,#f96766,red,Mongolic
+E103,Yuezhi (Kushans),EAST ASIA,other,Khamag Mongol,1130,1210,1130 CE,1210 CE,#c2c0c3,midgray,
+E103,Yuezhi (Kushans),EAST ASIA,other,,1210,1250,1210 CE,1250 CE,#e21313,red,Mongolic
+E103,Yuezhi (Kushans),EAST ASIA,other,,1270,1290,1270 CE,1290 CE,#eb0708,red,Mongolic
+E103,Yuezhi (Kushans),EAST ASIA,other,,1340,1370,1340 CE,1370 CE,#e31d20,red,Mongolic
+E103,Yuezhi (Kushans),EAST ASIA,other,YUAN,1370,1440,1370 CE,1440 CE,#ed0607,red,Mongolic
+E103,Yuezhi (Kushans),EAST ASIA,other,,1440,1510,1440 CE,1510 CE,#e82320,red,Mongolic
+E103,Yuezhi (Kushans),EAST ASIA,other,,1530,1570,1530 CE,1570 CE,#e70b18,red,Mongolic
+E103,Yuezhi (Kushans),EAST ASIA,other,,1610,1640,1610 CE,1640 CE,#e21c17,red,Mongolic
+E103,Yuezhi (Kushans),EAST ASIA,other,,1640,1670,1640 CE,1670 CE,#c5c3c6,midgray,
+E103,Yuezhi (Kushans),EAST ASIA,other,,1670,1700,1670 CE,1700 CE,#aaabb2,darkgray,
+E103,Yuezhi (Kushans),EAST ASIA,other,N. OIRAT,1700,1920,1700 CE,1920 CE,#bd32fe,purple,Sino-Tibetan
+E103,Yuezhi (Kushans),EAST ASIA,other,MONGOLIA,1920,2000,1920 CE,2000 CE,#ea0d0c,red,Mongolic
+E104,Paleo-Asiatic hunter-gatherers,EAST ASIA,hunter-gatherer,Xiongnu,-150,250,150 BCE,250 CE,#a5b25c,olive,
+E104,Paleo-Asiatic hunter-gatherers,EAST ASIA,hunter-gatherer,,260,280,260 CE,280 CE,#b2af7a,olive,Indo-Iranian
+E104,Paleo-Asiatic hunter-gatherers,EAST ASIA,hunter-gatherer,,280,440,280 CE,440 CE,#a98b6c,orange,Austroasiatic
+E104,Paleo-Asiatic hunter-gatherers,EAST ASIA,hunter-gatherer,,440,500,440 CE,500 CE,#99bd26,lime,Koreanic
+E104,Paleo-Asiatic hunter-gatherers,EAST ASIA,hunter-gatherer,,570,600,570 CE,600 CE,#e7cfc6,orange,
+E104,Paleo-Asiatic hunter-gatherers,EAST ASIA,hunter-gatherer,,600,620,600 CE,620 CE,#b9b56d,olive,
+E104,Paleo-Asiatic hunter-gatherers,EAST ASIA,hunter-gatherer,,630,650,630 CE,650 CE,#f9eadb,orange,
+E104,Paleo-Asiatic hunter-gatherers,EAST ASIA,hunter-gatherer,,660,680,660 CE,680 CE,#dfbddd,magenta,
+E104,Paleo-Asiatic hunter-gatherers,EAST ASIA,hunter-gatherer,UYGHUR KHAGANATE,750,920,750 CE,920 CE,#f1ddef,white,
+E104,Paleo-Asiatic hunter-gatherers,EAST ASIA,hunter-gatherer,LIAO DYNASTY,920,1130,920 CE,1130 CE,#f46865,red,Mongolic
+E104,Paleo-Asiatic hunter-gatherers,EAST ASIA,hunter-gatherer,,1130,1200,1130 CE,1200 CE,#d95f5e,red,Mongolic
+E104,Paleo-Asiatic hunter-gatherers,EAST ASIA,hunter-gatherer,,1200,1220,1200 CE,1220 CE,#e9616a,red,Mongolic
+E104,Paleo-Asiatic hunter-gatherers,EAST ASIA,hunter-gatherer,,1240,1270,1240 CE,1270 CE,#e13933,red,Afroasiatic
+E104,Paleo-Asiatic hunter-gatherers,EAST ASIA,hunter-gatherer,,1270,1640,1270 CE,1640 CE,#e80623,red,Mongolic
+E104,Paleo-Asiatic hunter-gatherers,EAST ASIA,hunter-gatherer,QING DYNASTY,1640,1780,1640 CE,1780 CE,#bd33fb,purple,Sino-Tibetan
+E104,Paleo-Asiatic hunter-gatherers,EAST ASIA,hunter-gatherer,,1790,1810,1790 CE,1810 CE,#bc38e5,magenta,Sino-Tibetan
+E104,Paleo-Asiatic hunter-gatherers,EAST ASIA,hunter-gatherer,,1850,1860,1850 CE,1860 CE,#fcccff,magenta,
+E104,Paleo-Asiatic hunter-gatherers,EAST ASIA,hunter-gatherer,,1880,1980,1880 CE,1980 CE,#be32f5,purple,Sino-Tibetan
+E104,Paleo-Asiatic hunter-gatherers,EAST ASIA,hunter-gatherer,,1980,2000,1980 CE,2000 CE,#f0a7fb,magenta,Ancient languages
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,-3100,-120,3100 BCE,120 BCE,#e8e5e7,lightgray,
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,-120,20,120 BCE,20 CE,#b542eb,purple,Sino-Tibetan
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,30,50,30 CE,50 CE,#a9a9a7,darkgray,
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,60,320,60 CE,320 CE,#b742e6,purple,Sino-Tibetan
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,340,440,340 CE,440 CE,#ae4bd1,purple,Sino-Tibetan
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,460,500,460 CE,500 CE,#c4b9c6,midgray,
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,500,520,500 CE,520 CE,#ab9da9,darkgray,
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,520,540,520 CE,540 CE,#b7b5b9,midgray,
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,590,640,590 CE,640 CE,#c8b5c6,midgray,
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,640,780,640 CE,780 CE,#ae3be5,purple,Sino-Tibetan
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,780,830,780 CE,830 CE,#8b43b6,purple,
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,830,850,830 CE,850 CE,#cc63f3,purple,Sino-Tibetan
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,850,900,850 CE,900 CE,#c1bdbf,midgray,
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,900,940,900 CE,940 CE,#bba1ac,pink,
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,940,960,940 CE,960 CE,#d1b9c7,pink,
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,970,1060,970 CE,1060 CE,#af89a9,magenta,
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,1060,1080,1060 CE,1080 CE,#b872db,purple,Sino-Tibetan
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,1080,1140,1080 CE,1140 CE,#a060bd,purple,Sino-Tibetan
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,1150,1200,1150 CE,1200 CE,#ae74c9,purple,Sino-Tibetan
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,1200,1230,1200 CE,1230 CE,#c680d3,magenta,Sino-Tibetan
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,1230,1310,1230 CE,1310 CE,#e51814,red,Mongolic
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,1330,1370,1330 CE,1370 CE,#f40713,red,Mongolic
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,QING DYNASTY,1380,1710,1380 CE,1710 CE,#b338e0,purple,Sino-Tibetan
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,1750,1820,1750 CE,1820 CE,#bb37f4,purple,Sino-Tibetan
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,1850,1870,1850 CE,1870 CE,#e67efd,magenta,Ancient languages
+E105,Turko-Mongols (transhumant pastoralists),EAST ASIA,pastoralist,,1900,2000,1900 CE,2000 CE,#bb37f0,purple,Sino-Tibetan
+E106,CHINA,EAST ASIA,other,Longshan Late Neolithic cultures,-3100,-1380,3100 BCE,1380 BCE,#c2c1c2,midgray,
+E106,CHINA,EAST ASIA,other,SHANG DYNASTY,-1380,-1010,1380 BCE,1010 BCE,#c3b3dd,purple,
+E106,CHINA,EAST ASIA,other,ZHOU DYNASTY,-1000,-820,1000 BCE,820 BCE,#bfabce,purple,
+E106,CHINA,EAST ASIA,other,,-820,-700,820 BCE,700 BCE,#d1bae6,purple,
+E106,CHINA,EAST ASIA,other,WESTERN HAN,-690,-20,690 BCE,20 BCE,#b538e1,purple,Sino-Tibetan
+E106,CHINA,EAST ASIA,other,EASTERN HAN,-20,20,20 BCE,20 CE,#b538e1,purple,Sino-Tibetan
+E106,CHINA,EAST ASIA,other,EASTERN JIN,30,330,30 CE,330 CE,#ba35f3,purple,Sino-Tibetan
+E106,CHINA,EAST ASIA,other,LIU SONG,330,540,330 CE,540 CE,#ba35f3,purple,Sino-Tibetan
+E106,CHINA,EAST ASIA,other,,550,600,550 CE,600 CE,#bc43ea,purple,Sino-Tibetan
+E106,CHINA,EAST ASIA,other,,600,620,600 CE,620 CE,#bf71dc,purple,Sino-Tibetan
+E106,CHINA,EAST ASIA,other,SUI,620,670,620 CE,670 CE,#ba4ae7,purple,Sino-Tibetan
+E106,CHINA,EAST ASIA,other,TANG,670,880,670 CE,880 CE,#ba4ae7,purple,Sino-Tibetan
+E106,CHINA,EAST ASIA,other,TANG DYNASTY,910,1050,910 CE,1050 CE,#bb4bea,purple,Sino-Tibetan
+E106,CHINA,EAST ASIA,other,NORTHERN SONG,1060,1180,1060 CE,1180 CE,#bd3af2,purple,Sino-Tibetan
+E106,CHINA,EAST ASIA,other,,1180,1220,1180 CE,1220 CE,#b654e0,purple,Sino-Tibetan
+E106,CHINA,EAST ASIA,other,SOUTHERN SONG,1230,1280,1230 CE,1280 CE,#c13fe5,magenta,Sino-Tibetan
+E106,CHINA,EAST ASIA,other,,1280,1310,1280 CE,1310 CE,#f30607,red,Mongolic
+E106,CHINA,EAST ASIA,other,,1330,1370,1330 CE,1370 CE,#f80303,red,Mongolic
+E106,CHINA,EAST ASIA,other,YUAN,1370,1420,1370 CE,1420 CE,#c236ec,magenta,Sino-Tibetan
+E106,CHINA,EAST ASIA,other,,1430,1520,1430 CE,1520 CE,#b84de6,purple,Sino-Tibetan
+E106,CHINA,EAST ASIA,other,,1530,1580,1530 CE,1580 CE,#c762e9,purple,Sino-Tibetan
+E106,CHINA,EAST ASIA,other,MING DYNASTY,1620,1730,1620 CE,1730 CE,#be38f5,purple,Sino-Tibetan
+E106,CHINA,EAST ASIA,other,QING DYNASTY,1730,1920,1730 CE,1920 CE,#be38f5,purple,Sino-Tibetan
+E106,CHINA,EAST ASIA,other,CHINA,1920,1970,1920 CE,1970 CE,#be38f5,purple,Sino-Tibetan
+E106,CHINA,EAST ASIA,other,,1970,1990,1970 CE,1990 CE,#b45ce8,purple,Sino-Tibetan
+E106,CHINA,EAST ASIA,other,,1990,2000,1990 CE,2000 CE,#ba37ee,purple,Sino-Tibetan
+E107,JOSEON,EAST ASIA,other,,-750,-100,750 BCE,100 BCE,#bdbdbd,midgray,
+E107,JOSEON,EAST ASIA,other,,-100,-80,100 BCE,80 BCE,#ccb8ca,midgray,
+E107,JOSEON,EAST ASIA,other,,-70,-50,70 BCE,50 BCE,#a67abf,purple,Sino-Tibetan
+E107,JOSEON,EAST ASIA,other,,-50,-30,50 BCE,30 BCE,#c0b7c3,midgray,
+E107,JOSEON,EAST ASIA,other,,-30,140,30 BCE,140 CE,#9ea048,olive,Austroasiatic
+E107,JOSEON,EAST ASIA,other,,140,670,140 CE,670 CE,#97c30e,lime,Koreanic
+E107,JOSEON,EAST ASIA,other,,710,790,710 CE,790 CE,#95c50c,lime,Koreanic
+E107,JOSEON,EAST ASIA,other,,790,1270,790 CE,1270 CE,#ac8b2d,yellow,Austroasiatic
+E107,JOSEON,EAST ASIA,other,,1270,1360,1270 CE,1360 CE,#ef0c0b,red,Mongolic
+E107,JOSEON,EAST ASIA,other,,1360,1380,1360 CE,1380 CE,#b17424,yellow,Afroasiatic
+E107,JOSEON,EAST ASIA,other,JOSEON,1380,1910,1380 CE,1910 CE,#97c908,lime,Koreanic
+E107,JOSEON,EAST ASIA,other,,1910,1950,1910 CE,1950 CE,#3b6a8f,blue,Japanese
+E107,JOSEON,EAST ASIA,other,KOREA,1950,2000,1950 CE,2000 CE,#8bae1e,lime,Koreanic
+E108,JAPAN,EAST ASIA,other,,420,1210,420 CE,1210 CE,#d5e0cc,lightgray,
+E108,JAPAN,EAST ASIA,other,,1210,1760,1210 CE,1760 CE,#eaf7d4,lime,
+E108,JAPAN,EAST ASIA,other,,1760,2000,1760 CE,2000 CE,#3e6b91,blue,Japanese
+E109,EDO PERIOD,EAST ASIA,other,,1630,1670,1630 CE,1670 CE,#96da53,lime,Germanic
+E109,EDO PERIOD,EAST ASIA,other,,1670,1690,1670 CE,1690 CE,#a64c78,pink,
+E109,EDO PERIOD,EAST ASIA,other,EDO PERIOD,1690,1900,1690 CE,1900 CE,#9a51cb,purple,Sino-Tibetan
+E109,EDO PERIOD,EAST ASIA,other,,1900,1950,1900 CE,1950 CE,#3b6189,blue,Japanese
+E109,EDO PERIOD,EAST ASIA,other,JAPAN,1950,2000,1950 CE,2000 CE,#b26dd0,purple,Sino-Tibetan
+E110,Unnamed band,SOUTHEAST ASIA,other,,500,650,500 CE,650 CE,#c9b4d1,purple,
+E110,Unnamed band,SOUTHEAST ASIA,other,,650,670,650 CE,670 CE,#a032c8,purple,Indo-European
+E110,Unnamed band,SOUTHEAST ASIA,other,,670,690,670 CE,690 CE,#c8b4cd,magenta,
+E110,Unnamed band,SOUTHEAST ASIA,other,,690,700,690 CE,700 CE,#ba4fce,magenta,Sino-Tibetan
+E110,Unnamed band,SOUTHEAST ASIA,other,,720,730,720 CE,730 CE,#ac35cd,magenta,Sino-Tibetan
+E110,Unnamed band,SOUTHEAST ASIA,other,,750,890,750 CE,890 CE,#c8b3d2,purple,
+E110,Unnamed band,SOUTHEAST ASIA,other,,900,950,900 CE,950 CE,#c8b3d0,purple,
+E110,Unnamed band,SOUTHEAST ASIA,other,,1000,1050,1000 CE,1050 CE,#ccb3d2,magenta,
+E110,Unnamed band,SOUTHEAST ASIA,other,,1060,1080,1060 CE,1080 CE,#d0add6,magenta,
+E110,Unnamed band,SOUTHEAST ASIA,other,,1110,1130,1110 CE,1130 CE,#a71dd4,magenta,Indo-European
+E110,Unnamed band,SOUTHEAST ASIA,other,,1130,1500,1130 CE,1500 CE,#c8b3cb,magenta,
+E110,Unnamed band,SOUTHEAST ASIA,other,,1500,1520,1500 CE,1520 CE,#a843c6,magenta,Sino-Tibetan
+E110,Unnamed band,SOUTHEAST ASIA,other,,1520,1560,1520 CE,1560 CE,#ccb3d7,purple,
+E110,Unnamed band,SOUTHEAST ASIA,other,,1560,1580,1560 CE,1580 CE,#ac1cd8,magenta,Indo-European
+E110,Unnamed band,SOUTHEAST ASIA,other,,1580,1820,1580 CE,1820 CE,#cbafd3,magenta,
+E110,Unnamed band,SOUTHEAST ASIA,other,,1830,1860,1830 CE,1860 CE,#af2ae2,purple,Sino-Tibetan
+E110,Unnamed band,SOUTHEAST ASIA,other,,1860,1890,1860 CE,1890 CE,#a70fd3,magenta,Indo-European
+E110,Unnamed band,SOUTHEAST ASIA,other,,1900,1950,1900 CE,1950 CE,#9af240,lime,Germanic
+E110,Unnamed band,SOUTHEAST ASIA,other,,1950,1980,1950 CE,1980 CE,#b640d9,magenta,Sino-Tibetan
+E110,Unnamed band,SOUTHEAST ASIA,other,,1980,2000,1980 CE,2000 CE,#a81ada,purple,Indo-European
+E111,Austro-Asiatic rice farmers,SOUTHEAST ASIA,farmer,,500,1080,500 CE,1080 CE,#c7bcbe,midgray,
+E111,Austro-Asiatic rice farmers,SOUTHEAST ASIA,farmer,,1080,1110,1080 CE,1110 CE,#b88f86,red,Austroasiatic
+E111,Austro-Asiatic rice farmers,SOUTHEAST ASIA,farmer,,1110,1150,1110 CE,1150 CE,#c7bfbb,midgray,
+E111,Austro-Asiatic rice farmers,SOUTHEAST ASIA,farmer,,1150,1560,1150 CE,1560 CE,#a6791b,yellow,Indo-European
+E111,Austro-Asiatic rice farmers,SOUTHEAST ASIA,farmer,,1560,1790,1560 CE,1790 CE,#927345,yellow,
+E111,Austro-Asiatic rice farmers,SOUTHEAST ASIA,farmer,,1790,1900,1790 CE,1900 CE,#7f7f0b,olive,Kra-Dai
+E111,Austro-Asiatic rice farmers,SOUTHEAST ASIA,farmer,,1910,1950,1910 CE,1950 CE,#b2b313,olive,Greek
+E111,Austro-Asiatic rice farmers,SOUTHEAST ASIA,farmer,,1960,2000,1960 CE,2000 CE,#85801c,olive,Kra-Dai
+E112,FUNAN,SOUTHEAST ASIA,other,,50,930,50 CE,930 CE,#cb6a25,orange,Austroasiatic
+E112,FUNAN,SOUTHEAST ASIA,other,,930,1070,930 CE,1070 CE,#cb680e,orange,Amerindian
+E112,FUNAN,SOUTHEAST ASIA,other,,1070,1110,1070 CE,1110 CE,#ca761f,orange,Austroasiatic
+E112,FUNAN,SOUTHEAST ASIA,other,,1110,1180,1110 CE,1180 CE,#cb650a,orange,Amerindian
+E112,FUNAN,SOUTHEAST ASIA,other,,1180,1910,1180 CE,1910 CE,#b86c09,yellow,Afroasiatic
+E112,FUNAN,SOUTHEAST ASIA,other,,1910,1960,1910 CE,1960 CE,#f2f008,olive,Romance
+E112,FUNAN,SOUTHEAST ASIA,other,,1960,1980,1960 CE,1980 CE,#b8711c,yellow,Austroasiatic
+E112,FUNAN,SOUTHEAST ASIA,other,,1980,2000,1980 CE,2000 CE,#b78229,yellow,Austroasiatic
+E113,Unnamed band,SOUTHEAST ASIA,other,,200,550,200 CE,550 CE,#bc2fbc,magenta,Indo-European
+E113,Unnamed band,SOUTHEAST ASIA,other,,550,610,550 CE,610 CE,#b45250,red,Austroasiatic
+E113,Unnamed band,SOUTHEAST ASIA,other,,610,940,610 CE,940 CE,#bc2bc0,magenta,Amerindian
+E113,Unnamed band,SOUTHEAST ASIA,other,,940,1410,940 CE,1410 CE,#c65f53,red,Austroasiatic
+E113,Unnamed band,SOUTHEAST ASIA,other,,1410,1430,1410 CE,1430 CE,#ba33b5,magenta,Amerindian
+E113,Unnamed band,SOUTHEAST ASIA,other,,1430,1820,1430 CE,1820 CE,#be5955,red,Austroasiatic
+E113,Unnamed band,SOUTHEAST ASIA,other,,1820,1890,1820 CE,1890 CE,#b1724a,orange,Austroasiatic
+E113,Unnamed band,SOUTHEAST ASIA,other,,1890,1950,1890 CE,1950 CE,#f7f014,olive,Romance
+E113,Unnamed band,SOUTHEAST ASIA,other,,1950,2000,1950 CE,2000 CE,#b47a4c,orange,Austroasiatic
+E114,Austronesians,SOUTHEAST ASIA,other,,1030,1040,1030 CE,1040 CE,#bc3379,pink,Austronesian
+E114,Austronesians,SOUTHEAST ASIA,other,,1040,1370,1040 CE,1370 CE,#daaec2,pink,
+E114,Austronesians,SOUTHEAST ASIA,other,,1370,1540,1370 CE,1540 CE,#c10a64,pink,Austronesian
+E114,Austronesians,SOUTHEAST ASIA,other,,1540,1590,1540 CE,1590 CE,#c11d6e,pink,Austronesian
+E114,Austronesians,SOUTHEAST ASIA,other,,1600,1650,1600 CE,1650 CE,#c22e64,pink,Austronesian
+E114,Austronesians,SOUTHEAST ASIA,other,,1650,1700,1650 CE,1700 CE,#fdf786,olive,Romance
+E114,Austronesians,SOUTHEAST ASIA,other,,1790,1830,1790 CE,1830 CE,#ede288,yellow,Dravidian
+E114,Austronesians,SOUTHEAST ASIA,other,,1850,1900,1850 CE,1900 CE,#fcf983,olive,Romance
+E114,Austronesians,SOUTHEAST ASIA,other,,1900,1970,1900 CE,1970 CE,#8be135,lime,Germanic
+E114,Austronesians,SOUTHEAST ASIA,other,,1970,2000,1970 CE,2000 CE,#95a042,olive,Greek
+E115,Austronesians,SOUTHEAST ASIA,other,,500,710,500 CE,710 CE,#c4bec0,midgray,
+E115,Austronesians,SOUTHEAST ASIA,other,,720,1030,720 CE,1030 CE,#c90666,pink,Austronesian
+E115,Austronesians,SOUTHEAST ASIA,other,,1030,1080,1030 CE,1080 CE,#f6de8f,yellow,Ancient languages
+E115,Austronesians,SOUTHEAST ASIA,other,,1080,1270,1080 CE,1270 CE,#c2bec1,midgray,
+E115,Austronesians,SOUTHEAST ASIA,other,,1270,1330,1270 CE,1330 CE,#a36684,pink,Austroasiatic
+E115,Austronesians,SOUTHEAST ASIA,other,,1340,1380,1340 CE,1380 CE,#c6bbbf,midgray,
+E115,Austronesians,SOUTHEAST ASIA,other,,1380,1830,1380 CE,1830 CE,#c50f64,pink,Austronesian
+E115,Austronesians,SOUTHEAST ASIA,other,,1830,1860,1830 CE,1860 CE,#9fc13d,lime,Greek
+E115,Austronesians,SOUTHEAST ASIA,other,,1860,1950,1860 CE,1950 CE,#85eb1f,lime,Germanic
+E115,Austronesians,SOUTHEAST ASIA,other,,1970,2000,1970 CE,2000 CE,#c70864,pink,Austronesian
+E116,Australo-Melanesian Neolithic farmers and hunter-gatherers,SOUTHEAST ASIA,hunter-gatherer,,710,780,710 CE,780 CE,#ddc8d1,lightgray,
+E116,Australo-Melanesian Neolithic farmers and hunter-gatherers,SOUTHEAST ASIA,hunter-gatherer,,780,880,780 CE,880 CE,#e9e2e7,lightgray,
+E116,Australo-Melanesian Neolithic farmers and hunter-gatherers,SOUTHEAST ASIA,hunter-gatherer,,880,1380,880 CE,1380 CE,#ceb8c3,pink,
+E116,Australo-Melanesian Neolithic farmers and hunter-gatherers,SOUTHEAST ASIA,hunter-gatherer,,1380,1410,1380 CE,1410 CE,#bd2972,pink,Austronesian
+E116,Australo-Melanesian Neolithic farmers and hunter-gatherers,SOUTHEAST ASIA,hunter-gatherer,,1420,1480,1420 CE,1480 CE,#bf497d,pink,
+E116,Australo-Melanesian Neolithic farmers and hunter-gatherers,SOUTHEAST ASIA,hunter-gatherer,,1480,1590,1480 CE,1590 CE,#be1569,pink,Austronesian
+E116,Australo-Melanesian Neolithic farmers and hunter-gatherers,SOUTHEAST ASIA,hunter-gatherer,,1600,1620,1600 CE,1620 CE,#ca2978,pink,Austronesian
+E116,Australo-Melanesian Neolithic farmers and hunter-gatherers,SOUTHEAST ASIA,hunter-gatherer,,1620,1650,1620 CE,1650 CE,#bb226d,pink,Austronesian
+E116,Australo-Melanesian Neolithic farmers and hunter-gatherers,SOUTHEAST ASIA,hunter-gatherer,,1650,1670,1650 CE,1670 CE,#c2347e,pink,Austronesian
+E116,Australo-Melanesian Neolithic farmers and hunter-gatherers,SOUTHEAST ASIA,hunter-gatherer,,1690,1810,1690 CE,1810 CE,#9ede36,lime,Germanic
+E116,Australo-Melanesian Neolithic farmers and hunter-gatherers,SOUTHEAST ASIA,hunter-gatherer,,1830,1950,1830 CE,1950 CE,#74cd1f,lime,Koreanic
+E116,Australo-Melanesian Neolithic farmers and hunter-gatherers,SOUTHEAST ASIA,hunter-gatherer,,1960,2000,1960 CE,2000 CE,#c52468,pink,Austronesian
+E117,Unnamed band,SOUTHEAST ASIA,other,,1500,1570,1500 CE,1570 CE,#be1961,pink,Austronesian
+E117,Unnamed band,SOUTHEAST ASIA,other,,1580,1620,1580 CE,1620 CE,#ba2467,pink,Austronesian
+E117,Unnamed band,SOUTHEAST ASIA,other,,1670,1760,1670 CE,1760 CE,#b12c51,pink,Austronesian
+E117,Unnamed band,SOUTHEAST ASIA,other,,1820,1890,1820 CE,1890 CE,#9f283a,red,Austronesian
+E117,Unnamed band,SOUTHEAST ASIA,other,,1900,1970,1900 CE,1970 CE,#76af2b,lime,Koreanic
+E117,Unnamed band,SOUTHEAST ASIA,other,,1970,2000,1970 CE,2000 CE,#c70862,pink,Austronesian
+E118,Uninhabited,SOUTHEAST ASIA,other,,-2200,1920,2200 BCE,1920 CE,#e2e4e3,lightgray,
+E118,Uninhabited,SOUTHEAST ASIA,other,,1930,2000,1930 CE,2000 CE,#90c756,lime,Indo-Iranian
+E119,Uninhabited,SOUTHEAST ASIA,other,,1920,2000,1920 CE,2000 CE,#b6f86a,lime,Germanic
+E120,Uninhabited,NORTH AMERICA,other,,990,1020,990 CE,1020 CE,#b9f66d,lime,Germanic
+E120,Uninhabited,NORTH AMERICA,other,,1020,1040,1020 CE,1040 CE,#9cd161,lime,Germanic
+E120,Uninhabited,NORTH AMERICA,other,,1040,1130,1040 CE,1130 CE,#95ca5a,lime,Indo-Iranian
+E120,Uninhabited,NORTH AMERICA,other,,1140,1160,1140 CE,1160 CE,#7db842,lime,
+E120,Uninhabited,NORTH AMERICA,other,,1200,1230,1200 CE,1230 CE,#9bcc60,lime,
+E120,Uninhabited,NORTH AMERICA,other,,1230,1280,1230 CE,1280 CE,#7fb746,lime,
+E120,Uninhabited,NORTH AMERICA,other,,1280,1310,1280 CE,1310 CE,#94c955,lime,
+E120,Uninhabited,NORTH AMERICA,other,,1320,1450,1320 CE,1450 CE,#c3f482,lime,Germanic
+E120,Uninhabited,NORTH AMERICA,other,,1730,1770,1730 CE,1770 CE,#b7fa6c,lime,Germanic
+E120,Uninhabited,NORTH AMERICA,other,,1780,1820,1780 CE,1820 CE,#99d15a,lime,Germanic
+E120,Uninhabited,NORTH AMERICA,other,,1870,1940,1870 CE,1940 CE,#b6fa66,lime,Germanic
+E120,Uninhabited,NORTH AMERICA,other,,1940,2000,1940 CE,2000 CE,#a3db5b,lime,Germanic
+E121,Arctic marine mammal hunters,NORTH AMERICA,other,,1830,2000,1830 CE,2000 CE,#95f137,lime,Germanic
+E122,Sub-Arctic forest hunter-gatherers,NORTH AMERICA,hunter-gatherer,,-2450,-2440,2450 BCE,2440 BCE,#b3b3b3,midgray,
+E122,Sub-Arctic forest hunter-gatherers,NORTH AMERICA,hunter-gatherer,,-2200,-2180,2200 BCE,2180 BCE,#b2b2b0,darkgray,
+E122,Sub-Arctic forest hunter-gatherers,NORTH AMERICA,hunter-gatherer,,1780,1850,1780 CE,1850 CE,#8ad93a,lime,Germanic
+E122,Sub-Arctic forest hunter-gatherers,NORTH AMERICA,hunter-gatherer,,1850,1920,1850 CE,1920 CE,#9af632,lime,Germanic
+E122,Sub-Arctic forest hunter-gatherers,NORTH AMERICA,hunter-gatherer,,1920,1940,1920 CE,1940 CE,#a3f34a,lime,Germanic
+E122,Sub-Arctic forest hunter-gatherers,NORTH AMERICA,hunter-gatherer,,1960,2000,1960 CE,2000 CE,#9df839,lime,Germanic
+E123,Sub-Arctic forest hunter-gatherers,NORTH AMERICA,hunter-gatherer,,1720,2000,1720 CE,2000 CE,#96ee36,lime,Germanic
+E124,Ancestral Puebloans,NORTH AMERICA,other,,-3100,1850,3100 BCE,1850 CE,#efeeee,lightgray,
+E124,Ancestral Puebloans,NORTH AMERICA,other,,1850,1870,1850 CE,1870 CE,#b7d22c,olive,Koreanic
+E124,Ancestral Puebloans,NORTH AMERICA,other,,1870,2000,1870 CE,2000 CE,#98fa35,lime,Germanic
+E125,Plains bison hunters,NORTH AMERICA,other,,-3100,1770,3100 BCE,1770 CE,#ebeae9,lightgray,
+E125,Plains bison hunters,NORTH AMERICA,other,,1770,1820,1770 CE,1820 CE,#f2f589,olive,Romance
+E125,Plains bison hunters,NORTH AMERICA,other,,1820,1830,1820 CE,1830 CE,#ade54b,lime,Germanic
+E125,Plains bison hunters,NORTH AMERICA,other,,1840,2000,1840 CE,2000 CE,#9af834,lime,Germanic
+E126,Eastern woodlands hunter-gatherers,NORTH AMERICA,hunter-gatherer,,-3100,660,3100 BCE,660 CE,#efefef,lightgray,
+E126,Eastern woodlands hunter-gatherers,NORTH AMERICA,hunter-gatherer,,670,680,670 CE,680 CE,#dfdfdf,lightgray,
+E126,Eastern woodlands hunter-gatherers,NORTH AMERICA,hunter-gatherer,,700,1360,700 CE,1360 CE,#eeefec,lightgray,
+E126,Eastern woodlands hunter-gatherers,NORTH AMERICA,hunter-gatherer,,1370,1410,1370 CE,1410 CE,#dadcdb,lightgray,
+E126,Eastern woodlands hunter-gatherers,NORTH AMERICA,hunter-gatherer,,1610,2000,1610 CE,2000 CE,#f2fd79,olive,Romance
+E127,Maize farmers,NORTH AMERICA,farmer,,-30,0,30 BCE,0 CE,#d4d4d7,lightgray,
+E127,Maize farmers,NORTH AMERICA,farmer,,150,1400,150 CE,1400 CE,#c6c3be,midgray,
+E127,Maize farmers,NORTH AMERICA,farmer,,1420,1450,1420 CE,1450 CE,#aaa161,yellow,Austroasiatic
+E127,Maize farmers,NORTH AMERICA,farmer,,1460,1500,1460 CE,1500 CE,#b8713f,orange,Austroasiatic
+E127,Maize farmers,NORTH AMERICA,farmer,,1500,1530,1500 CE,1530 CE,#d08239,orange,Austroasiatic
+E127,Maize farmers,NORTH AMERICA,farmer,,1530,2000,1530 CE,2000 CE,#f9f988,olive,Romance
+E128,MAYA CIVILIZATION (CLASSIC PERIOD),NORTH AMERICA,other,,-750,250,750 BCE,250 CE,#c1bec0,midgray,
+E128,MAYA CIVILIZATION (CLASSIC PERIOD),NORTH AMERICA,other,,250,360,250 CE,360 CE,#9a32fb,purple,Amerindian
+E128,MAYA CIVILIZATION (CLASSIC PERIOD),NORTH AMERICA,other,,400,480,400 CE,480 CE,#9b38eb,purple,Amerindian
+E128,MAYA CIVILIZATION (CLASSIC PERIOD),NORTH AMERICA,other,,480,500,480 CE,500 CE,#ab57ef,purple,Sino-Tibetan
+E128,MAYA CIVILIZATION (CLASSIC PERIOD),NORTH AMERICA,other,,520,770,520 CE,770 CE,#9a38e5,purple,Amerindian
+E128,MAYA CIVILIZATION (CLASSIC PERIOD),NORTH AMERICA,other,,770,900,770 CE,900 CE,#9835fb,purple,Amerindian
+E128,MAYA CIVILIZATION (CLASSIC PERIOD),NORTH AMERICA,other,,900,1530,900 CE,1530 CE,#c1bec1,midgray,
+E128,MAYA CIVILIZATION (CLASSIC PERIOD),NORTH AMERICA,other,,1530,2000,1530 CE,2000 CE,#f8fb82,olive,Romance
+E129,Maize farmers,SOUTH AMERICA,farmer,Maize farming replacing hunting and gathering,-3100,-1390,3100 BCE,1390 BCE,#f2f2f2,white,
+E129,Maize farmers,SOUTH AMERICA,farmer,Maize farmers,-1390,150,1390 BCE,150 CE,#f2f2f2,white,
+E129,Maize farmers,SOUTH AMERICA,farmer,Maize farmers,150,940,150 CE,940 CE,#c0c0c0,midgray,
+E129,Maize farmers,SOUTH AMERICA,farmer,Cen[?],940,1050,940 CE,1050 CE,#c0c0c0,midgray,
+E129,Maize farmers,SOUTH AMERICA,farmer,Central American chiefdoms,1050,1380,1050 CE,1380 CE,#c0c0c0,midgray,
+E129,Maize farmers,SOUTH AMERICA,farmer,,1390,1410,1390 CE,1410 CE,#aea8a8,darkgray,
+E129,Maize farmers,SOUTH AMERICA,farmer,,1410,1530,1410 CE,1530 CE,#bfbfbf,midgray,
+E129,Maize farmers,SOUTH AMERICA,farmer,SPAIN,1530,1740,1530 CE,1740 CE,#fcfc81,olive,Romance
+E129,Maize farmers,SOUTH AMERICA,farmer,,1740,1760,1740 CE,1760 CE,#f7fa91,olive,Romance
+E129,Maize farmers,SOUTH AMERICA,farmer,HONDURAS / EL SALVADOR / NICARAGUA / COSTA RICA / PANAMA / CUBA,1760,2000,1760 CE,2000 CE,#f8f981,olive,Romance
+E130,Archaic Amerindian hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Archaic Amerindian hunter-gatherers,-3100,-1470,3100 BCE,1470 BCE,#f2f2f2,white,
+E130,Archaic Amerindian hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Caribbean hunter-gatherers,-1470,260,1470 BCE,260 CE,#f2f2f2,white,
+E130,Archaic Amerindian hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Caribbean farmers,260,840,260 CE,840 CE,#f2f2f2,white,
+E130,Archaic Amerindian hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Carib[?],840,1050,840 CE,1050 CE,#f2f2f2,white,
+E130,Archaic Amerindian hunter-gatherers,SOUTH AMERICA,hunter-gatherer,farmers,1050,1250,1050 CE,1250 CE,#f2f2f2,white,
+E130,Archaic Amerindian hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Taino farmers,1250,1520,1250 CE,1520 CE,#f2f2f2,white,
+E130,Archaic Amerindian hunter-gatherers,SOUTH AMERICA,hunter-gatherer,SPAIN,1520,1850,1520 CE,1850 CE,#fbfd7f,olive,Romance
+E130,Archaic Amerindian hunter-gatherers,SOUTH AMERICA,hunter-gatherer,,1870,1890,1870 CE,1890 CE,#b5ca5b,olive,
+E130,Archaic Amerindian hunter-gatherers,SOUTH AMERICA,hunter-gatherer,,1910,2000,1910 CE,2000 CE,#f5fa83,olive,Romance
+E132,Andean chiefdoms,SOUTH AMERICA,chiefdom,Maize farming replacing hunting and gathering,-3100,-1570,3100 BCE,1570 BCE,#f2f2f2,white,
+E132,Andean chiefdoms,SOUTH AMERICA,chiefdom,Manioc farmers (replacing hunter-gatherers),-1570,-410,1570 BCE,410 BCE,#f2f2f2,white,
+E132,Andean chiefdoms,SOUTH AMERICA,chiefdom,Maize [?] farmers,-410,940,410 BCE,940 CE,#f2f2f2,white,
+E132,Andean chiefdoms,SOUTH AMERICA,chiefdom,North And[?],940,1050,940 CE,1050 CE,#f2f2f2,white,
+E132,Andean chiefdoms,SOUTH AMERICA,chiefdom,Andean chiefdoms,1050,1400,1050 CE,1400 CE,#f2f2f2,white,
+E132,Andean chiefdoms,SOUTH AMERICA,chiefdom,PERU (SPAIN),1400,1600,1400 CE,1600 CE,#f4f68e,olive,Romance
+E132,Andean chiefdoms,SOUTH AMERICA,chiefdom,NEW GRANADA,1600,1730,1600 CE,1730 CE,#f4f68e,olive,Romance
+E132,Andean chiefdoms,SOUTH AMERICA,chiefdom,COLOMBIA,1730,2000,1730 CE,2000 CE,#f4f68e,olive,Romance
+E133,Amazonian forest hunter-gatherers,SOUTH AMERICA,hunter-gatherer,farmers,-3100,1050,3100 BCE,1050 CE,#f1f1f1,white,
+E133,Amazonian forest hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Manioc farmers,1050,1270,1050 CE,1270 CE,#f1f1f1,white,
+E133,Amazonian forest hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Arawakan manioc farmers,1270,1470,1270 CE,1470 CE,#f1f1f1,white,
+E133,Amazonian forest hunter-gatherers,SOUTH AMERICA,hunter-gatherer,PERU (SPAIN),1490,1540,1490 CE,1540 CE,#d3d3d2,lightgray,
+E133,Amazonian forest hunter-gatherers,SOUTH AMERICA,hunter-gatherer,(SPAIN),1550,1760,1550 CE,1760 CE,#e5e6e0,lightgray,
+E133,Amazonian forest hunter-gatherers,SOUTH AMERICA,hunter-gatherer,VENEZUELA,1760,2000,1760 CE,2000 CE,#f9fd81,olive,Romance
+E134,Manioc farmers,SOUTH AMERICA,farmer,Archaic Amerindian hunter-gatherers,-3100,-1570,3100 BCE,1570 BCE,#eeeeed,lightgray,
+E134,Manioc farmers,SOUTH AMERICA,farmer,Manioc farmers (replacing hunter-gatherers),-1570,-190,1570 BCE,190 BCE,#eeeeed,lightgray,
+E134,Manioc farmers,SOUTH AMERICA,farmer,Manioc,-190,680,190 BCE,680 CE,#eeeeed,lightgray,
+E134,Manioc farmers,SOUTH AMERICA,farmer,Manioc,680,1050,680 CE,1050 CE,#eeeeed,lightgray,
+E134,Manioc farmers,SOUTH AMERICA,farmer,Manioc farmers,1050,1300,1050 CE,1300 CE,#eeeeed,lightgray,
+E134,Manioc farmers,SOUTH AMERICA,farmer,Arawakan manioc farmers,1300,1500,1300 CE,1500 CE,#eeeeed,lightgray,
+E134,Manioc farmers,SOUTH AMERICA,farmer,ENGLAND (GUIANA),1500,1610,1500 CE,1610 CE,#eeeeed,lightgray,
+E134,Manioc farmers,SOUTH AMERICA,farmer,,1610,1640,1610 CE,1640 CE,#f1f6a3,olive,Ancient languages
+E134,Manioc farmers,SOUTH AMERICA,farmer,BRITAIN (UK) GUIANA,1650,1740,1650 CE,1740 CE,#acd35c,lime,Germanic
+E134,Manioc farmers,SOUTH AMERICA,farmer,,1740,1760,1740 CE,1760 CE,#ecf9ad,olive,Ancient languages
+E134,Manioc farmers,SOUTH AMERICA,farmer,N. GRANADA (SPAIN),1760,2000,1760 CE,2000 CE,#84d418,lime,Koreanic
+E135,Central Andean chiefdoms,SOUTH AMERICA,chiefdom,Maize farming replacing hunting and gathering,-3100,-1580,3100 BCE,1580 BCE,#f0f1ef,white,
+E135,Central Andean chiefdoms,SOUTH AMERICA,chiefdom,Manioc farmers (replacing hunter-gatherers),-1580,-500,1580 BCE,500 BCE,#f0f1ef,white,
+E135,Central Andean chiefdoms,SOUTH AMERICA,chiefdom,Manioc farmers,-500,-20,500 BCE,20 BCE,#f0f1ef,white,
+E135,Central Andean chiefdoms,SOUTH AMERICA,chiefdom,Central Andean chiefdoms,-20,340,20 BCE,340 CE,#f0f1ef,white,
+E135,Central Andean chiefdoms,SOUTH AMERICA,chiefdom,Manioc,340,880,340 CE,880 CE,#f0f1ef,white,
+E135,Central Andean chiefdoms,SOUTH AMERICA,chiefdom,farmers,880,1540,880 CE,1540 CE,#f0f1ef,white,
+E135,Central Andean chiefdoms,SOUTH AMERICA,chiefdom,PERU,1540,2000,1540 CE,2000 CE,#fbfc82,olive,Romance
+E136,Manioc farmers (replacing hunter-gatherers),SOUTH AMERICA,hunter-gatherer,,-3100,-1730,3100 BCE,1730 BCE,#edeced,lightgray,
+E136,Manioc farmers (replacing hunter-gatherers),SOUTH AMERICA,hunter-gatherer,,-1720,-1580,1720 BCE,1580 BCE,#b9b9ba,midgray,
+E136,Manioc farmers (replacing hunter-gatherers),SOUTH AMERICA,hunter-gatherer,Manioc farmers (replacing hunter-gatherers),-1570,-830,1570 BCE,830 BCE,#ececec,lightgray,
+E136,Manioc farmers (replacing hunter-gatherers),SOUTH AMERICA,hunter-gatherer,Manioc farmers,-830,-160,830 BCE,160 BCE,#ececec,lightgray,
+E136,Manioc farmers (replacing hunter-gatherers),SOUTH AMERICA,hunter-gatherer,Savanna,-160,570,160 BCE,570 CE,#ececec,lightgray,
+E136,Manioc farmers (replacing hunter-gatherers),SOUTH AMERICA,hunter-gatherer,,900,1030,900 CE,1030 CE,#bab5d7,blue,
+E136,Manioc farmers (replacing hunter-gatherers),SOUTH AMERICA,hunter-gatherer,,1030,1200,1030 CE,1200 CE,#bbbbbb,midgray,
+E136,Manioc farmers (replacing hunter-gatherers),SOUTH AMERICA,hunter-gatherer,,1200,1260,1200 CE,1260 CE,#1a861e,green,Amerindian
+E136,Manioc farmers (replacing hunter-gatherers),SOUTH AMERICA,hunter-gatherer,,1260,1320,1260 CE,1320 CE,#499e46,green,Indo-Iranian
+E136,Manioc farmers (replacing hunter-gatherers),SOUTH AMERICA,hunter-gatherer,,1320,1440,1320 CE,1440 CE,#2b882c,green,Amerindian
+E136,Manioc farmers (replacing hunter-gatherers),SOUTH AMERICA,hunter-gatherer,,1440,1520,1440 CE,1520 CE,#32a734,green,Indo-Iranian
+E136,Manioc farmers (replacing hunter-gatherers),SOUTH AMERICA,hunter-gatherer,,1560,1580,1560 CE,1580 CE,#55ab33,green,Afroasiatic
+E136,Manioc farmers (replacing hunter-gatherers),SOUTH AMERICA,hunter-gatherer,,1580,1640,1580 CE,1640 CE,#f6f881,olive,Romance
+E136,Manioc farmers (replacing hunter-gatherers),SOUTH AMERICA,hunter-gatherer,,1640,1660,1640 CE,1660 CE,#a2a648,olive,Austroasiatic
+E136,Manioc farmers (replacing hunter-gatherers),SOUTH AMERICA,hunter-gatherer,,1710,2000,1710 CE,2000 CE,#fcfd7f,olive,Romance
+E137,MARI EMPIRE,SOUTH AMERICA,state,,-3100,-1400,3100 BCE,1400 BCE,#efefef,lightgray,
+E137,MARI EMPIRE,SOUTH AMERICA,state,,-1400,430,1400 BCE,430 CE,#b7b7b7,midgray,
+E137,MARI EMPIRE,SOUTH AMERICA,state,,450,580,450 CE,580 CE,#9c9da4,darkgray,
+E137,MARI EMPIRE,SOUTH AMERICA,state,,580,600,580 CE,600 CE,#c0bbd0,purple,
+E137,MARI EMPIRE,SOUTH AMERICA,state,,600,700,600 CE,700 CE,#ca6706,orange,Amerindian
+E137,MARI EMPIRE,SOUTH AMERICA,state,,730,750,730 CE,750 CE,#d68a37,orange,Austroasiatic
+E137,MARI EMPIRE,SOUTH AMERICA,state,,760,780,760 CE,780 CE,#c67423,orange,Austroasiatic
+E137,MARI EMPIRE,SOUTH AMERICA,state,,790,850,790 CE,850 CE,#bf6b18,orange,Austroasiatic
+E137,MARI EMPIRE,SOUTH AMERICA,state,,870,900,870 CE,900 CE,#c4721a,orange,Austroasiatic
+E137,MARI EMPIRE,SOUTH AMERICA,state,MARI EMPIRE,910,1000,910 CE,1000 CE,#cb6702,orange,Amerindian
+E137,MARI EMPIRE,SOUTH AMERICA,state,,1000,1200,1000 CE,1200 CE,#c0c0bf,midgray,
+E137,MARI EMPIRE,SOUTH AMERICA,state,,1200,1500,1200 CE,1500 CE,#3434d6,blue,Amerindian
+E137,MARI EMPIRE,SOUTH AMERICA,state,,1500,1540,1500 CE,1540 CE,#1e9b13,green,Amerindian
+E137,MARI EMPIRE,SOUTH AMERICA,state,,1550,2000,1550 CE,2000 CE,#fcfc80,olive,Romance
+E139,Amazonian forest hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Amazonian forest hunter-gatherers,-3100,-400,3100 BCE,400 BCE,#efefef,lightgray,
+E139,Amazonian forest hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Manioc farmers,-400,840,400 BCE,840 CE,#efefef,lightgray,
+E139,Amazonian forest hunter-gatherers,SOUTH AMERICA,hunter-gatherer,TIWANAKU EMPIRE,840,1050,840 CE,1050 CE,#efefef,lightgray,
+E139,Amazonian forest hunter-gatherers,SOUTH AMERICA,hunter-gatherer,chiefdoms,1050,1140,1050 CE,1140 CE,#efefef,lightgray,
+E139,Amazonian forest hunter-gatherers,SOUTH AMERICA,hunter-gatherer,AYMARA KINGDOMS,1140,1510,1140 CE,1510 CE,#efefef,lightgray,
+E139,Amazonian forest hunter-gatherers,SOUTH AMERICA,hunter-gatherer,(SPAIN),1540,1830,1540 CE,1830 CE,#f8f990,olive,Romance
+E139,Amazonian forest hunter-gatherers,SOUTH AMERICA,hunter-gatherer,,1830,1860,1830 CE,1860 CE,#fffd80,olive,Romance
+E139,Amazonian forest hunter-gatherers,SOUTH AMERICA,hunter-gatherer,BOLIVIA,1870,2000,1870 CE,2000 CE,#f7f88a,olive,Romance
+E140,Amazonian forest hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Amazonian forest hunter-gatherers,-3100,-710,3100 BCE,710 BCE,#f1f1f1,white,
+E140,Amazonian forest hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Manioc farmers,-710,150,710 BCE,150 CE,#f1f1f1,white,
+E140,Amazonian forest hunter-gatherers,SOUTH AMERICA,hunter-gatherer,,150,1620,150 CE,1620 CE,#bfbebe,midgray,
+E140,Amazonian forest hunter-gatherers,SOUTH AMERICA,hunter-gatherer,,1630,1640,1630 CE,1640 CE,#a6a87c,olive,Indo-Iranian
+E140,Amazonian forest hunter-gatherers,SOUTH AMERICA,hunter-gatherer,,1640,1800,1640 CE,1800 CE,#fbf765,olive,Romance
+E140,Amazonian forest hunter-gatherers,SOUTH AMERICA,hunter-gatherer,,1820,2000,1820 CE,2000 CE,#fefe4b,olive,Romance
+E141,Amazonian hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Archaic Amerindian hunter-gatherers,-3100,-1580,3100 BCE,1580 BCE,#f1f1f1,white,
+E141,Amazonian hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Savanna hunter-gatherers,-1580,-400,1580 BCE,400 BCE,#f1f1f1,white,
+E141,Amazonian hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Amazonian [?],-400,850,400 BCE,850 CE,#f1f1f1,white,
+E141,Amazonian hunter-gatherers,SOUTH AMERICA,hunter-gatherer,farmers,850,1310,850 CE,1310 CE,#f1f1f1,white,
+E141,Amazonian hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Arawakan manioc farmers,1310,1570,1310 CE,1570 CE,#f1f1f1,white,
+E141,Amazonian hunter-gatherers,SOUTH AMERICA,hunter-gatherer,,1570,1590,1570 CE,1590 CE,#d3cf9d,olive,Afroasiatic
+E141,Amazonian hunter-gatherers,SOUTH AMERICA,hunter-gatherer,,1610,1680,1610 CE,1680 CE,#e5e6a6,olive,Dravidian
+E141,Amazonian hunter-gatherers,SOUTH AMERICA,hunter-gatherer,BRAZIL (PT.),1700,1800,1700 CE,1800 CE,#eeed7c,olive,Dravidian
+E141,Amazonian hunter-gatherers,SOUTH AMERICA,hunter-gatherer,BOLIVIA,1810,2000,1810 CE,2000 CE,#fbfc55,olive,Romance
+E142,Savanna hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Savanna hunter-gatherers,-3100,-150,3100 BCE,150 BCE,#f1f1f1,white,
+E142,Savanna hunter-gatherers,SOUTH AMERICA,hunter-gatherer,hunter-gatherers,-150,540,150 BCE,540 CE,#f1f1f1,white,
+E142,Savanna hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Farming (replacing hunter-gatherers),540,840,540 CE,840 CE,#f1f1f1,white,
+E142,Savanna hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Savanna [?],840,1050,840 CE,1050 CE,#f1f1f1,white,
+E142,Savanna hunter-gatherers,SOUTH AMERICA,hunter-gatherer,savanna and highland farmers,1050,1420,1050 CE,1420 CE,#f1f1f1,white,
+E142,Savanna hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Tupi-Guarani savanna and highland farmers,1420,1740,1420 CE,1740 CE,#f1f1f1,white,
+E142,Savanna hunter-gatherers,SOUTH AMERICA,hunter-gatherer,,1740,1800,1740 CE,1800 CE,#faf960,olive,Romance
+E142,Savanna hunter-gatherers,SOUTH AMERICA,hunter-gatherer,BRAZIL,1810,2000,1810 CE,2000 CE,#fffe4b,olive,Romance
+E143,Savanna hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Archaic Amerindian hunter-gatherers,-3100,-780,3100 BCE,780 BCE,#efefef,lightgray,
+E143,Savanna hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Savanna hunter-gatherers,-780,930,780 BCE,930 CE,#efefef,lightgray,
+E143,Savanna hunter-gatherers,SOUTH AMERICA,hunter-gatherer,hunter-gatherers,930,1430,930 CE,1430 CE,#efefef,lightgray,
+E143,Savanna hunter-gatherers,SOUTH AMERICA,hunter-gatherer,PERU (SPAIN),1430,1580,1430 CE,1580 CE,#efefef,lightgray,
+E143,Savanna hunter-gatherers,SOUTH AMERICA,hunter-gatherer,,1580,1690,1580 CE,1690 CE,#f1f2aa,olive,Ancient languages
+E143,Savanna hunter-gatherers,SOUTH AMERICA,hunter-gatherer,BOLIVIA / PARAGUAY / URUGUAY,1690,2000,1690 CE,2000 CE,#f7f780,olive,Romance
+E144,Andean hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Andean hunter-gatherers,-3100,240,3100 BCE,240 CE,#efefee,lightgray,
+E144,Andean hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Manioc farmers,240,840,240 CE,840 CE,#efefee,lightgray,
+E144,Andean hunter-gatherers,SOUTH AMERICA,hunter-gatherer,TIWANAKU EMPIRE,840,1050,840 CE,1050 CE,#efefee,lightgray,
+E144,Andean hunter-gatherers,SOUTH AMERICA,hunter-gatherer,Manioc farmers,1050,1400,1050 CE,1400 CE,#efefee,lightgray,
+E144,Andean hunter-gatherers,SOUTH AMERICA,hunter-gatherer,,1400,1570,1400 CE,1570 CE,#d3d3d2,lightgray,
+E144,Andean hunter-gatherers,SOUTH AMERICA,hunter-gatherer,PERU (SPAIN),1570,1780,1570 CE,1780 CE,#f5f491,olive,Romance
+E144,Andean hunter-gatherers,SOUTH AMERICA,hunter-gatherer,ARGENTINA,1780,2000,1780 CE,2000 CE,#f5f491,olive,Romance
+E145,CHILE,SOUTH AMERICA,other,,230,1400,230 CE,1400 CE,#e9e7e7,lightgray,
+E145,CHILE,SOUTH AMERICA,other,CHILE,1400,2000,1400 CE,2000 CE,#f9fa89,olive,Romance
+E146,Austro-Melanesian [?] hunters and hunter-gatherers,AUSTRALASIA,hunter-gatherer,,-3100,-3010,3100 BCE,3010 BCE,#edecec,lightgray,
+E146,Austro-Melanesian [?] hunters and hunter-gatherers,AUSTRALASIA,hunter-gatherer,,-2990,-1630,2990 BCE,1630 BCE,#f2e1d7,orange,
+E146,Austro-Melanesian [?] hunters and hunter-gatherers,AUSTRALASIA,hunter-gatherer,,-1630,-1580,1630 BCE,1580 BCE,#d5d6d5,lightgray,
+E146,Austro-Melanesian [?] hunters and hunter-gatherers,AUSTRALASIA,hunter-gatherer,,-1520,520,1520 BCE,520 CE,#fae4dc,orange,
+E146,Austro-Melanesian [?] hunters and hunter-gatherers,AUSTRALASIA,hunter-gatherer,Papuan farmers,520,1610,520 CE,1610 CE,#f3f0ef,white,
+E146,Austro-Melanesian [?] hunters and hunter-gatherers,AUSTRALASIA,hunter-gatherer,Papuan farmers,1610,1890,1610 CE,1890 CE,#bebebd,midgray,
+E146,Austro-Melanesian [?] hunters and hunter-gatherers,AUSTRALASIA,hunter-gatherer,,1890,2000,1890 CE,2000 CE,#91e13d,lime,Germanic
+E147,Aboriginal Australian hunter-gatherers,AUSTRALASIA,hunter-gatherer,,1590,1610,1590 CE,1610 CE,#dfdbdc,lightgray,
+E147,Aboriginal Australian hunter-gatherers,AUSTRALASIA,hunter-gatherer,,1640,1680,1640 CE,1680 CE,#cfd0d0,midgray,
+E147,Aboriginal Australian hunter-gatherers,AUSTRALASIA,hunter-gatherer,AUSTRALIA (UK),1830,1980,1830 CE,1980 CE,#98f435,lime,Germanic
+E147,Aboriginal Australian hunter-gatherers,AUSTRALASIA,hunter-gatherer,AUSTRALIA,1980,2000,1980 CE,2000 CE,#98f435,lime,Germanic
+E148,Tasmanian [?] gatherers,AUSTRALASIA,other,,1810,2000,1810 CE,2000 CE,#99fa37,lime,Germanic
+E149,Micronesia,AUSTRALASIA,other,Lapita culture,-3100,-1060,3100 BCE,1060 BCE,#f7f7f6,white,
+E149,Micronesia,AUSTRALASIA,other,ancestral polynesia,-1060,350,1060 BCE,350 CE,#f7f7f6,white,
+E149,Micronesia,AUSTRALASIA,other,Melanesia,350,1840,350 CE,1840 CE,#f7f7f6,white,
+E149,Micronesia,AUSTRALASIA,other,N. Zealand,1840,2000,1840 CE,2000 CE,#88c33f,lime,Greek

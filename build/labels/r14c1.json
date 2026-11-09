@@ -1,0 +1,21 @@
+{
+  "tile_id": "r14c1",
+  "box": [615, 1880, 1235, 1990],
+  "margin_labels": [],
+  "rows": [
+    {
+      "y0": 1957,
+      "y1": 1970,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 615, "x1": 785, "text": "", "fill": "white", "conf": "medium"},
+        {"x0": 785, "x1": 838, "text": "Lapita culture", "fill": "lightgray", "conf": "low"},
+        {"x0": 838, "x1": 940, "text": "ancestral polynesia", "fill": "lightgray", "conf": "low"},
+        {"x0": 940, "x1": 1233, "text": "", "fill": "lightgray", "conf": "medium"}
+      ]
+    }
+  ],
+  "notes": "Only one timeline band is visible in this tile: y 1957-1970, immediately under the crimson bottom border of the printed key inset. The band is light grey (other cultures) with a white western portion; the pale, widely letter-spaced caption 'M e l a n e s i a' is printed across it (approx. x 620-760) and the two small segment names 'Lapita culture' (x~791-836) and 'ancestral polynesia' (x~838-933) sit on the grey fill - both are 4-5 px tall and only partly legible. EVERYTHING above (y 1898-1956) is the abbreviation key inset (a rotated 'Glossary of Abbreviations' title plus ~15 lines per column of code/name pairs; readable fragments include Great Britain, Greco-Bactria, Gran Colombia, Georgia, Germany, Ghana, Ghaznavid Empire, Ghurid Empire, Golden Horde, Granada, Grand Duchy of Lithuania, Greece, Han [?], Hittite Empire, Hungary, Inca Empire, Ireland, Israel, Italy, Japan, Java, Kanem, Khmer, Korea, Kushan). The key is a legend, not timeline data, and its text is 3-5 px tall, so it is described here instead of being written as rows. The repeated century-axis rows at y~1887-1896 (-1600 to -100) and y~1974-1985 (-1600 to -100) are excluded from rows, as are the rule lines at y~1898, y~1956 and the black bottom frame at y~1988. The row above the strip is cut off at the top edge."
+}

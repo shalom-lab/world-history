@@ -1,0 +1,7 @@
+{
+ "description": "Decade column mapping for the poster grid",
+ "year_start": -3100,
+ "year_end": 2000,
+ "step": 10,
+ "x_of_year": "x = 60 + (year + 3100) * 38.08 / 100"
+}

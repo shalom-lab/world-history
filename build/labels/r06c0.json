@@ -1,0 +1,139 @@
+{
+  "tile_id": "r06c0",
+  "box": [30, 840, 645, 970],
+  "margin_labels": [],
+  "rows": [
+    {
+      "y0": 851,
+      "y1": 890,
+      "label": "Bronze Age cultures",
+      "row_kind": "text",
+      "confidence": "high",
+      "segments": [
+        {"x0": 38, "x1": 645, "text": "", "fill": "midgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 890,
+      "y1": 897,
+      "label": "",
+      "row_kind": "bar",
+      "confidence": "low",
+      "segments": [
+        {"x0": 38, "x1": 573, "text": "", "fill": "lime", "conf": "medium"},
+        {"x0": 573, "x1": 645, "text": "", "fill": "olive", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 911,
+      "y1": 919,
+      "label": "",
+      "row_kind": "bar",
+      "confidence": "low",
+      "segments": [
+        {"x0": 38, "x1": 631, "text": "", "fill": "midgray", "conf": "high"},
+        {"x0": 631, "x1": 645, "text": "", "fill": "magenta", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 919,
+      "y1": 924,
+      "label": "",
+      "row_kind": "bar",
+      "confidence": "low",
+      "segments": [
+        {"x0": 38, "x1": 288, "text": "", "fill": "midgray", "conf": "medium"},
+        {"x0": 288, "x1": 645, "text": "", "fill": "yellow", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 924,
+      "y1": 930,
+      "label": "Hittites",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 38, "x1": 645, "text": "", "fill": "midgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 930,
+      "y1": 933,
+      "label": "",
+      "row_kind": "bar",
+      "confidence": "low",
+      "segments": [
+        {"x0": 38, "x1": 288, "text": "", "fill": "midgray", "conf": "medium"},
+        {"x0": 288, "x1": 645, "text": "", "fill": "cyan", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 933,
+      "y1": 936,
+      "label": "",
+      "row_kind": "bar",
+      "confidence": "low",
+      "segments": [
+        {"x0": 38, "x1": 290, "text": "", "fill": "magenta", "conf": "low"},
+        {"x0": 290, "x1": 366, "text": "", "fill": "purple", "conf": "low"},
+        {"x0": 366, "x1": 645, "text": "", "fill": "blue", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 936,
+      "y1": 944,
+      "label": "City states",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 38, "x1": 136, "text": "", "fill": "midgray", "conf": "high"},
+        {"x0": 136, "x1": 381, "text": "AKKADIAN EMPIRE", "fill": "green", "conf": "medium"},
+        {"x0": 381, "x1": 422, "text": "", "fill": "blue", "conf": "medium"},
+        {"x0": 422, "x1": 464, "text": "", "fill": "green", "conf": "medium"},
+        {"x0": 464, "x1": 645, "text": "", "fill": "blue", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 945,
+      "y1": 952,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 38, "x1": 528, "text": "SUMER (EARLY DYNASTIC PERIOD)", "fill": "cyan", "conf": "medium"},
+        {"x0": 528, "x1": 645, "text": "", "fill": "blue", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 952,
+      "y1": 957,
+      "label": "Open [?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": [
+        {"x0": 38, "x1": 645, "text": "", "fill": "midgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 957,
+      "y1": 964,
+      "label": "Pontic [?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": [
+        {"x0": 30, "x1": 645, "text": "", "fill": "white", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 965,
+      "y1": 970,
+      "label": "",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": [
+        {"x0": 38, "x1": 645, "text": "", "fill": "midgray", "conf": "high"}
+      ]
+    }
+  ],
+  "notes": "The white strip at y 897-910 carries the century scale (-3100 ... -1600) and is not a band. Bands here are only 2-6 px tall in places and much of their small print is unreadable at source resolution; labels marked low are best-effort readings of wide-spaced lettering whose tail words could not be resolved. The bottom row at y 965-970 is cut by the tile edge."
+}

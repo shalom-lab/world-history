@@ -1,0 +1,102 @@
+{
+  "tile_id": "r07c2",
+  "box": [1205, 970, 1645, 1100],
+  "margin_labels": [],
+  "rows": [
+    {
+      "y0": 970,
+      "y1": 985,
+      "label": "Arabs",
+      "row_kind": "mixed",
+      "confidence": "high",
+      "segments": [
+        {"x0": 1205, "x1": 1230, "text": "", "fill": "white", "conf": "medium"},
+        {"x0": 1230, "x1": 1300, "text": "Arabs", "fill": "midgray", "conf": "high"},
+        {"x0": 1300, "x1": 1490, "text": "Arab nomads", "fill": "lightgray", "conf": "medium"},
+        {"x0": 1490, "x1": 1620, "text": "", "fill": "blue", "conf": "medium"},
+        {"x0": 1620, "x1": 1645, "text": "Qarmatians", "fill": "lightgray", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 985,
+      "y1": 1000,
+      "label": "Arabs",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1205, "x1": 1350, "text": "Arabs", "fill": "lightgray", "conf": "low"},
+        {"x0": 1350, "x1": 1490, "text": "Arabs", "fill": "lightgray", "conf": "medium"},
+        {"x0": 1490, "x1": 1620, "text": "", "fill": "blue", "conf": "medium"},
+        {"x0": 1620, "x1": 1645, "text": "", "fill": "lightgray", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1000,
+      "y1": 1015,
+      "label": "",
+      "row_kind": "bar",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1205, "x1": 1490, "text": "", "fill": "cyan", "conf": "low"},
+        {"x0": 1490, "x1": 1645, "text": "", "fill": "blue", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1015,
+      "y1": 1040,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "high",
+      "segments": [
+        {"x0": 1205, "x1": 1290, "text": "PARTHIAN EMPIRE", "fill": "teal", "conf": "medium"},
+        {"x0": 1290, "x1": 1490, "text": "SASSANIAN EMPIRE", "fill": "teal", "conf": "high"},
+        {"x0": 1490, "x1": 1540, "text": "UMAYYAD CALIPHATE", "fill": "blue", "conf": "medium"},
+        {"x0": 1540, "x1": 1620, "text": "ABBASID CALIPHATE", "fill": "blue", "conf": "medium"},
+        {"x0": 1620, "x1": 1645, "text": "", "fill": "lightgray", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1040,
+      "y1": 1060,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1205, "x1": 1290, "text": "", "fill": "teal", "conf": "medium"},
+        {"x0": 1290, "x1": 1345, "text": "KUSHAN EMPIRE", "fill": "cyan", "conf": "medium"},
+        {"x0": 1345, "x1": 1490, "text": "SASSANIAN EMPIRE", "fill": "teal", "conf": "low"},
+        {"x0": 1490, "x1": 1560, "text": "TURK SHAHIS", "fill": "magenta", "conf": "low"},
+        {"x0": 1560, "x1": 1645, "text": "PRATIHARA DYNASTY", "fill": "green", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1060,
+      "y1": 1080,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1205, "x1": 1290, "text": "INDO-SCYTHIA", "fill": "lightgray", "conf": "low"},
+        {"x0": 1290, "x1": 1360, "text": "WESTERN SATRAPS", "fill": "green", "conf": "low"},
+        {"x0": 1360, "x1": 1430, "text": "GUPTA EMPIRE", "fill": "green", "conf": "medium"},
+        {"x0": 1430, "x1": 1490, "text": "ALCHON HUNS", "fill": "magenta", "conf": "medium"},
+        {"x0": 1490, "x1": 1590, "text": "", "fill": "green", "conf": "low"},
+        {"x0": 1590, "x1": 1645, "text": "RASHTRAKUTA EMPIRE", "fill": "yellow", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1080,
+      "y1": 1100,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1205, "x1": 1310, "text": "SATAVAHANA DYNASTY", "fill": "green", "conf": "medium"},
+        {"x0": 1310, "x1": 1420, "text": "KALABHRA DYNASTY", "fill": "yellow", "conf": "low"},
+        {"x0": 1420, "x1": 1520, "text": "CHALUKYAS", "fill": "yellow", "conf": "low"},
+        {"x0": 1520, "x1": 1645, "text": "", "fill": "yellow", "conf": "low"}
+      ]
+    }
+  ],
+  "notes": "Band boundaries in this tile are tight (many rows are 5-9 px); the two blue vertical captions UMAYYAD CALIPHATE and ABBASID CALIPHATE are rotated 90 degrees and run through several bands, so they are attached to the band where they are widest. The bottom row is cut by the tile edge."
+}

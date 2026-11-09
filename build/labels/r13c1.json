@@ -1,0 +1,28 @@
+{
+ "tile_id": "r13c1",
+ "box": [615, 1750, 1235, 1880],
+ "margin_labels": [],
+ "rows": [
+  {"y0": 1753, "y1": 1770, "label": "Amazonian forest hunter-gatherers",
+   "row_kind": "text", "confidence": "medium",
+   "segments": [{"x0": 640, "x1": 880, "text": "Amazonian forest hunter-gatherers", "fill": "white", "conf": "medium"}]},
+  {"y0": 1771, "y1": 1786, "label": "Amazonian forest hunter-gatherers",
+   "row_kind": "mixed", "confidence": "medium",
+   "segments": [
+    {"x0": 640, "x1": 880, "text": "Amazonian forest hunter-gatherers", "fill": "white", "conf": "medium"},
+    {"x0": 1060, "x1": 1235, "text": "Manioc farmers", "fill": "lightgray", "conf": "low"}
+   ]},
+  {"y0": 1787, "y1": 1800, "label": "Savanna hunter-gatherers",
+   "row_kind": "text", "confidence": "medium",
+   "segments": [{"x0": 640, "x1": 880, "text": "Savanna hunter-gatherers", "fill": "white", "conf": "medium"}]},
+  {"y0": 1801, "y1": 1820, "label": "Savanna hunter-gatherers",
+   "row_kind": "text", "confidence": "high",
+   "segments": [{"x0": 660, "x1": 1160, "text": "Savanna hunter-gatherers", "fill": "white", "conf": "high"}]},
+  {"y0": 1840, "y1": 1857, "label": "Savanna hunter-gatherers",
+   "row_kind": "text", "confidence": "low", "segments": []},
+  {"y0": 1858, "y1": 1878, "label": "Andean hunter-gatherers",
+   "row_kind": "text", "confidence": "high",
+   "segments": [{"x0": 640, "x1": 1180, "text": "Andean hunter-gatherers", "fill": "white", "conf": "high"}]}
+ ],
+ "notes": "Century axis strip at y 1822-1838 skipped. Most bands are white at this end; the bars of the Andean/Amazonian polities sit further right (columns c2/c3, not transcribed)."
+}

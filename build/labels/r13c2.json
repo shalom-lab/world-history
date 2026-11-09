@@ -1,0 +1,32 @@
+{
+ "tile_id": "r13c2",
+ "box": [1205, 1750, 1645, 1880],
+ "margin_labels": [],
+ "rows": [
+  {"y0": 1752, "y1": 1775, "label": "Manioc farmers", "row_kind": "mixed", "confidence": "high",
+   "segments": [
+    {"x0": 1300, "x1": 1560, "text": "Manioc farmers", "fill": "white", "conf": "high"},
+    {"x0": 1560, "x1": 1645, "text": "TIWANAKU EMPIRE", "fill": "orange", "conf": "medium"}
+   ]},
+  {"y0": 1775, "y1": 1790, "label": "Amazonian hunter-gatherers", "row_kind": "text", "confidence": "low",
+   "segments": [
+    {"x0": 1300, "x1": 1500, "text": "Amazonian [?]", "fill": "lightgray", "conf": "low"}
+   ]},
+  {"y0": 1790, "y1": 1815, "label": "hunter-gatherers", "row_kind": "mixed", "confidence": "medium",
+   "segments": [
+    {"x0": 1205, "x1": 1440, "text": "hunter-gatherers", "fill": "white", "conf": "medium"},
+    {"x0": 1450, "x1": 1560, "text": "Farming (replacing hunter-gatherers)", "fill": "white", "conf": "high"},
+    {"x0": 1560, "x1": 1645, "text": "Savanna [?]", "fill": "lightgray", "conf": "low"}
+   ]},
+  {"y0": 1835, "y1": 1855, "label": "Savanna hunter-gatherers", "row_kind": "text", "confidence": "medium",
+   "segments": [
+    {"x0": 1250, "x1": 1560, "text": "Savanna hunter-gatherers", "fill": "white", "conf": "medium"}
+   ]},
+  {"y0": 1855, "y1": 1875, "label": "Manioc farmers", "row_kind": "mixed", "confidence": "medium",
+   "segments": [
+    {"x0": 1480, "x1": 1560, "text": "Manioc farmers", "fill": "white", "conf": "medium"},
+    {"x0": 1560, "x1": 1640, "text": "TIWANAKU EMPIRE", "fill": "orange", "conf": "medium"}
+   ]}
+ ],
+ "notes": "Century axis strip at y 1815-1830 skipped. Several lines in this block are printed at 3-4 px with wide tracking; only the bold captions are reliable, the rest is marked [?]."
+}

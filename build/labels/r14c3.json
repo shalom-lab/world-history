@@ -1,0 +1,60 @@
+{
+  "tile_id": "r14c3",
+  "box": [1625, 1880, 2032, 1990],
+  "margin_labels": [
+    {"text": "AUSTRALASIA", "x0": 1998, "x1": 2012, "y0": 1888, "y1": 1972}
+  ],
+  "rows": [
+    {
+      "y0": 1880,
+      "y1": 1887,
+      "label": "",
+      "row_kind": "bar",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1830, "x1": 2009, "text": "", "fill": "yellow", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1899,
+      "y1": 1916,
+      "label": "Papuan farmers",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1625, "x1": 1730, "text": "", "fill": "white", "conf": "medium"},
+        {"x0": 1730, "x1": 1810, "text": "Papuan farmers", "fill": "lightgray", "conf": "low"},
+        {"x0": 1810, "x1": 1960, "text": "Papuan farmers", "fill": "midgray", "conf": "medium"},
+        {"x0": 1960, "x1": 2009, "text": "", "fill": "lime", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1917,
+      "y1": 1955,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1625, "x1": 1922, "text": "", "fill": "white", "conf": "high"},
+        {"x0": 1922, "x1": 1938, "text": "", "fill": "lime", "conf": "low"},
+        {"x0": 1938, "x1": 1993, "text": "AUSTRALIA (UK)", "fill": "lime", "conf": "high"},
+        {"x0": 1993, "x1": 2010, "text": "AUSTRALIA", "fill": "lime", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 1957,
+      "y1": 1970,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1625, "x1": 1700, "text": "", "fill": "lightgray", "conf": "low"},
+        {"x0": 1700, "x1": 1750, "text": "", "fill": "white", "conf": "low"},
+        {"x0": 1750, "x1": 1810, "text": "", "fill": "lightgray", "conf": "low"},
+        {"x0": 1810, "x1": 1965, "text": "Melanesia", "fill": "midgray", "conf": "medium"},
+        {"x0": 1965, "x1": 2009, "text": "N. Zealand", "fill": "lime", "conf": "low"}
+      ]
+    }
+  ],
+  "notes": "Right edge of the strip. Rows are read off the drawn decade/century grid (century labels 1100-2000 in the axis rows at y~1887-1896 and y~1974-1985; one century = 38 px, one decade = 3.8 px). The row at y 1880-1887 is the cut-off bottom of the row above the strip: a pale yellow bar whose text ('... land and ... islands chains') is cut in half by the tile edge. In the y 1899-1916 row the words 'Papuan farmers' are printed twice, in pale letterspaced type on the light grey part and in heavier type on the mid-grey part; a lime segment then starts at x~1960 carrying tiny text that reads roughly 'N. Zealand (new [?])' and 'PNG'. The tall row y 1917-1955 holds the large centred caption 'Aboriginal Australian hunter-gatherers' on white, then a stepped block of lime-green: a narrow strip with rotated code letters (looks like 'Cwl') at x~1922-1938, the block labelled 'AUSTRALIA (UK)' x~1938-1993, and a rotated 'AUSTRALIA' bar x~1993-2010. In the y 1957-1970 band the pale letterspaced caption 'M e l a n e s i a' runs across the mid-grey fill, and white text in the lime piece at the right edge reads roughly 'N. ZEALAND (Polynesia)'. The abbreviation-key inset that fills y 1898-1956 in the other three tiles ends in this tile at x~1706 (crimson right border), with its last column's tiny entries ('... 2001', 'Aboriginal ...') still visible; that block is a legend, not timeline data, and its 3-5 px text is not transcribed as rows. Excluded from rows: the two repeated century-axis rows, the rules at y~1898 and y~1956, and the black bottom frame at y~1988 (only a ~2 px sliver of the key/credits block below it is inside the tile, so no credits text is legible)."
+}

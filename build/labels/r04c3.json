@@ -1,0 +1,115 @@
+{
+ "tile_id": "r04c3",
+ "box": [1625, 580, 2032, 710],
+ "margin_labels": [],
+ "rows": [
+  {
+   "y0": 580,
+   "y1": 592,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {"x0": 1805, "x1": 2032, "text": "African chiefdoms", "fill": "lightgray", "conf": "medium"}
+   ]
+  },
+  {
+   "y0": 592,
+   "y1": 604,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {"x0": 1625, "x1": 1805, "text": "", "fill": "lime", "conf": "low"},
+    {"x0": 1805, "x1": 2032, "text": "African chiefdoms", "fill": "lightgray", "conf": "medium"}
+   ]
+  },
+  {
+   "y0": 604,
+   "y1": 618,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 1625, "x1": 1830, "text": "", "fill": "brown", "conf": "medium"},
+    {"x0": 1830, "x1": 1930, "text": "FUNJ SULTANATE", "fill": "cyan", "conf": "high"}
+   ]
+  },
+  {
+   "y0": 618,
+   "y1": 632,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 1625, "x1": 1660, "text": "FATIMID CALIPHATE", "fill": "cyan", "conf": "medium"},
+    {"x0": 1660, "x1": 1700, "text": "AYYUBIDS", "fill": "cyan", "conf": "medium"},
+    {"x0": 1700, "x1": 1800, "text": "MAMLUK SULTANATE", "fill": "cyan", "conf": "medium"},
+    {"x0": 1830, "x1": 1960, "text": "OTTOMAN EMPIRE", "fill": "pink", "conf": "high"},
+    {"x0": 1960, "x1": 1990, "text": "EGYPT", "fill": "blue", "conf": "low"}
+   ]
+  },
+  {
+   "y0": 632,
+   "y1": 641,
+   "label": "Camel nomads",
+   "row_kind": "text",
+   "confidence": "high",
+   "segments": []
+  },
+  {
+   "y0": 652,
+   "y1": 662,
+   "label": "ICELANDIC COMMONWEALTH",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {"x0": 1625, "x1": 1700, "text": "ICELANDIC COMMONWEALTH", "fill": "lime", "conf": "low"},
+    {"x0": 1700, "x1": 1830, "text": "", "fill": "lime", "conf": "low"}
+   ]
+  },
+  {
+   "y0": 662,
+   "y1": 674,
+   "label": "KALMAR UNION",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 1700, "x1": 1800, "text": "KALMAR UNION", "fill": "lime", "conf": "medium"},
+    {"x0": 1830, "x1": 1960, "text": "DENMARK-NORWAY", "fill": "lime", "conf": "medium"}
+   ]
+  },
+  {
+   "y0": 674,
+   "y1": 686,
+   "label": "SWEDEN",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 1700, "x1": 1830, "text": "SWEDEN", "fill": "lime", "conf": "medium"},
+    {"x0": 1960, "x1": 2000, "text": "NORWAY", "fill": "lime", "conf": "medium"}
+   ]
+  },
+  {
+   "y0": 686,
+   "y1": 698,
+   "label": "Sami reindeer herders",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": []
+  },
+  {
+   "y0": 698,
+   "y1": 710,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {"x0": 1680, "x1": 1730, "text": "NOVGOROD", "fill": "orange", "conf": "low"},
+    {"x0": 1730, "x1": 1780, "text": "MOSCOW", "fill": "orange", "conf": "low"},
+    {"x0": 1970, "x1": 2032, "text": "FINLAND", "fill": "red", "conf": "medium"}
+   ]
+  }
+ ],
+ "notes": "Century axis labels (1100-2000) at y 641-651. Vertical labels EGYPT / EGYPT (SUDAN) / SUDAN run through the right side of rows y 604-632. Rows 651-700 hold the Scandinavian sequence; KALMAR UNION is printed large across y 662-686."
+}

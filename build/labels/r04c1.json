@@ -1,0 +1,128 @@
+{
+ "tile_id": "r04c1",
+ "box": [615, 580, 1235, 710],
+ "margin_labels": [],
+ "rows": [
+  {
+   "y0": 581,
+   "y1": 592,
+   "label": "Populations",
+   "row_kind": "text",
+   "confidence": "low",
+   "segments": []
+  },
+  {
+   "y0": 592,
+   "y1": 602,
+   "label": "Tropical forest hunter-gatherers",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": []
+  },
+  {
+   "y0": 602,
+   "y1": 610,
+   "label": "Cereal farmers",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": []
+  },
+  {
+   "y0": 604,
+   "y1": 620,
+   "label": "KUSH",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 985, "x1": 1080, "text": "KUSH", "fill": "orange", "conf": "high"},
+    {"x0": 1080, "x1": 1235, "text": "KUSH (NAPATAN PERIOD)", "fill": "orange", "conf": "medium"}
+   ]
+  },
+  {
+   "y0": 610,
+   "y1": 617,
+   "label": "Nubians",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 640, "x1": 960, "text": "Nubia", "fill": "lightgray", "conf": "medium"}
+   ]
+  },
+  {
+   "y0": 617,
+   "y1": 632,
+   "label": "EGYPTIAN NEW KINGDOM",
+   "row_kind": "mixed",
+   "confidence": "high",
+   "segments": [
+    {"x0": 640, "x1": 880, "text": "EGYPTIAN NEW KINGDOM (18th dynasty)", "fill": "red", "conf": "high"},
+    {"x0": 880, "x1": 940, "text": "EGYPT (21st)", "fill": "red", "conf": "medium"},
+    {"x0": 940, "x1": 985, "text": "EGYPT (22nd)", "fill": "red", "conf": "medium"},
+    {"x0": 985, "x1": 1035, "text": "KUSH (25th)", "fill": "orange", "conf": "low"},
+    {"x0": 1035, "x1": 1080, "text": "EGYPT (26th)", "fill": "red", "conf": "medium"},
+    {"x0": 1080, "x1": 1140, "text": "ACHAIMENID EMPIRE", "fill": "teal", "conf": "medium"},
+    {"x0": 1140, "x1": 1160, "text": "300s", "fill": "red", "conf": "low"},
+    {"x0": 1160, "x1": 1175, "text": "", "fill": "lime", "conf": "low"},
+    {"x0": 1175, "x1": 1235, "text": "PTOLEMAIC KINGDOM", "fill": "olive", "conf": "medium"}
+   ]
+  },
+  {
+   "y0": 632,
+   "y1": 643,
+   "label": "Pastoral nomads",
+   "row_kind": "text",
+   "confidence": "high",
+   "segments": []
+  },
+  {
+   "y0": 655,
+   "y1": 666,
+   "label": "Bronze Age cultures",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 660, "x1": 870, "text": "", "fill": "midgray", "conf": "medium"},
+    {"x0": 1090, "x1": 1235, "text": "", "fill": "midgray", "conf": "medium"}
+   ]
+  },
+  {
+   "y0": 666,
+   "y1": 678,
+   "label": "Sami",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 660, "x1": 1235, "text": "", "fill": "midgray", "conf": "medium"}
+   ]
+  },
+  {
+   "y0": 678,
+   "y1": 690,
+   "label": "Sami",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": []
+  },
+  {
+   "y0": 690,
+   "y1": 702,
+   "label": "Bronze Age cultures",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 660, "x1": 1000, "text": "", "fill": "midgray", "conf": "medium"}
+   ]
+  },
+  {
+   "y0": 702,
+   "y1": 710,
+   "label": "Bronze Age cultures",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 640, "x1": 950, "text": "", "fill": "midgray", "conf": "medium"}
+   ]
+  }
+ ],
+ "notes": "Century axis labels (-1600 to -800) sit at y 644-654. Rows y 604-617 (Kush/Nubia) and 617-632 (Egypt) overlap slightly because the poster staggers the regional sub-rows. Rows below the axis have small duplicate text lines that were merged into the nearest band."
+}

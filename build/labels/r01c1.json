@@ -1,0 +1,65 @@
+{
+  "tile_id": "r01c1",
+  "box": [615, 190, 1235, 320],
+  "margin_labels": [],
+  "rows": [
+    {
+      "y0": 213,
+      "y1": 226,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 683, "x1": 748, "text": "", "fill": "lightgray", "conf": "low"},
+        {"x0": 748, "x1": 960, "text": "Pastoralists", "fill": "white", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 226,
+      "y1": 240,
+      "label": "Khoisan pastoral farmers",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 987, "x1": 1048, "text": "Pastoralists", "fill": "lightgray", "conf": "low"},
+        {"x0": 1060, "x1": 1150, "text": "Khoisan pastoral farmers", "fill": "lightgray", "conf": "medium"},
+        {"x0": 1158, "x1": 1235, "text": "Khoisan pastor[?]", "fill": "lightgray", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 242,
+      "y1": 262,
+      "label": "Khoisan hunter-gatherers",
+      "row_kind": "text",
+      "confidence": "high",
+      "segments": [
+        {"x0": 630, "x1": 960, "text": "Khoisan hunter-gatherers", "fill": "white", "conf": "high"},
+        {"x0": 1022, "x1": 1178, "text": "Khoisan hunter-gatherers", "fill": "white", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 276,
+      "y1": 292,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1030, "x1": 1090, "text": "Pastoralists", "fill": "lightgray", "conf": "low"},
+        {"x0": 1090, "x1": 1215, "text": "Bantu-speaking herders and farmers", "fill": "lightgray", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 300,
+      "y1": 320,
+      "label": "Tropical forest hunter-gatherers",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 657, "x1": 925, "text": "Tropical forest hunter-gatherers", "fill": "lightgray", "conf": "medium"},
+        {"x0": 975, "x1": 1030, "text": "Central farmers", "fill": "lightgray", "conf": "low"},
+        {"x0": 975, "x1": 1030, "text": "Bantu-speaking peoples", "fill": "lightgray", "conf": "low"}
+      ]
+    }
+  ],
+  "notes": "Bottom band(s) cut off by the tile edge at y=320 (Tropical forest hunter-gatherers / Central farmers / Bantu-speaking peoples continue below); the two labels at x 975-1030 are stacked lines in the same cut-off area and their fill extents are uncertain. Faint wide-letter-spaced 'Pastoralists' near the top edge is barely legible. The duplicated 'Khoisan hunter-gatherers' at x 1022-1178 is a second, smaller occurrence to the right. Century-axis numbers along the bottom axis strip were not transcribed."
+}

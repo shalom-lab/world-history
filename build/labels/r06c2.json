@@ -1,0 +1,118 @@
+{
+  "tile_id": "r06c2",
+  "box": [1205, 840, 1645, 970],
+  "margin_labels": [],
+  "rows": [
+    {
+      "y0": 841,
+      "y1": 864,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1205, "x1": 1250, "text": "ROMAN REPUBLIC", "fill": "yellow", "conf": "low"},
+        {"x0": 1250, "x1": 1490, "text": "ROMAN EMPIRE", "fill": "yellow", "conf": "high"},
+        {"x0": 1490, "x1": 1560, "text": "VISIGOTHIC KINGDOM", "fill": "cyan", "conf": "medium"},
+        {"x0": 1560, "x1": 1645, "text": "CÓRDOBA", "fill": "cyan", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 864,
+      "y1": 881,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1205, "x1": 1350, "text": "", "fill": "yellow", "conf": "medium"},
+        {"x0": 1350, "x1": 1490, "text": "EASTERN ROMAN EMPIRE", "fill": "yellow", "conf": "medium"},
+        {"x0": 1490, "x1": 1560, "text": "BYZANTINE EMPIRE", "fill": "olive", "conf": "medium"},
+        {"x0": 1560, "x1": 1645, "text": "FIRST BULGARIAN EMPIRE", "fill": "magenta", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 881,
+      "y1": 896,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1205, "x1": 1490, "text": "", "fill": "yellow", "conf": "medium"},
+        {"x0": 1490, "x1": 1560, "text": "", "fill": "olive", "conf": "medium"},
+        {"x0": 1560, "x1": 1645, "text": "", "fill": "yellow", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 911,
+      "y1": 920,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1205, "x1": 1470, "text": "ROMAN EMPIRE", "fill": "yellow", "conf": "medium"},
+        {"x0": 1470, "x1": 1560, "text": "EASTERN ROMAN EMPIRE", "fill": "yellow", "conf": "low"},
+        {"x0": 1560, "x1": 1645, "text": "BYZANTINE EMPIRE", "fill": "yellow", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 920,
+      "y1": 932,
+      "label": "",
+      "row_kind": "bar",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1205, "x1": 1470, "text": "", "fill": "yellow", "conf": "medium"},
+        {"x0": 1470, "x1": 1560, "text": "", "fill": "pink", "conf": "low"},
+        {"x0": 1560, "x1": 1645, "text": "SASSANID EMPIRE", "fill": "pink", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 932,
+      "y1": 943,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1205, "x1": 1250, "text": "", "fill": "lime", "conf": "low"},
+        {"x0": 1250, "x1": 1470, "text": "ROMAN EMPIRE", "fill": "yellow", "conf": "medium"},
+        {"x0": 1470, "x1": 1560, "text": "", "fill": "cyan", "conf": "low"},
+        {"x0": 1560, "x1": 1645, "text": "SASSANID EMPIRE", "fill": "pink", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 943,
+      "y1": 953,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1205, "x1": 1290, "text": "PARTHIAN EMPIRE", "fill": "cyan", "conf": "medium"},
+        {"x0": 1290, "x1": 1470, "text": "ROMAN EMPIRE", "fill": "yellow", "conf": "medium"},
+        {"x0": 1470, "x1": 1560, "text": "SASSANIAN EMPIRE", "fill": "cyan", "conf": "low"},
+        {"x0": 1560, "x1": 1645, "text": "SASSANID EMPIRE", "fill": "pink", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 953,
+      "y1": 962,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1205, "x1": 1470, "text": "ROMAN EMPIRE", "fill": "yellow", "conf": "low"},
+        {"x0": 1470, "x1": 1560, "text": "", "fill": "cyan", "conf": "low"},
+        {"x0": 1560, "x1": 1645, "text": "", "fill": "cyan", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 962,
+      "y1": 970,
+      "label": "Arab nomads",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1205, "x1": 1645, "text": "", "fill": "white", "conf": "medium"}
+      ]
+    }
+  ],
+  "notes": "White strip at y 897-910 carries the century scale (1100 ... 2000); not a band. The giant 'ROMAN EMPIRE' title printed across the yellow block at y 841-896 is far larger than the band it sits in, so the yellow block is transcribed once per visible sub-band. Rows below y 943 are only 4-6 px tall and their small print is mostly illegible."
+}

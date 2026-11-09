@@ -1,0 +1,46 @@
+{
+  "tile_id": "r02c0",
+  "box": [30, 320, 645, 450],
+  "margin_labels": [
+    {"text": "AFRICA", "x0": 30, "x1": 45, "y0": 372, "y1": 450}
+  ],
+  "rows": [
+    {
+      "y0": 377,
+      "y1": 400,
+      "label": "Tropical forest hunter-gatherers",
+      "row_kind": "mixed",
+      "confidence": "high",
+      "segments": [
+        {"x0": 50, "x1": 645, "text": "", "fill": "lightgray", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 400,
+      "y1": 419,
+      "label": "Pastoral nomads",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 50, "x1": 645, "text": "", "fill": "lightgray", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 419,
+      "y1": 431,
+      "label": "Tropical forest hunter-gatherers",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 431,
+      "y1": 450,
+      "label": "Pastoral nomads",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    }
+  ],
+  "notes": "Top of tile (y≈332-362, x≈140-580) is the poster's language-family legend block with colour swatches, not a timeline band; entries visible: Fuquina, Purupecha, Quechua, Teohuacan (left column x≈142-215), Austronesian (x≈205-235), North / West (x≈262-285), Greek (x≈262-285, second line), Tap[?] (x≈325-345), Karelian (x≈390-420), Niho-Saharan[?] (x≈460-490) - several words <6 px tall, low confidence. A black frame line runs at y≈363. Rotated margin word AFRICA continues below the tile edge. Bands below y≈377 are white-to-pale-grey ground with thin grey band rules; the faint grey tint is read as lightgray fill with low confidence. Bottom band (y≈431-450) is cut off by the tile edge. Year marking 2076 in red under x≈450."
+}

@@ -1,0 +1,123 @@
+{
+ "tile_id": "r04c2",
+ "box": [1205, 580, 1645, 710],
+ "margin_labels": [],
+ "rows": [
+  {
+   "y0": 580,
+   "y1": 592,
+   "label": "",
+   "row_kind": "text",
+   "confidence": "low",
+   "segments": []
+  },
+  {
+   "y0": 592,
+   "y1": 601,
+   "label": "Eastern Bantu-speaking herders and farmers",
+   "row_kind": "text",
+   "confidence": "low",
+   "segments": []
+  },
+  {
+   "y0": 601,
+   "y1": 609,
+   "label": "cereal farmers and herders",
+   "row_kind": "text",
+   "confidence": "low",
+   "segments": []
+  },
+  {
+   "y0": 604,
+   "y1": 620,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {"x0": 1205, "x1": 1355, "text": "(MEROITIC PERIOD)", "fill": "orange", "conf": "high"},
+    {"x0": 1465, "x1": 1645, "text": "", "fill": "brown", "conf": "low"}
+   ]
+  },
+  {
+   "y0": 620,
+   "y1": 632,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 1205, "x1": 1225, "text": "", "fill": "olive", "conf": "low"},
+    {"x0": 1225, "x1": 1420, "text": "ROMAN EMPIRE", "fill": "yellow", "conf": "high"},
+    {"x0": 1420, "x1": 1490, "text": "EASTERN ROMAN EMPIRE", "fill": "yellow", "conf": "medium"},
+    {"x0": 1490, "x1": 1505, "text": "", "fill": "lime", "conf": "low"},
+    {"x0": 1505, "x1": 1585, "text": "UMAYYAD CALIPHATE", "fill": "blue", "conf": "medium"},
+    {"x0": 1585, "x1": 1645, "text": "ABBASID CALIPHATE", "fill": "blue", "conf": "medium"}
+   ]
+  },
+  {
+   "y0": 632,
+   "y1": 642,
+   "label": "Camel nomads",
+   "row_kind": "text",
+   "confidence": "high",
+   "segments": []
+  },
+  {
+   "y0": 655,
+   "y1": 663,
+   "label": "",
+   "row_kind": "text",
+   "confidence": "low",
+   "segments": []
+  },
+  {
+   "y0": 663,
+   "y1": 674,
+   "label": "Scythians",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 1205, "x1": 1400, "text": "Scythians", "fill": "midgray", "conf": "medium"},
+    {"x0": 1400, "x1": 1645, "text": "Scandinavians", "fill": "midgray", "conf": "medium"}
+   ]
+  },
+  {
+   "y0": 674,
+   "y1": 686,
+   "label": "Germans",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 1205, "x1": 1400, "text": "Germans", "fill": "midgray", "conf": "medium"},
+    {"x0": 1400, "x1": 1535, "text": "Scandinavians", "fill": "midgray", "conf": "medium"},
+    {"x0": 1535, "x1": 1645, "text": "DENMARK", "fill": "lime", "conf": "medium"}
+   ]
+  },
+  {
+   "y0": 686,
+   "y1": 697,
+   "label": "Sami",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": []
+  },
+  {
+   "y0": 697,
+   "y1": 707,
+   "label": "Finns",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {"x0": 1205, "x1": 1645, "text": "", "fill": "midgray", "conf": "low"}
+   ]
+  },
+  {
+   "y0": 707,
+   "y1": 710,
+   "label": "Finno-Ugrian taiga hunter-gatherers",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": []
+  }
+ ],
+ "notes": "Century axis labels (-1 to 1000) at y 643-653. Lower rows are staggered relative to the left-hand columns; the grey bars are the dominant fill. Last row is cut by the tile bottom (clamped at 710)."
+}

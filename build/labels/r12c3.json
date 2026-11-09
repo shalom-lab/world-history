@@ -1,0 +1,56 @@
+{
+ "tile_id": "r12c3",
+ "box": [1625, 1620, 2032, 1750],
+ "margin_labels": [
+  {"text": "SOUTH AMERICA", "x0": 2016, "x1": 2032, "y0": 1640, "y1": 1750}
+ ],
+ "rows": [
+  {"y0": 1622, "y1": 1645, "label": "Central American chiefdoms", "row_kind": "mixed", "confidence": "high",
+   "segments": [
+    {"x0": 1625, "x1": 1790, "text": "Central American chiefdoms", "fill": "lightgray", "conf": "high"},
+    {"x0": 1790, "x1": 1940, "text": "SPAIN", "fill": "yellow", "conf": "high"},
+    {"x0": 1940, "x1": 2005, "text": "HONDURAS / EL SALVADOR / NICARAGUA / COSTA RICA / PANAMA / CUBA", "fill": "lime", "conf": "low"}
+   ]},
+  {"y0": 1645, "y1": 1662, "label": "farmers", "row_kind": "mixed", "confidence": "medium",
+   "segments": [
+    {"x0": 1625, "x1": 1650, "text": "farmers", "fill": "white", "conf": "medium"},
+    {"x0": 1780, "x1": 1830, "text": "Taino farmers", "fill": "white", "conf": "medium"},
+    {"x0": 1830, "x1": 1940, "text": "SPAIN", "fill": "yellow", "conf": "high"}
+   ]},
+  {"y0": 1678, "y1": 1695, "label": "Andean chiefdoms", "row_kind": "mixed", "confidence": "medium",
+   "segments": [
+    {"x0": 1625, "x1": 1790, "text": "Andean chiefdoms", "fill": "lightgray", "conf": "medium"},
+    {"x0": 1790, "x1": 1850, "text": "PERU (SPAIN)", "fill": "yellow", "conf": "high"},
+    {"x0": 1850, "x1": 1900, "text": "NEW GRANADA", "fill": "yellow", "conf": "high"},
+    {"x0": 1900, "x1": 1995, "text": "COLOMBIA", "fill": "yellow", "conf": "high"}
+   ]},
+  {"y0": 1695, "y1": 1710, "label": "Manioc farmers", "row_kind": "mixed", "confidence": "medium",
+   "segments": [
+    {"x0": 1625, "x1": 1700, "text": "Manioc farmers", "fill": "white", "conf": "low"},
+    {"x0": 1750, "x1": 1790, "text": "Arawakan manioc farmers", "fill": "white", "conf": "medium"},
+    {"x0": 1790, "x1": 1830, "text": "PERU (SPAIN)", "fill": "yellow", "conf": "medium"},
+    {"x0": 1830, "x1": 1880, "text": "(SPAIN)", "fill": "yellow", "conf": "low"},
+    {"x0": 1880, "x1": 1995, "text": "VENEZUELA", "fill": "yellow", "conf": "high"}
+   ]},
+  {"y0": 1710, "y1": 1728, "label": "Manioc farmers", "row_kind": "mixed", "confidence": "high",
+   "segments": [
+    {"x0": 1625, "x1": 1720, "text": "Manioc farmers", "fill": "white", "conf": "high"},
+    {"x0": 1750, "x1": 1810, "text": "Arawakan manioc farmers", "fill": "white", "conf": "medium"},
+    {"x0": 1810, "x1": 1860, "text": "ENGLAND (GUIANA)", "fill": "lime", "conf": "medium"},
+    {"x0": 1860, "x1": 1930, "text": "BRITAIN (UK) GUIANA", "fill": "lime", "conf": "low"},
+    {"x0": 1930, "x1": 2000, "text": "N. GRANADA (SPAIN)", "fill": "yellow", "conf": "low"}
+   ]},
+  {"y0": 1728, "y1": 1745, "label": "farmers", "row_kind": "text", "confidence": "low",
+   "segments": [
+    {"x0": 1625, "x1": 1700, "text": "farmers", "fill": "white", "conf": "low"},
+    {"x0": 1790, "x1": 1900, "text": "PERU", "fill": "yellow", "conf": "high"},
+    {"x0": 1900, "x1": 1995, "text": "PERU", "fill": "yellow", "conf": "high"}
+   ]},
+  {"y0": 1745, "y1": 1750, "label": "Central Andean", "row_kind": "bar", "confidence": "low",
+   "segments": [
+    {"x0": 1625, "x1": 1700, "text": "Central Andean", "fill": "lightgray", "conf": "low"},
+    {"x0": 1850, "x1": 1960, "text": "INCA[?]", "fill": "green", "conf": "low"}
+   ]}
+ ],
+ "notes": "Colonial-era Andes/Mesoamerica. The lime strip at x 1940-2005 lists present-day Central American states in 3-4 px type; only some are legible, so they are summarised in one segment and marked low confidence. Century axis strip at y 1662-1678 was skipped."
+}

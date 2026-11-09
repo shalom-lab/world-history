@@ -1,0 +1,64 @@
+{
+  "tile_id": "r02c1",
+  "box": [615, 320, 1235, 450],
+  "margin_labels": [],
+  "rows": [
+    {
+      "y0": 323,
+      "y1": 340,
+      "label": "",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 340,
+      "y1": 366,
+      "label": "Cereal farmers",
+      "row_kind": "text",
+      "confidence": "high",
+      "segments": []
+    },
+    {
+      "y0": 366,
+      "y1": 392,
+      "label": "",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 392,
+      "y1": 410,
+      "label": "Pastoral nomads",
+      "row_kind": "text",
+      "confidence": "high",
+      "segments": []
+    },
+    {
+      "y0": 410,
+      "y1": 423,
+      "label": "Cereal farmers",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 423,
+      "y1": 437,
+      "label": "Pastoral nomads",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 437,
+      "y1": 450,
+      "label": "Cereal farmers",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    }
+  ],
+  "notes": "No coloured bars are visible in this strip: bands are white/pale ground with thin grey band rules and long thin arrows (movement arrows) at y≈366-373 (x≈966-1188) and y≈390-398 (x≈960-1071), each with a tiny label 'Cereal farmers' near x≈990-1040. Rows here are mostly unfilled, hence empty segment lists. Right third (x≈1130-1235) carries a denser stack of ~7 px alternating small labels (Cereal / Pastoral nomads / Cereal farmers and herder[?]) that could not all be separated cleanly. A large bold word 'Tropic[al ...]' begins at x≈1168, y≈348-364 and is cut by the tile's right edge, continuing in the next tile. Top row (y≈323-340) is cut by the tile's top edge; its tiny text near x≈1120-1233 reads like 'Austronesian farm...'[?]. Bottom row cut at y=450."
+}

@@ -1,0 +1,66 @@
+{
+  "tile_id": "r03c0",
+  "box": [30, 450, 645, 580],
+  "margin_labels": [
+    {"text": "NORTHERN", "x0": 30, "x1": 45, "y0": 455, "y1": 570}
+  ],
+  "rows": [
+    {
+      "y0": 458,
+      "y1": 480,
+      "label": "Tropical forest hunter-gatherers",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 480,
+      "y1": 497,
+      "label": "Tropical forest hunter-gatherers",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 497,
+      "y1": 516,
+      "label": "Tropical forest hunter-gatherers",
+      "row_kind": "text",
+      "confidence": "high",
+      "segments": []
+    },
+    {
+      "y0": 516,
+      "y1": 528,
+      "label": "Pastoral nomads",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 528,
+      "y1": 548,
+      "label": "Pastoral nomads",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 548,
+      "y1": 560,
+      "label": "Pastoral nomads",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 560,
+      "y1": 575,
+      "label": "",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    }
+  ],
+  "notes": "No coloured bars: the whole strip is pale white/grey ground with thin grey band rules and decade grid lines, so segment lists are empty. The three 'Tropical forest hunter-gatherers' rows and the repeated 'Pastoral nomads' rows are real poster duplication kept as separate rows. The y≈497-516 row carries the large letter-spaced version of the label. One label is set on two lines ('Pastoral' / 'nomads') around y≈528-548 and is joined with a space. The y≈560-575 line is faint mush ([?], low confidence). Rotated margin word NORTHERN continues past both tile edges."
+}

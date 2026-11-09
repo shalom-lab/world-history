@@ -1,0 +1,102 @@
+{
+  "tile_id": "r09c1",
+  "box": [615, 1230, 1235, 1360],
+  "margin_labels": [],
+  "rows": [
+    {
+      "y0": 1230,
+      "y1": 1235,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1013, "x1": 1090, "text": "ACHAEMENID EMPIRE", "fill": "cyan", "conf": "medium"},
+        {"x0": 1100, "x1": 1200, "text": "", "fill": "olive", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1248,
+      "y1": 1258,
+      "label": "[?]",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1150, "x1": 1235, "text": "Xiongnu", "fill": "lightgray", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 1258,
+      "y1": 1270,
+      "label": "Yuezhi (Kushans)",
+      "row_kind": "mixed",
+      "confidence": "high",
+      "segments": [
+        {"x0": 1150, "x1": 1235, "text": "Xiongnu", "fill": "lightgray", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 1270,
+      "y1": 1282,
+      "label": "Paleo-Asiatic pastoralists (ancestral Turkic-Mongol)",
+      "row_kind": "mixed",
+      "confidence": "high",
+      "segments": [
+        {"x0": 1146, "x1": 1177, "text": "", "fill": "lightgray", "conf": "low"},
+        {"x0": 1183, "x1": 1235, "text": "Xiongnu", "fill": "lightgray", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 1282,
+      "y1": 1295,
+      "label": "Turko-Mongols (transhumant pastoralists)",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1153, "x1": 1198, "text": "", "fill": "lightgray", "conf": "low"},
+        {"x0": 1199, "x1": 1235, "text": "", "fill": "purple", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 1295,
+      "y1": 1315,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 615, "x1": 760, "text": "", "fill": "purple", "conf": "medium"},
+        {"x0": 760, "x1": 863, "text": "SHANG DYNASTY", "fill": "purple", "conf": "high"},
+        {"x0": 863, "x1": 913, "text": "ZHOU DYNASTY", "fill": "purple", "conf": "high"},
+        {"x0": 913, "x1": 1200, "text": "", "fill": "purple", "conf": "medium"},
+        {"x0": 1200, "x1": 1235, "text": "WESTERN HAN", "fill": "purple", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 1315,
+      "y1": 1325,
+      "label": "[?]",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 960, "x1": 1090, "text": "", "fill": "lightgray", "conf": "low"},
+        {"x0": 1202, "x1": 1235, "text": "", "fill": "purple", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 1325,
+      "y1": 1340,
+      "label": "[?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 1340,
+      "y1": 1348,
+      "label": "[?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    }
+  ],
+  "notes": "Century axis strips at y=1240-1248 (-1600 ... -100) and y=1350-1358 are the poster's repeated time axis and are not listed as rows. The magenta/purple band y=1295-1315 is one continuous fill carrying the wide-letterspaced dynasty names SHANG DYNASTY, ZHOU DYNASTY and WESTERN HAN; it continues into r09c0 (purple sliver at x=634) and into r09c2, where the same band carries EASTERN HAN, EASTERN JIN, LIU SONG, SUI and TANG. Smaller entries inside that band (e.g. Xianbei, Western Han) are only partly legible. 'Yuezhi (Kushans)' is printed in larger type at about x=985-1075, y=1255-1268; 'Paleo-Asiatic pastoralists (ancestral Turkic-Mongol)' is the large label at about x=715-1100, y=1272-1278, and the same phrase also appears tiny at y=1245. 'Turko-Mongols (transhumant pastoralists)' sits at about y=1285. Xiongnu grey boxes at x~1150-1235 in rows 1248-1295 belong to the East Asian block that continues in r09c2."
+}

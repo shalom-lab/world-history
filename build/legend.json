@@ -1,0 +1,1365 @@
+{
+ "title": "Civilizations by language - Color key",
+ "base_types": [
+  {
+   "name": "Uninhabited",
+   "hex": "#ffffff",
+   "rgb": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "name": "Other cultures, usually nomadic or tribal",
+   "hex": "#f0f0f0",
+   "rgb": [
+    240,
+    240,
+    240
+   ]
+  },
+  {
+   "name": "Other advanced civilizations",
+   "hex": "#b3b3b3",
+   "rgb": [
+    179,
+    179,
+    179
+   ]
+  }
+ ],
+ "families": [
+  {
+   "id": "afroasiatic",
+   "name": "Afroasiatic",
+   "legend_column": 1,
+   "subgroups": [
+    {
+     "name": "Afroasiatic",
+     "y_range": [
+      209,
+      229
+     ],
+     "languages": [
+      {
+       "name": "Berber",
+       "hex": "#49ca10",
+       "rgb": [
+        73,
+        202,
+        16
+       ],
+       "legend_y": 212
+      },
+      {
+       "name": "Merotic",
+       "hex": "#eeb284",
+       "rgb": [
+        238,
+        178,
+        132
+       ],
+       "legend_y": 219
+      },
+      {
+       "name": "Old Nubian",
+       "hex": "#c15c19",
+       "rgb": [
+        193,
+        92,
+        25
+       ],
+       "legend_y": 225
+      }
+     ]
+    },
+    {
+     "name": "Semitic",
+     "y_range": [
+      239,
+      277
+     ],
+     "languages": [
+      {
+       "name": "Amharic",
+       "hex": "#0dbcf5",
+       "rgb": [
+        13,
+        188,
+        245
+       ],
+       "legend_y": 242
+      },
+      {
+       "name": "Arabic",
+       "hex": "#2cc8f9",
+       "rgb": [
+        44,
+        200,
+        249
+       ],
+       "legend_y": 248
+      },
+      {
+       "name": "Canaanite",
+       "hex": "#4fd2fb",
+       "rgb": [
+        79,
+        210,
+        251
+       ],
+       "legend_y": 254
+      },
+      {
+       "name": "Hebrew",
+       "hex": "#79dbf5",
+       "rgb": [
+        121,
+        219,
+        245
+       ],
+       "legend_y": 261
+      },
+      {
+       "name": "Himyaritic",
+       "hex": "#9ee4f4",
+       "rgb": [
+        158,
+        228,
+        244
+       ],
+       "legend_y": 267
+      },
+      {
+       "name": "Horn",
+       "hex": "#c4eaf9",
+       "rgb": [
+        196,
+        234,
+        249
+       ],
+       "legend_y": 273
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "amerindian",
+   "name": "Amerindian",
+   "legend_column": 1,
+   "subgroups": [
+    {
+     "name": "Amerindian",
+     "y_range": [
+      294,
+      343
+     ],
+     "languages": [
+      {
+       "name": "Aymaran",
+       "hex": "#3634f3",
+       "rgb": [
+        54,
+        52,
+        243
+       ],
+       "legend_y": 297
+      },
+      {
+       "name": "Mayan",
+       "hex": "#9c37f6",
+       "rgb": [
+        156,
+        55,
+        246
+       ],
+       "legend_y": 303
+      },
+      {
+       "name": "Mixtec",
+       "hex": "#cb069c",
+       "rgb": [
+        203,
+        6,
+        156
+       ],
+       "legend_y": 309
+      },
+      {
+       "name": "Nahuatl",
+       "hex": "#cc040e",
+       "rgb": [
+        204,
+        4,
+        14
+       ],
+       "legend_y": 315
+      },
+      {
+       "name": "Puyuna",
+       "hex": "#cc680b",
+       "rgb": [
+        204,
+        104,
+        11
+       ],
+       "legend_y": 321
+      },
+      {
+       "name": "Purepecha",
+       "hex": "#cfcc08",
+       "rgb": [
+        207,
+        204,
+        8
+       ],
+       "legend_y": 327
+      },
+      {
+       "name": "Quechua",
+       "hex": "#0d9a09",
+       "rgb": [
+        13,
+        154,
+        9
+       ],
+       "legend_y": 333
+      },
+      {
+       "name": "Teotihuacan",
+       "hex": "#0ace5f",
+       "rgb": [
+        10,
+        206,
+        95
+       ],
+       "legend_y": 339
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ancient-languages",
+   "name": "Ancient languages",
+   "legend_column": 2,
+   "subgroups": [
+    {
+     "name": "Ancient languages",
+     "y_range": [
+      209,
+      277
+     ],
+     "languages": [
+      {
+       "name": "Akkadian",
+       "hex": "#a0ccf7",
+       "rgb": [
+        160,
+        204,
+        247
+       ],
+       "legend_y": 212
+      },
+      {
+       "name": "Amorite",
+       "hex": "#cbcef8",
+       "rgb": [
+        203,
+        206,
+        248
+       ],
+       "legend_y": 218
+      },
+      {
+       "name": "Anatolian",
+       "hex": "#f89cf5",
+       "rgb": [
+        248,
+        156,
+        245
+       ],
+       "legend_y": 224
+      },
+      {
+       "name": "Ebiste",
+       "hex": "#fb9acf",
+       "rgb": [
+        251,
+        154,
+        207
+       ],
+       "legend_y": 230
+      },
+      {
+       "name": "Egyptian",
+       "hex": "#f79a9a",
+       "rgb": [
+        247,
+        154,
+        154
+       ],
+       "legend_y": 236
+      },
+      {
+       "name": "Elamite",
+       "hex": "#f4cf99",
+       "rgb": [
+        244,
+        207,
+        153
+       ],
+       "legend_y": 243
+      },
+      {
+       "name": "Hurrian",
+       "hex": "#fbfe9f",
+       "rgb": [
+        251,
+        254,
+        159
+       ],
+       "legend_y": 249
+      },
+      {
+       "name": "Linear A",
+       "hex": "#cbffa0",
+       "rgb": [
+        203,
+        255,
+        160
+       ],
+       "legend_y": 255
+      },
+      {
+       "name": "Marote",
+       "hex": "#9dfd9e",
+       "rgb": [
+        157,
+        253,
+        158
+       ],
+       "legend_y": 261
+      },
+      {
+       "name": "Phlisive",
+       "hex": "#9dfccf",
+       "rgb": [
+        157,
+        252,
+        207
+       ],
+       "legend_y": 267
+      },
+      {
+       "name": "Sumerian",
+       "hex": "#adfcf7",
+       "rgb": [
+        173,
+        252,
+        247
+       ],
+       "legend_y": 273
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "austroasiatic",
+   "name": "Austroasiatic",
+   "legend_column": 2,
+   "subgroups": [
+    {
+     "name": "Austroasiatic",
+     "y_range": [
+      293,
+      314
+     ],
+     "languages": [
+      {
+       "name": "Khmer",
+       "hex": "#cc6518",
+       "rgb": [
+        204,
+        101,
+        24
+       ],
+       "legend_y": 296
+      },
+      {
+       "name": "Monic",
+       "hex": "#cc6d32",
+       "rgb": [
+        204,
+        109,
+        50
+       ],
+       "legend_y": 303
+      },
+      {
+       "name": "Vietic",
+       "hex": "#c9825f",
+       "rgb": [
+        201,
+        130,
+        95
+       ],
+       "legend_y": 310
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "austronesian",
+   "name": "Austronesian",
+   "legend_column": 2,
+   "subgroups": [
+    {
+     "name": "Austronesian",
+     "y_range": [
+      330,
+      338
+     ],
+     "languages": [
+      {
+       "name": "Austronesian",
+       "hex": "#cb0764",
+       "rgb": [
+        203,
+        7,
+        100
+       ],
+       "legend_y": 334
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dravidian",
+   "name": "Dravidian",
+   "legend_column": 3,
+   "subgroups": [
+    {
+     "name": "Dravidian",
+     "y_range": [
+      208,
+      241
+     ],
+     "languages": [
+      {
+       "name": "Gondi",
+       "hex": "#facc28",
+       "rgb": [
+        250,
+        204,
+        40
+       ],
+       "legend_y": 211
+      },
+      {
+       "name": "Harappan",
+       "hex": "#fdd334",
+       "rgb": [
+        253,
+        211,
+        52
+       ],
+       "legend_y": 217
+      },
+      {
+       "name": "Kannada",
+       "hex": "#fed84b",
+       "rgb": [
+        254,
+        216,
+        75
+       ],
+       "legend_y": 224
+      },
+      {
+       "name": "Tamil",
+       "hex": "#fddf7b",
+       "rgb": [
+        253,
+        223,
+        123
+       ],
+       "legend_y": 231
+      },
+      {
+       "name": "Telugu",
+       "hex": "#f9e4a3",
+       "rgb": [
+        249,
+        228,
+        163
+       ],
+       "legend_y": 237
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "indo-european",
+   "name": "Indo-European",
+   "legend_column": 3,
+   "subgroups": [
+    {
+     "name": "Indo-European",
+     "y_range": [
+      257,
+      283
+     ],
+     "languages": [
+      {
+       "name": "Albanian",
+       "hex": "#0ae39c",
+       "rgb": [
+        10,
+        227,
+        156
+       ],
+       "legend_y": 260
+      },
+      {
+       "name": "Armenian",
+       "hex": "#960ae5",
+       "rgb": [
+        150,
+        10,
+        229
+       ],
+       "legend_y": 266
+      },
+      {
+       "name": "Baltic",
+       "hex": "#986610",
+       "rgb": [
+        152,
+        102,
+        16
+       ],
+       "legend_y": 273
+      },
+      {
+       "name": "Celtic",
+       "hex": "#0c9bf9",
+       "rgb": [
+        12,
+        155,
+        249
+       ],
+       "legend_y": 279
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "germanic",
+   "name": "Germanic",
+   "legend_column": 3,
+   "subgroups": [
+    {
+     "name": "Germanic",
+     "y_range": [
+      293,
+      332
+     ],
+     "languages": [
+      {
+       "name": "Dutch",
+       "hex": "#88fc19",
+       "rgb": [
+        136,
+        252,
+        25
+       ],
+       "legend_y": 296
+      },
+      {
+       "name": "East",
+       "hex": "#8eff1b",
+       "rgb": [
+        142,
+        255,
+        27
+       ],
+       "legend_y": 302
+      },
+      {
+       "name": "English",
+       "hex": "#9dff33",
+       "rgb": [
+        157,
+        255,
+        51
+       ],
+       "legend_y": 309
+      },
+      {
+       "name": "German",
+       "hex": "#aefd52",
+       "rgb": [
+        174,
+        253,
+        82
+       ],
+       "legend_y": 315
+      },
+      {
+       "name": "North",
+       "hex": "#b7fd6a",
+       "rgb": [
+        183,
+        253,
+        106
+       ],
+       "legend_y": 322
+      },
+      {
+       "name": "West",
+       "hex": "#c9fc88",
+       "rgb": [
+        201,
+        252,
+        136
+       ],
+       "legend_y": 328
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "greek",
+   "name": "Greek",
+   "legend_column": 3,
+   "subgroups": [
+    {
+     "name": "Greek",
+     "y_range": [
+      335,
+      344
+     ],
+     "languages": [
+      {
+       "name": "Greek",
+       "hex": "#afb417",
+       "rgb": [
+        175,
+        180,
+        23
+       ],
+       "legend_y": 339
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "indo-iranian",
+   "name": "Indo-Iranian",
+   "legend_column": 4,
+   "subgroups": [
+    {
+     "name": "Indo-Aryan",
+     "y_range": [
+      213,
+      271
+     ],
+     "languages": [
+      {
+       "name": "Bengali",
+       "hex": "#2cc958",
+       "rgb": [
+        44,
+        201,
+        88
+       ],
+       "legend_y": 216
+      },
+      {
+       "name": "Gujerati",
+       "hex": "#13cc4b",
+       "rgb": [
+        19,
+        204,
+        75
+       ],
+       "legend_y": 222
+      },
+      {
+       "name": "Hindi",
+       "hex": "#2bcd56",
+       "rgb": [
+        43,
+        205,
+        86
+       ],
+       "legend_y": 229
+      },
+      {
+       "name": "Nepali",
+       "hex": "#3fcc67",
+       "rgb": [
+        63,
+        204,
+        103
+       ],
+       "legend_y": 235
+      },
+      {
+       "name": "Prakit",
+       "hex": "#54cb78",
+       "rgb": [
+        84,
+        203,
+        120
+       ],
+       "legend_y": 242
+      },
+      {
+       "name": "Rajput",
+       "hex": "#69cb84",
+       "rgb": [
+        105,
+        203,
+        132
+       ],
+       "legend_y": 248
+      },
+      {
+       "name": "Sanskrit",
+       "hex": "#7bcd91",
+       "rgb": [
+        123,
+        205,
+        145
+       ],
+       "legend_y": 254
+      },
+      {
+       "name": "Sinhala",
+       "hex": "#90caa0",
+       "rgb": [
+        144,
+        202,
+        160
+       ],
+       "legend_y": 261
+      },
+      {
+       "name": "Urdu",
+       "hex": "#a6c9b1",
+       "rgb": [
+        166,
+        201,
+        177
+       ],
+       "legend_y": 267
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "iranic",
+   "name": "Iranic",
+   "legend_column": 4,
+   "subgroups": [
+    {
+     "name": "Iranic",
+     "y_range": [
+      281,
+      324
+     ],
+     "languages": [
+      {
+       "name": "Median",
+       "hex": "#16f6c5",
+       "rgb": [
+        22,
+        246,
+        197
+       ],
+       "legend_y": 284
+      },
+      {
+       "name": "Parthian",
+       "hex": "#2afed4",
+       "rgb": [
+        42,
+        254,
+        212
+       ],
+       "legend_y": 290
+      },
+      {
+       "name": "Pashto",
+       "hex": "#4dfed8",
+       "rgb": [
+        77,
+        254,
+        216
+       ],
+       "legend_y": 296
+      },
+      {
+       "name": "Persian",
+       "hex": "#72ffde",
+       "rgb": [
+        114,
+        255,
+        222
+       ],
+       "legend_y": 302
+      },
+      {
+       "name": "Persianate",
+       "hex": "#95fee5",
+       "rgb": [
+        149,
+        254,
+        229
+       ],
+       "legend_y": 308
+      },
+      {
+       "name": "Scythian",
+       "hex": "#bcffef",
+       "rgb": [
+        188,
+        255,
+        239
+       ],
+       "legend_y": 314
+      },
+      {
+       "name": "Tajik",
+       "hex": "#e4fff8",
+       "rgb": [
+        228,
+        255,
+        248
+       ],
+       "legend_y": 320
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "romance",
+   "name": "Romance",
+   "legend_column": 5,
+   "subgroups": [
+    {
+     "name": "Romance",
+     "y_range": [
+      213,
+      253
+     ],
+     "languages": [
+      {
+       "name": "French",
+       "hex": "#f5f757",
+       "rgb": [
+        245,
+        247,
+        87
+       ],
+       "legend_y": 216
+      },
+      {
+       "name": "Italian",
+       "hex": "#fafe1f",
+       "rgb": [
+        250,
+        254,
+        31
+       ],
+       "legend_y": 223
+      },
+      {
+       "name": "Latin",
+       "hex": "#feff31",
+       "rgb": [
+        254,
+        255,
+        49
+       ],
+       "legend_y": 229
+      },
+      {
+       "name": "Portugese",
+       "hex": "#feff52",
+       "rgb": [
+        254,
+        255,
+        82
+       ],
+       "legend_y": 236
+      },
+      {
+       "name": "Romanian",
+       "hex": "#fffd72",
+       "rgb": [
+        255,
+        253,
+        114
+       ],
+       "legend_y": 243
+      },
+      {
+       "name": "Spanish",
+       "hex": "#fafd87",
+       "rgb": [
+        250,
+        253,
+        135
+       ],
+       "legend_y": 249
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "slavic",
+   "name": "Slavic",
+   "legend_column": 5,
+   "subgroups": [
+    {
+     "name": "Slavic",
+     "y_range": [
+      263,
+      284
+     ],
+     "languages": [
+      {
+       "name": "East",
+       "hex": "#f99c0e",
+       "rgb": [
+        249,
+        156,
+        14
+       ],
+       "legend_y": 266
+      },
+      {
+       "name": "South",
+       "hex": "#fcae3d",
+       "rgb": [
+        252,
+        174,
+        61
+       ],
+       "legend_y": 273
+      },
+      {
+       "name": "West",
+       "hex": "#efc47f",
+       "rgb": [
+        239,
+        196,
+        127
+       ],
+       "legend_y": 280
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "japanese",
+   "name": "Japanese",
+   "legend_column": 5,
+   "subgroups": [
+    {
+     "name": "Japanese",
+     "y_range": [
+      300,
+      307
+     ],
+     "languages": [
+      {
+       "name": "Japanese",
+       "hex": "#406893",
+       "rgb": [
+        64,
+        104,
+        147
+       ],
+       "legend_y": 303
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kartvelian",
+   "name": "Kartvelian",
+   "legend_column": 5,
+   "subgroups": [
+    {
+     "name": "Kartvelian",
+     "y_range": [
+      324,
+      332
+     ],
+     "languages": [
+      {
+       "name": "Kartvelian",
+       "hex": "#ab070a",
+       "rgb": [
+        171,
+        7,
+        10
+       ],
+       "legend_y": 328
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "koreanic",
+   "name": "Koreanic",
+   "legend_column": 6,
+   "subgroups": [
+    {
+     "name": "Koreanic",
+     "y_range": [
+      208,
+      217
+     ],
+     "languages": [
+      {
+       "name": "Koreanic",
+       "hex": "#9dc913",
+       "rgb": [
+        157,
+        201,
+        19
+       ],
+       "legend_y": 212
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kra-dai",
+   "name": "Kra-Dai",
+   "legend_column": 6,
+   "subgroups": [
+    {
+     "name": "Kra-Dai",
+     "y_range": [
+      232,
+      241
+     ],
+     "languages": [
+      {
+       "name": "Kra-Dai",
+       "hex": "#7f8514",
+       "rgb": [
+        127,
+        133,
+        20
+       ],
+       "legend_y": 236
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mongolic",
+   "name": "Mongolic",
+   "legend_column": 6,
+   "subgroups": [
+    {
+     "name": "Mongolic",
+     "y_range": [
+      257,
+      271
+     ],
+     "languages": [
+      {
+       "name": "Khitan",
+       "hex": "#f3676a",
+       "rgb": [
+        243,
+        103,
+        106
+       ],
+       "legend_y": 260
+      },
+      {
+       "name": "Mongolic",
+       "hex": "#ef0d0d",
+       "rgb": [
+        239,
+        13,
+        13
+       ],
+       "legend_y": 267
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "niger-congo",
+   "name": "Niger-Congo",
+   "legend_column": 6,
+   "subgroups": [
+    {
+     "name": "Niger-Congo",
+     "y_range": [
+      287,
+      307
+     ],
+     "languages": [
+      {
+       "name": "Atlantic-Congo",
+       "hex": "#0a63c1",
+       "rgb": [
+        10,
+        99,
+        193
+       ],
+       "legend_y": 290
+      },
+      {
+       "name": "Dogon",
+       "hex": "#548dc6",
+       "rgb": [
+        84,
+        141,
+        198
+       ],
+       "legend_y": 297
+      },
+      {
+       "name": "Mande",
+       "hex": "#96a9c4",
+       "rgb": [
+        150,
+        169,
+        196
+       ],
+       "legend_y": 303
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nilo-saharan",
+   "name": "Nilo-Saharan",
+   "legend_column": 6,
+   "subgroups": [
+    {
+     "name": "Nilo-Saharan",
+     "y_range": [
+      323,
+      332
+     ],
+     "languages": [
+      {
+       "name": "Nilo-Saharan",
+       "hex": "#10af5b",
+       "rgb": [
+        16,
+        175,
+        91
+       ],
+       "legend_y": 327
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sino-tibetan",
+   "name": "Sino-Tibetan",
+   "legend_column": 7,
+   "subgroups": [
+    {
+     "name": "Sino-Tibetan",
+     "y_range": [
+      210,
+      228
+     ],
+     "languages": [
+      {
+       "name": "Burmese",
+       "hex": "#ae03f5",
+       "rgb": [
+        174,
+        3,
+        245
+       ],
+       "legend_y": 213
+      },
+      {
+       "name": "Chinese",
+       "hex": "#bb34f3",
+       "rgb": [
+        187,
+        52,
+        243
+       ],
+       "legend_y": 219
+      },
+      {
+       "name": "Tibetan",
+       "hex": "#c26be3",
+       "rgb": [
+        194,
+        107,
+        227
+       ],
+       "legend_y": 225
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "turkic",
+   "name": "Turkic",
+   "legend_column": 7,
+   "subgroups": [
+    {
+     "name": "Turkic",
+     "y_range": [
+      246,
+      306
+     ],
+     "languages": [
+      {
+       "name": "Turkic (other)",
+       "hex": "#f80461",
+       "rgb": [
+        248,
+        4,
+        97
+       ],
+       "legend_y": 248
+      },
+      {
+       "name": "Chagatai",
+       "hex": "#fa1a76",
+       "rgb": [
+        250,
+        26,
+        118
+       ],
+       "legend_y": 254
+      },
+      {
+       "name": "Karluk",
+       "hex": "#fe3082",
+       "rgb": [
+        254,
+        48,
+        130
+       ],
+       "legend_y": 259
+      },
+      {
+       "name": "Khazar",
+       "hex": "#fe4c94",
+       "rgb": [
+        254,
+        76,
+        148
+       ],
+       "legend_y": 265
+      },
+      {
+       "name": "Kipchak",
+       "hex": "#fc5f9f",
+       "rgb": [
+        252,
+        95,
+        159
+       ],
+       "legend_y": 270
+      },
+      {
+       "name": "Oghur",
+       "hex": "#fb75af",
+       "rgb": [
+        251,
+        117,
+        175
+       ],
+       "legend_y": 276
+      },
+      {
+       "name": "Oghuz",
+       "hex": "#f886b5",
+       "rgb": [
+        248,
+        134,
+        181
+       ],
+       "legend_y": 281
+      },
+      {
+       "name": "Tatar",
+       "hex": "#f99bc1",
+       "rgb": [
+        249,
+        155,
+        193
+       ],
+       "legend_y": 286
+      },
+      {
+       "name": "Tuvin",
+       "hex": "#f9b5d2",
+       "rgb": [
+        249,
+        181,
+        210
+       ],
+       "legend_y": 292
+      },
+      {
+       "name": "Uyghur",
+       "hex": "#f8cce0",
+       "rgb": [
+        248,
+        204,
+        224
+       ],
+       "legend_y": 297
+      },
+      {
+       "name": "Uzbek",
+       "hex": "#fde4f1",
+       "rgb": [
+        253,
+        228,
+        241
+       ],
+       "legend_y": 303
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

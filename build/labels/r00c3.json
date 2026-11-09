@@ -1,0 +1,44 @@
+{
+ "tile_id": "r00c3",
+ "box": [1625, 60, 2032, 190],
+ "margin_labels": [],
+ "rows": [
+  {"y0": 75, "y1": 92, "label": "", "row_kind": "mixed", "confidence": "low",
+   "segments": [
+    {"x0": 1780, "x1": 1900, "text": "Eastern Bantu chiefdoms", "fill": "lightgray", "conf": "medium"},
+    {"x0": 1900, "x1": 1962, "text": "CAPE COLONY (UK)", "fill": "lime", "conf": "low"}
+   ]},
+  {"y0": 92, "y1": 106, "label": "CAPE COLONY (UK)", "row_kind": "mixed", "confidence": "medium",
+   "segments": [
+    {"x0": 1900, "x1": 1962, "text": "CAPE COLONY (UK)", "fill": "lime", "conf": "medium"},
+    {"x0": 1962, "x1": 2000, "text": "UK", "fill": "lime", "conf": "medium"}
+   ]},
+  {"y0": 118, "y1": 127, "label": "", "row_kind": "mixed", "confidence": "low",
+   "segments": [
+    {"x0": 1790, "x1": 1900, "text": "Eastern Bantu chiefdoms", "fill": "lightgray", "conf": "medium"}
+   ]},
+  {"y0": 139, "y1": 149, "label": "MADAGASCAR", "row_kind": "mixed", "confidence": "medium",
+   "segments": [
+    {"x0": 1760, "x1": 1900, "text": "Madagascar", "fill": "pink", "conf": "low"},
+    {"x0": 1900, "x1": 1962, "text": "MADAGASCAR", "fill": "red", "conf": "medium"},
+    {"x0": 1962, "x1": 1998, "text": "FR.", "fill": "yellow", "conf": "medium"}
+   ]},
+  {"y0": 149, "y1": 167, "label": "KILWA SULTANATE", "row_kind": "mixed", "confidence": "medium",
+   "segments": [
+    {"x0": 1662, "x1": 1722, "text": "KILWA SULTANATE", "fill": "blue", "conf": "medium"},
+    {"x0": 1782, "x1": 1812, "text": "PORTUGAL", "fill": "yellow", "conf": "low"},
+    {"x0": 1862, "x1": 1962, "text": "MOZAMBIQUE (PORTUGAL)", "fill": "yellow", "conf": "high"},
+    {"x0": 1962, "x1": 1998, "text": "MOZ", "fill": "blue", "conf": "low"}
+   ]},
+  {"y0": 167, "y1": 183, "label": "", "row_kind": "bar", "confidence": "low",
+   "segments": [
+    {"x0": 1755, "x1": 1900, "text": "MALAWI [?]", "fill": "blue", "conf": "low"},
+    {"x0": 1900, "x1": 1962, "text": "UK", "fill": "lime", "conf": "medium"}
+   ]},
+  {"y0": 183, "y1": 190, "label": "", "row_kind": "bar", "confidence": "low",
+   "segments": [
+    {"x0": 1900, "x1": 1962, "text": "PT.", "fill": "lime", "conf": "medium"}
+   ]}
+ ],
+ "notes": "Right edge of the poster: green blocks carry colonial power codes (UK, SA, FR., PT.) and the navy strip at x 1990-2032 repeats modern country names (SA, ZIM, MOZ, ZAM, ANG...). Text at 4-5 px is mostly unreadable; only the large block labels were transcribed."
+}

@@ -1,0 +1,99 @@
+{
+ "tile_id": "r04c0",
+ "box": [30, 580, 645, 710],
+ "margin_labels": [],
+ "rows": [
+  {
+   "y0": 581,
+   "y1": 591,
+   "label": "Tropical forest hunter-gatherers",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": []
+  },
+  {
+   "y0": 591,
+   "y1": 603,
+   "label": "Tropical forest hunter-gatherers",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": []
+  },
+  {
+   "y0": 603,
+   "y1": 615,
+   "label": "Nubians",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 300, "x1": 645, "text": "", "fill": "lightgray", "conf": "medium"}
+   ]
+  },
+  {
+   "y0": 615,
+   "y1": 632,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {"x0": 30, "x1": 58, "text": "Napata", "fill": "lightgray", "conf": "medium"},
+    {"x0": 58, "x1": 132, "text": "EGYPT (1st dynasty)", "fill": "red", "conf": "low"},
+    {"x0": 132, "x1": 205, "text": "EGYPT (2nd dynasty)", "fill": "red", "conf": "low"},
+    {"x0": 205, "x1": 240, "text": "", "fill": "red", "conf": "low"},
+    {"x0": 240, "x1": 375, "text": "EGYPTIAN OLD KINGDOM", "fill": "red", "conf": "high"},
+    {"x0": 375, "x1": 525, "text": "EGYPTIAN MIDDLE KINGDOM", "fill": "red", "conf": "high"},
+    {"x0": 525, "x1": 600, "text": "", "fill": "red", "conf": "low"},
+    {"x0": 600, "x1": 645, "text": "", "fill": "teal", "conf": "low"}
+   ]
+  },
+  {
+   "y0": 632,
+   "y1": 642,
+   "label": "Pastoral nomads",
+   "row_kind": "text",
+   "confidence": "high",
+   "segments": []
+  },
+  {
+   "y0": 653,
+   "y1": 664,
+   "label": "Finno-Ugrian taiga hunter-gatherers",
+   "row_kind": "text",
+   "confidence": "high",
+   "segments": []
+  },
+  {
+   "y0": 664,
+   "y1": 676,
+   "label": "Late Neolithic Corded Ware cultures",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": []
+  },
+  {
+   "y0": 676,
+   "y1": 687,
+   "label": "Finno-Ugrian taiga hunter-gatherers",
+   "row_kind": "text",
+   "confidence": "high",
+   "segments": []
+  },
+  {
+   "y0": 687,
+   "y1": 698,
+   "label": "Late Neolithic Corded Ware cultures",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": []
+  },
+  {
+   "y0": 698,
+   "y1": 710,
+   "label": "Finno-Ugrian taiga hunter-gatherers",
+   "row_kind": "text",
+   "confidence": "high",
+   "segments": []
+  }
+ ],
+ "notes": "Century axis labels (-3100 to -1600) occupy y 641-652 and are not transcribed as a row. Last row continues below the tile bottom (clamped at 710)."
+}

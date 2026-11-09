@@ -1,0 +1,84 @@
+{
+ "tile_id": "r05c0",
+ "box": [30, 710, 645, 840],
+ "margin_labels": [
+  {"text": "EUROPE", "x0": 28, "x1": 35, "y0": 712, "y1": 838}
+ ],
+ "rows": [
+  {
+   "y0": 712,
+   "y1": 730,
+   "label": "Late Neolithic Corded Ware cultures",
+   "row_kind": "text",
+   "confidence": "high",
+   "segments": []
+  },
+  {
+   "y0": 730,
+   "y1": 741,
+   "label": "Late Neolithic Corded Ware cultures",
+   "row_kind": "text",
+   "confidence": "low",
+   "segments": []
+  },
+  {
+   "y0": 741,
+   "y1": 752,
+   "label": "Catacomb grave culture (pastoral farmers)",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": []
+  },
+  {
+   "y0": 752,
+   "y1": 766,
+   "label": "Late Neolithic Corded Ware cultures",
+   "row_kind": "text",
+   "confidence": "high",
+   "segments": []
+  },
+  {
+   "y0": 766,
+   "y1": 777,
+   "label": "Early Bronze Age Unetice culture",
+   "row_kind": "text",
+   "confidence": "low",
+   "segments": []
+  },
+  {
+   "y0": 777,
+   "y1": 791,
+   "label": "Bronze Age cultures",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 30, "x1": 645, "text": "Bronze Age cultures (Early Bronze Age)", "fill": "midgray", "conf": "low"}
+   ]
+  },
+  {
+   "y0": 791,
+   "y1": 801,
+   "label": "Bell Beaker cultures (Late Neolithic farmers)",
+   "row_kind": "text",
+   "confidence": "low",
+   "segments": []
+  },
+  {
+   "y0": 801,
+   "y1": 812,
+   "label": "Early Bronze Age Unetice culture",
+   "row_kind": "text",
+   "confidence": "low",
+   "segments": []
+  },
+  {
+   "y0": 812,
+   "y1": 840,
+   "label": "Bell Beaker cultures (Late Neolithic farmers)",
+   "row_kind": "text",
+   "confidence": "high",
+   "segments": []
+  }
+ ],
+ "notes": "Margin label EUROPE is rotated 90 degrees and only its right edge falls inside the tile (x 28-35). Rows 791-812 carry faint small text of the same Bell Beaker / Unetice names; parenthetical text is illegible at this resolution and was left out. Last row runs past the tile bottom (clamped at 840)."
+}

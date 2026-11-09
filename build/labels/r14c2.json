@@ -1,0 +1,18 @@
+{
+  "tile_id": "r14c2",
+  "box": [1205, 1880, 1645, 1990],
+  "margin_labels": [],
+  "rows": [
+    {
+      "y0": 1957,
+      "y1": 1970,
+      "label": "Micronesia",
+      "row_kind": "bar",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1205, "x1": 1643, "text": "", "fill": "lightgray", "conf": "medium"}
+      ]
+    }
+  ],
+  "notes": "Only one timeline band is visible here: y 1957-1970, under the crimson bottom border of the printed key inset. Its fill is a pale light grey almost across the whole tile and the pale widely letter-spaced caption 'M i c r o n e s i a' is printed over it (letters start around x~1370); the caption is the only text in the band, so the row label is given as that caption with low confidence. Everything above (y 1898-1956) is the abbreviation key inset (rotated 'Glossary of Abbreviations' title at its left edge, ~15 lines per column of code/name pairs; readable fragments in this tile: Parthian dynasty, Qin dynasty, Qung[?] dynasty, Gupta, Ganga-Gangetic, Roman Republic, Roman Empire, Red Sea, Rhodian, Rus' Khaganate, Rashidun Caliphate, Macedonia, Republic of China, Russia, Saka, Sakhalin, Saracens, Scythians, Serbia, Siberia, Slovenia, Sogdiana, Srivijaya, Sui Empire, Sultanate of Rum, Sweden, Switzerland, Siam, Serbia). That block is a legend, not timeline data, and its text is 3-5 px tall, so it is described in these notes rather than transcribed as rows. Excluded from rows: the repeated century-axis rows at y~1887-1896 (-1 to 1000) and y~1974-1985 (-1 to 1000); the rules at y~1898 and y~1956; the black bottom frame at y~1988. The row above the strip is cut off at the top edge (pale section lettering is visible there), and only a ~2 px sliver of the key/credits block under the bottom frame falls inside the tile, so no credits text is legible."
+}

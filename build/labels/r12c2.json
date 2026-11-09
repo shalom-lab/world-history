@@ -1,0 +1,41 @@
+{
+ "tile_id": "r12c2",
+ "box": [1205, 1620, 1645, 1750],
+ "margin_labels": [],
+ "rows": [
+  {"y0": 1622, "y1": 1645, "label": "Maize farmers", "row_kind": "mixed", "confidence": "high",
+   "segments": [
+    {"x0": 1290, "x1": 1600, "text": "Maize farmers", "fill": "lightgray", "conf": "high"},
+    {"x0": 1600, "x1": 1645, "text": "Cen[?]", "fill": "lightgray", "conf": "low"}
+   ]},
+  {"y0": 1645, "y1": 1662, "label": "hunter collectors", "row_kind": "text", "confidence": "low",
+   "segments": [
+    {"x0": 1450, "x1": 1560, "text": "Caribbean farmers", "fill": "white", "conf": "medium"},
+    {"x0": 1560, "x1": 1645, "text": "Carib[?]", "fill": "white", "conf": "low"}
+   ]},
+  {"y0": 1678, "y1": 1695, "label": "Maize farmers", "row_kind": "mixed", "confidence": "medium",
+   "segments": [
+    {"x0": 1250, "x1": 1600, "text": "Maize [?] farmers", "fill": "lightgray", "conf": "low"},
+    {"x0": 1590, "x1": 1645, "text": "North And[?]", "fill": "lightgray", "conf": "low"}
+   ]},
+  {"y0": 1695, "y1": 1715, "label": "farmers", "row_kind": "text", "confidence": "low",
+   "segments": [
+    {"x0": 1250, "x1": 1645, "text": "farmers", "fill": "white", "conf": "medium"}
+   ]},
+  {"y0": 1715, "y1": 1730, "label": "Manioc farmers", "row_kind": "mixed", "confidence": "low",
+   "segments": [
+    {"x0": 1420, "x1": 1500, "text": "Manioc", "fill": "white", "conf": "low"},
+    {"x0": 1500, "x1": 1645, "text": "Manioc", "fill": "lightgray", "conf": "low"}
+   ]},
+  {"y0": 1730, "y1": 1745, "label": "Central Andean chiefdoms", "row_kind": "mixed", "confidence": "medium",
+   "segments": [
+    {"x0": 1210, "x1": 1290, "text": "Central Andean chiefdoms", "fill": "lightgray", "conf": "medium"},
+    {"x0": 1450, "x1": 1520, "text": "Manioc", "fill": "lightgray", "conf": "low"}
+   ]},
+  {"y0": 1745, "y1": 1750, "label": "MARI EMPIRE", "row_kind": "bar", "confidence": "low",
+   "segments": [
+    {"x0": 1500, "x1": 1645, "text": "MARI EMPIRE", "fill": "blue", "conf": "low"}
+   ]}
+ ],
+ "notes": "Century axis strip at y 1662-1678 skipped. 'MARI EMPIRE' is transcribed literally; on the poster this is probably WARI EMPIRE (Peru) but the first glyph is not resolvable at this scan size, so it is kept as printed. 'TIWANAKU EMPIRE' in orange starts at the bottom edge (y>=1748) and belongs to the next band."
+}

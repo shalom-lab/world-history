@@ -1,0 +1,29 @@
+{
+ "tile_id": "r12c0",
+ "box": [30, 1620, 645, 1750],
+ "margin_labels": [
+  {"text": "SOUTH AMERICA", "x0": 22, "x1": 38, "y0": 1622, "y1": 1758}
+ ],
+ "rows": [
+  {"y0": 1620, "y1": 1640, "label": "Maize farming replacing hunting and gathering",
+   "row_kind": "text", "confidence": "high",
+   "segments": [{"x0": 200, "x1": 645, "text": "Maize farming replacing hunting and gathering", "fill": "white", "conf": "high"}]},
+  {"y0": 1644, "y1": 1662, "label": "Archaic Amerindian hunter-gatherers",
+   "row_kind": "text", "confidence": "high",
+   "segments": [{"x0": 200, "x1": 645, "text": "Archaic Amerindian hunter-gatherers", "fill": "white", "conf": "high"}]},
+  {"y0": 1663, "y1": 1676, "label": "Archaic Amerindian hunter-gatherers",
+   "row_kind": "text", "confidence": "low", "segments": []},
+  {"y0": 1678, "y1": 1698, "label": "Maize farming replacing hunting and gathering",
+   "row_kind": "text", "confidence": "high",
+   "segments": [{"x0": 180, "x1": 645, "text": "Maize farming replacing hunting and gathering", "fill": "white", "conf": "high"}]},
+  {"y0": 1699, "y1": 1712, "label": "Archaic Amerindian hunter-gatherers",
+   "row_kind": "text", "confidence": "medium", "segments": []},
+  {"y0": 1713, "y1": 1728, "label": "Archaic Amerindian hunter-gatherers",
+   "row_kind": "text", "confidence": "high",
+   "segments": [{"x0": 180, "x1": 645, "text": "Archaic Amerindian hunter-gatherers", "fill": "white", "conf": "high"}]},
+  {"y0": 1729, "y1": 1746, "label": "Maize farming replacing hunting and gathering",
+   "row_kind": "text", "confidence": "medium",
+   "segments": [{"x0": 160, "x1": 640, "text": "Maize farming replacing hunting and gathering", "fill": "white", "conf": "medium"}]}
+ ],
+ "notes": "Left margin rotated label reads SOUTH...AMERICA (transcribed as SOUTH AMERICA). Bands are 6-20 px tall and mostly white at this end of the timeline; the centred captions are the band titles."
+}

@@ -1,0 +1,114 @@
+{
+  "tile_id": "r07c1",
+  "box": [615, 970, 1235, 1100],
+  "margin_labels": [],
+  "rows": [
+    {
+      "y0": 970,
+      "y1": 985,
+      "label": "Pastoral nomads",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 622, "x1": 1130, "text": "", "fill": "midgray", "conf": "high"},
+        {"x0": 1130, "x1": 1235, "text": "Arabs", "fill": "white", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 985,
+      "y1": 1000,
+      "label": "Semitics",
+      "row_kind": "text",
+      "confidence": "high",
+      "segments": [
+        {"x0": 622, "x1": 1120, "text": "", "fill": "midgray", "conf": "high"},
+        {"x0": 1120, "x1": 1235, "text": "Arabs", "fill": "white", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 1000,
+      "y1": 1015,
+      "label": "Arabs",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 622, "x1": 1110, "text": "", "fill": "midgray", "conf": "high"},
+        {"x0": 1110, "x1": 1235, "text": "Arabs", "fill": "white", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1015,
+      "y1": 1028,
+      "label": "Iranians (pastoralists)",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 622, "x1": 985, "text": "", "fill": "midgray", "conf": "high"},
+        {"x0": 985, "x1": 1080, "text": "ACHAEMENID EMPIRE", "fill": "cyan", "conf": "medium"},
+        {"x0": 1080, "x1": 1170, "text": "", "fill": "midgray", "conf": "low"},
+        {"x0": 1170, "x1": 1235, "text": "PARTHIA", "fill": "cyan", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1028,
+      "y1": 1040,
+      "label": "Iranians (pastoralists)",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 622, "x1": 990, "text": "", "fill": "midgray", "conf": "high"},
+        {"x0": 990, "x1": 1075, "text": "ACHAEMENID EMPIRE", "fill": "cyan", "conf": "medium"},
+        {"x0": 1075, "x1": 1130, "text": "SELEUCID EMPIRE", "fill": "olive", "conf": "medium"},
+        {"x0": 1130, "x1": 1235, "text": "", "fill": "midgray", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1040,
+      "y1": 1052,
+      "label": "Iranians (pastoralists)",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 622, "x1": 900, "text": "", "fill": "midgray", "conf": "high"},
+        {"x0": 900, "x1": 1065, "text": "Vedic period", "fill": "lightgray", "conf": "low"},
+        {"x0": 1065, "x1": 1120, "text": "MAURYAN EMPIRE", "fill": "green", "conf": "medium"},
+        {"x0": 1120, "x1": 1235, "text": "", "fill": "green", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1052,
+      "y1": 1065,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 622, "x1": 700, "text": "INDUS VALLEY CIVILIZATION (LATE HARAPPAN)", "fill": "yellow", "conf": "medium"},
+        {"x0": 700, "x1": 1060, "text": "", "fill": "midgray", "conf": "high"},
+        {"x0": 1060, "x1": 1235, "text": "", "fill": "green", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1065,
+      "y1": 1088,
+      "label": "Dravidians",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 622, "x1": 1000, "text": "", "fill": "midgray", "conf": "high"},
+        {"x0": 1000, "x1": 1085, "text": "Dravidians", "fill": "midgray", "conf": "medium"},
+        {"x0": 1085, "x1": 1235, "text": "Hindu Kingdoms", "fill": "green", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1088,
+      "y1": 1100,
+      "label": "",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": [
+        {"x0": 622, "x1": 1235, "text": "", "fill": "midgray", "conf": "high"}
+      ]
+    }
+  ],
+  "notes": "Below y 1040 the bands are only 4-6 px tall and are filled with very small print; only the largest names are recorded. 'Dravidians' and 'Vedic period' are printed with wide letter spacing across several neighbouring bands, so they are noted once each rather than repeated."
+}

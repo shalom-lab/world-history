@@ -1,0 +1,38 @@
+{
+  "tile_id": "r00c1",
+  "box": [615, 60, 1235, 190],
+  "margin_labels": [],
+  "rows": [
+    {
+      "y0": 77,
+      "y1": 139,
+      "label": "Khoisan hunter-gatherers",
+      "row_kind": "text",
+      "confidence": "high",
+      "segments": [
+        {"x0": 615, "x1": 1235, "text": "", "fill": "lightgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 140,
+      "y1": 151,
+      "label": "Uninhabited",
+      "row_kind": "text",
+      "confidence": "high",
+      "segments": [
+        {"x0": 615, "x1": 1235, "text": "", "fill": "white", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 151,
+      "y1": 187,
+      "label": "Khoisan hunter-gatherers",
+      "row_kind": "text",
+      "confidence": "high",
+      "segments": [
+        {"x0": 615, "x1": 1235, "text": "", "fill": "lightgray", "conf": "high"}
+      ]
+    }
+  ],
+  "notes": "Axis strip (century labels -1600..-100 at y 64-72) is the time scale, not a band. Both Khoisan hunter-gatherers labels are letter-spaced across the whole width (this tile shows 'e r - g a t h e r e r s' of the upper one and 'san hunter-gatherers' of the lower one); the lower label's letters run from y 174 to y 189 and so cross the band's lower edge. The thin century grid lines show up as 1-2 px mid-gray verticals and are not segment boundaries. To the right of the heavy vertical rule at x 1210 (year 0) the poster switches to much thinner rows; the small stacked labels there ('Khoisan pastoral farmers' at y 157-163, 'Khoisan pastoral farmers' at y 170-176, 'Khoisan pastoral ...' at y 181-186) sit on the same light-gray fill and are only readable as text. A new band begins at y 187 and continues into the tile below."
+}

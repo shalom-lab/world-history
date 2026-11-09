@@ -1,0 +1,140 @@
+{
+  "tile_id": "r03c2",
+  "box": [1205, 450, 1645, 580],
+  "margin_labels": [],
+  "rows": [
+    {
+      "y0": 450,
+      "y1": 459,
+      "label": "Camel nomads",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 459,
+      "y1": 466,
+      "label": "",
+      "row_kind": "bar",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1509, "x1": 1645, "text": "[?]", "fill": "green", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 466,
+      "y1": 474,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1509, "x1": 1645, "text": "West African chiefdoms", "fill": "midgray", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 474,
+      "y1": 486,
+      "label": "Camel nomads",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 486,
+      "y1": 492,
+      "label": "Pastoral nomads",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 492,
+      "y1": 501,
+      "label": "",
+      "row_kind": "bar",
+      "confidence": "high",
+      "segments": [
+        {"x0": 1270, "x1": 1568, "text": "KINGDOM OF AKSUM", "fill": "cyan", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 501,
+      "y1": 512,
+      "label": "Cereal farmers and herders",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 512,
+      "y1": 521,
+      "label": "Camel farmers and herders",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 521,
+      "y1": 529,
+      "label": "ROMAN EMPIRE",
+      "row_kind": "mixed",
+      "confidence": "high",
+      "segments": [
+        {"x0": 1215, "x1": 1375, "text": "ROMAN EMPIRE", "fill": "yellow", "conf": "high"},
+        {"x0": 1509, "x1": 1645, "text": "EASTERN ROMAN EMPIRE", "fill": "blue", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 529,
+      "y1": 543,
+      "label": "ROMAN EMPIRE",
+      "row_kind": "mixed",
+      "confidence": "high",
+      "segments": [
+        {"x0": 1216, "x1": 1244, "text": "EGYPT", "fill": "green", "conf": "medium"},
+        {"x0": 1244, "x1": 1395, "text": "ROMAN EMPIRE", "fill": "yellow", "conf": "high"},
+        {"x0": 1412, "x1": 1439, "text": "VANDAL KINGDOM", "fill": "green", "conf": "medium"},
+        {"x0": 1443, "x1": 1466, "text": "", "fill": "olive", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 543,
+      "y1": 549,
+      "label": "Camel nomads",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 549,
+      "y1": 562,
+      "label": "ROMAN EMPIRE",
+      "row_kind": "mixed",
+      "confidence": "high",
+      "segments": [
+        {"x0": 1210, "x1": 1395, "text": "ROMAN EMPIRE", "fill": "yellow", "conf": "high"},
+        {"x0": 1451, "x1": 1473, "text": "EASTERN ROMAN EMPIRE", "fill": "yellow", "conf": "medium"},
+        {"x0": 1496, "x1": 1519, "text": "UMAYYAD CALIPHATE", "fill": "cyan", "conf": "medium"},
+        {"x0": 1535, "x1": 1553, "text": "ABBASID CALIPHATE", "fill": "cyan", "conf": "medium"},
+        {"x0": 1596, "x1": 1645, "text": "FATIMID CALIPH[ATE]", "fill": "cyan", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 562,
+      "y1": 573,
+      "label": "Camel nomads",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 573,
+      "y1": 580,
+      "label": "",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    }
+  ],
+  "notes": "Green bar at the top right (x≈1509-1645, y≈459-466) carries large white letters that are cut by the tile edge and not resolvable, hence '[?]'; a grey 'West African chiefdoms' bar sits directly beneath it. The big cyan 'KINGDOM OF AKSUM' bar (x≈1270-1568) has a stepped left end around x≈1270. Repeated 'Camel nomads' / 'Pastoral nomads' lines (also 'Camel farmers and herders', 'Cereal farmers and herders') are tiny (~6 px) and low confidence. Right-hand column x≈1509-1645 holds several blue/cyan state bars (Umayyad, Abbasid, Fatimid, Eastern Roman) whose precise edges are hard to separate. Rows at y≈450 and y≈573-580 are cut by the tile edges. Yellow 'ROMAN EMPIRE' bands at x≈1210-1395 run through three consecutive rows."
+}

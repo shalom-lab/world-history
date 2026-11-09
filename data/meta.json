@@ -1,0 +1,196 @@
+{
+ "dataset": "world-history-timeline",
+ "title": "World History Timeline - Decade by Decade",
+ "author": "SenseForMaps",
+ "source": {
+  "file": "source.jpg",
+  "width": 2048,
+  "height": 2048,
+  "format": "image/jpeg",
+  "sha256": "af17614794782663e4a5e71a3f95919031e64595f54c7563841e30330d94bf5b"
+ },
+ "time_range": {
+  "start_year": -3100,
+  "end_year": 2000,
+  "step_years": 10
+ },
+ "axis": {
+  "x_of_year0": 60.0,
+  "px_per_century": 38.08,
+  "px_per_decade": 3.808,
+  "calibration": "century labels -3100..2000 at x=60..2002; fit over the printed axis label blobs and the full-height 38.08 px grid",
+  "decade_alignment": "every 10 years = 3.808 px, so each bar edge resolves to about ±2 years; values are snapped to the decade grid"
+ },
+ "plot_area": {
+  "x0": 30,
+  "y0": 58,
+  "x1": 2032,
+  "y1": 1989
+ },
+ "counts": {
+  "entities": 140,
+  "spans": 1850,
+  "sections": 10,
+  "legend_families": 22,
+  "labelled_spans": 446
+ },
+ "method": "pixel-calibrated raster extraction; band rows transcribed from 3x zoomed tiles with a coordinate frame, fill runs re-derived from the raster",
+ "coverage": {
+  "tiles_total": 60,
+  "tiles_transcribed": 60,
+  "tiles_missing": [],
+  "bands": [
+   {
+    "band": "r00",
+    "y": [
+     60,
+     190
+    ],
+    "tiles": "4/4",
+    "status": "complete"
+   },
+   {
+    "band": "r01",
+    "y": [
+     190,
+     320
+    ],
+    "tiles": "4/4",
+    "status": "complete"
+   },
+   {
+    "band": "r02",
+    "y": [
+     320,
+     450
+    ],
+    "tiles": "4/4",
+    "status": "complete"
+   },
+   {
+    "band": "r03",
+    "y": [
+     450,
+     580
+    ],
+    "tiles": "4/4",
+    "status": "complete"
+   },
+   {
+    "band": "r04",
+    "y": [
+     580,
+     710
+    ],
+    "tiles": "4/4",
+    "status": "complete"
+   },
+   {
+    "band": "r05",
+    "y": [
+     710,
+     840
+    ],
+    "tiles": "4/4",
+    "status": "complete"
+   },
+   {
+    "band": "r06",
+    "y": [
+     840,
+     970
+    ],
+    "tiles": "4/4",
+    "status": "complete"
+   },
+   {
+    "band": "r07",
+    "y": [
+     970,
+     1100
+    ],
+    "tiles": "4/4",
+    "status": "complete"
+   },
+   {
+    "band": "r08",
+    "y": [
+     1100,
+     1230
+    ],
+    "tiles": "4/4",
+    "status": "complete"
+   },
+   {
+    "band": "r09",
+    "y": [
+     1230,
+     1360
+    ],
+    "tiles": "4/4",
+    "status": "complete"
+   },
+   {
+    "band": "r10",
+    "y": [
+     1360,
+     1490
+    ],
+    "tiles": "4/4",
+    "status": "complete"
+   },
+   {
+    "band": "r11",
+    "y": [
+     1490,
+     1620
+    ],
+    "tiles": "4/4",
+    "status": "complete"
+   },
+   {
+    "band": "r12",
+    "y": [
+     1620,
+     1750
+    ],
+    "tiles": "4/4",
+    "status": "complete"
+   },
+   {
+    "band": "r13",
+    "y": [
+     1750,
+     1880
+    ],
+    "tiles": "4/4",
+    "status": "complete"
+   },
+   {
+    "band": "r14",
+    "y": [
+     1880,
+     1990
+    ],
+    "tiles": "4/4",
+    "status": "complete"
+   }
+  ],
+  "incomplete_y_ranges": [],
+  "note": "The poster was cut into 15 horizontal bands x 4 columns. 'partial' bands are missing their right-hand column (x 1625-2032), so recent dates in those bands stop early. 'missing' bands have no transcription at all and their entities are absent, not empty."
+ },
+ "i18n": {
+  "locales": [
+   "zh-CN"
+  ],
+  "canonical": "en",
+  "note": "English is what the poster prints. zh-CN is a translation of those strings keyed by the exact English text; a missing key falls back to English in every output.",
+  "zh_missing": []
+ },
+ "caveats": [
+  "The 2048 px raster is far smaller than the original poster; text below ~6 px is only partly legible and is marked with '?' or missing.",
+  "Bands whose label is unreadable are named after their longest printed span.",
+  "Language-family assignment is a nearest-colour match against the printed colour key; adjacent shades of the same hue can be ambiguous.",
+  "Rows that straddle a tile boundary were stitched by label + geometry; a few may be duplicated or split."
+ ]
+}

@@ -1,0 +1,153 @@
+{
+ "tile_id": "r10c1",
+ "box": [
+  615,
+  1360,
+  1235,
+  1490
+ ],
+ "margin_labels": [],
+ "rows": [
+  {
+   "y0": 1359,
+   "y1": 1371,
+   "label": "[?]",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 615,
+     "x1": 1096,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    },
+    {
+     "x0": 1096,
+     "x1": 1235,
+     "text": "",
+     "fill": "purple",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1372,
+   "y1": 1392,
+   "label": "Austro-Asiatic rice farmers",
+   "row_kind": "text",
+   "confidence": "high",
+   "segments": [
+    {
+     "x0": 615,
+     "x1": 1235,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1395,
+   "y1": 1405,
+   "label": "[?]",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 615,
+     "x1": 955,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    },
+    {
+     "x0": 955,
+     "x1": 1171,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 1171,
+     "x1": 1210,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    },
+    {
+     "x0": 1210,
+     "x1": 1235,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1415,
+   "y1": 1431,
+   "label": "Austronesians",
+   "row_kind": "text",
+   "confidence": "high",
+   "segments": [
+    {
+     "x0": 615,
+     "x1": 1235,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1436,
+   "y1": 1447,
+   "label": "[?]",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 615,
+     "x1": 1235,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1460,
+   "y1": 1476,
+   "label": "Uninhabited",
+   "row_kind": "text",
+   "confidence": "high",
+   "segments": [
+    {
+     "x0": 615,
+     "x1": 1235,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1478,
+   "y1": 1489,
+   "label": "Uninhabited",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": [
+    {
+     "x0": 615,
+     "x1": 1235,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  }
+ ],
+ "notes": "Axis strip at y=1444-1458 not transcribed. Purple bar at top right x=1180-1235 belongs to the SE-Asia bars continued from the tile above. The second Uninhabited row at y=1478-1489 is cut by the tile bottom edge."
+}

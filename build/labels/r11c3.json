@@ -1,0 +1,258 @@
+{
+ "tile_id": "r11c3",
+ "box": [
+  1625,
+  1490,
+  2032,
+  1620
+ ],
+ "margin_labels": [],
+ "rows": [
+  {
+   "y0": 1488,
+   "y1": 1496,
+   "label": "[?]",
+   "row_kind": "text",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 1625,
+     "x1": 1923,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    },
+    {
+     "x0": 1923,
+     "x1": 2013,
+     "text": "",
+     "fill": "lime",
+     "conf": "medium"
+    },
+    {
+     "x0": 2013,
+     "x1": 2032,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1505,
+   "y1": 1512,
+   "label": "Sub-Arctic forest hunter-gatherers",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": [
+    {
+     "x0": 1625,
+     "x1": 1827,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 1827,
+     "x1": 1885,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    },
+    {
+     "x0": 1885,
+     "x1": 1929,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 1929,
+     "x1": 2032,
+     "text": "",
+     "fill": "lime",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1545,
+   "y1": 1560,
+   "label": "Ancestral Puebloans",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 1625,
+     "x1": 1938,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    },
+    {
+     "x0": 1938,
+     "x1": 1952,
+     "text": "",
+     "fill": "orange",
+     "conf": "medium"
+    },
+    {
+     "x0": 1952,
+     "x1": 2032,
+     "text": "",
+     "fill": "lime",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1562,
+   "y1": 1578,
+   "label": "Mississippian culture",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {
+     "x0": 1625,
+     "x1": 1678,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    },
+    {
+     "x0": 1678,
+     "x1": 1895,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 1895,
+     "x1": 1915,
+     "text": "",
+     "fill": "lightgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 1915,
+     "x1": 2032,
+     "text": "",
+     "fill": "lime",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1580,
+   "y1": 1595,
+   "label": "Plateau bison hunters",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 1625,
+     "x1": 1678,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    },
+    {
+     "x0": 1678,
+     "x1": 1857,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 1857,
+     "x1": 1914,
+     "text": "",
+     "fill": "yellow",
+     "conf": "medium"
+    },
+    {
+     "x0": 1914,
+     "x1": 2032,
+     "text": "",
+     "fill": "lime",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1596,
+   "y1": 1608,
+   "label": "NEW SPAIN",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {
+     "x0": 1625,
+     "x1": 1796,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 1796,
+     "x1": 1824,
+     "text": "",
+     "fill": "crimson",
+     "conf": "medium"
+    },
+    {
+     "x0": 1824,
+     "x1": 2013,
+     "text": "",
+     "fill": "yellow",
+     "conf": "medium"
+    },
+    {
+     "x0": 2013,
+     "x1": 2032,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1609,
+   "y1": 1620,
+   "label": "NEW",
+   "row_kind": "bar",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 1625,
+     "x1": 1830,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 1830,
+     "x1": 1873,
+     "text": "",
+     "fill": "yellow",
+     "conf": "medium"
+    },
+    {
+     "x0": 1873,
+     "x1": 1883,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 1883,
+     "x1": 2032,
+     "text": "",
+     "fill": "yellow",
+     "conf": "medium"
+    }
+   ]
+  }
+ ],
+ "notes": "Modern North-America block: CANADA, UNITED STATES, MEXICO, NEW FRANCE, GB labels sit in the lime/yellow bars at x>1850 but are only 3-4 px tall and cannot be placed reliably. Huge wordmark NEW (New Spain) is cut by the bottom edge. Axis strip y=1534-1542 not transcribed. Right margin carries the rotated label NORTH AMERICA."
+}

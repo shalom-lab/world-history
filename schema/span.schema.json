@@ -1,0 +1,36 @@
+{
+ "$schema": "http://json-schema.org/draft-07/schema#",
+ "$id": "https://local/world-history/span.schema.json",
+ "title": "A coloured block inside one band = a period of an entity",
+ "type": "array",
+ "items": {
+  "type": "object",
+  "required": ["id", "entity_id", "label", "start_year", "end_year", "color_hex", "x0", "x1"],
+  "additionalProperties": false,
+  "properties": {
+   "id": {"type": "string", "pattern": "^S[0-9]{4}$"},
+   "entity_id": {"type": "string", "pattern": "^E[0-9]{3}$"},
+   "entity_name": {"type": "string"},
+   "label": {"type": "string", "description": "text printed inside the block, may be empty"},
+   "label_zh": {"type": ["string", "null"], "description": "zh-CN translation of label"},
+   "start_year": {"type": "integer", "minimum": -3100, "maximum": 2000,
+                  "description": "negative = BCE"},
+   "end_year": {"type": "integer", "minimum": -3100, "maximum": 2000},
+   "start_year_label": {"type": "string"},
+   "end_year_label": {"type": "string"},
+   "color_hex": {"type": "string", "pattern": "^#[0-9a-f]{6}$"},
+   "fill_class": {
+    "type": "string",
+    "enum": ["white", "lightgray", "midgray", "darkgray", "black", "red", "orange",
+             "yellow", "olive", "lime", "green", "teal", "cyan", "blue", "purple",
+             "magenta", "pink"]
+   },
+   "language_family": {"type": ["string", "null"]},
+   "language_family_alt": {"type": ["string", "null"]},
+   "color_confidence": {"type": "string", "enum": ["high", "medium", "low", "none"]},
+   "x0": {"type": "integer", "minimum": 30, "maximum": 2032},
+   "x1": {"type": "integer", "minimum": 30, "maximum": 2032},
+   "confidence": {"type": "string", "enum": ["high", "medium", "low"]}
+  }
+ }
+}

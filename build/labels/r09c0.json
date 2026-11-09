@@ -1,0 +1,87 @@
+{
+  "tile_id": "r09c0",
+  "box": [30, 1230, 645, 1360],
+  "margin_labels": [
+    {"text": "CENTRAL ASIA", "x0": 29, "x1": 41, "y0": 1242, "y1": 1352}
+  ],
+  "rows": [
+    {
+      "y0": 1230,
+      "y1": 1236,
+      "label": "Central Asian Farmers",
+      "row_kind": "mixed",
+      "confidence": "high",
+      "segments": [
+        {"x0": 38, "x1": 645, "text": "Central Asian Farmers", "fill": "lightgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 1248,
+      "y1": 1258,
+      "label": "[?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 1258,
+      "y1": 1270,
+      "label": "[?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 1270,
+      "y1": 1282,
+      "label": "Paleo-Asiatic hunter-gatherers",
+      "row_kind": "text",
+      "confidence": "high",
+      "segments": []
+    },
+    {
+      "y0": 1282,
+      "y1": 1295,
+      "label": "[?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 1295,
+      "y1": 1315,
+      "label": "Longshan Late Neolithic cultures",
+      "row_kind": "mixed",
+      "confidence": "high",
+      "segments": [
+        {"x0": 38, "x1": 633, "text": "Longshan Late Neolithic cultures", "fill": "lightgray", "conf": "high"},
+        {"x0": 634, "x1": 645, "text": "", "fill": "purple", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 1315,
+      "y1": 1325,
+      "label": "[?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 1325,
+      "y1": 1340,
+      "label": "[?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 1340,
+      "y1": 1348,
+      "label": "[?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    }
+  ],
+  "notes": "Two century axis strips cross this tile - one at y=1240-1248 (-3100 ... -1600) and one at y=1350-1358; both are the poster's repeated time axis and are not listed as rows. The grey band at the top (y=1230-1236, 'Central Asian Farmers') is the continuation of the band that starts at y=1226 in r08c0 and is clamped at the tile edge. The grey band at y=1295-1315 carries the wide-letterspaced name 'Longshan Late Neolithic cultures', repeated twice across the width; it is one continuous fill, split here only at the purple segment that starts at x=634 and belongs to the neighbouring Chinese-dynasty band. Rows below y=1315 again hold 3 px unreadable labels; the italic entry 'Jomon period' is visible around x=205-250, y=1335 but the band label is not resolvable."
+}

@@ -1,0 +1,112 @@
+{
+ "tile_id": "r05c3",
+ "box": [1625, 710, 2032, 840],
+ "margin_labels": [],
+ "rows": [
+  {
+   "y0": 710,
+   "y1": 722,
+   "label": "NOVGOROD REPUBLIC",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 1625, "x1": 1700, "text": "NOVGOROD REPUBLIC", "fill": "orange", "conf": "medium"},
+    {"x0": 1720, "x1": 1800, "text": "NOVGOROD REPUBLIC", "fill": "orange", "conf": "medium"},
+    {"x0": 1780, "x1": 1830, "text": "MOSCOW", "fill": "orange", "conf": "low"}
+   ]
+  },
+  {
+   "y0": 722,
+   "y1": 736,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 1700, "x1": 1780, "text": "GOLDEN HORDE", "fill": "red", "conf": "high"},
+    {"x0": 1820, "x1": 1960, "text": "TSARDOM OF RUSSIA", "fill": "orange", "conf": "high"},
+    {"x0": 1960, "x1": 2000, "text": "SOVIET UNION", "fill": "orange", "conf": "medium"},
+    {"x0": 2000, "x1": 2032, "text": "RUSSIA", "fill": "orange", "conf": "low"}
+   ]
+  },
+  {
+   "y0": 736,
+   "y1": 748,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {"x0": 1625, "x1": 1700, "text": "", "fill": "midgray", "conf": "low"},
+    {"x0": 1720, "x1": 1760, "text": "Cumania", "fill": "midgray", "conf": "medium"}
+   ]
+  },
+  {
+   "y0": 748,
+   "y1": 762,
+   "label": "POLAND-LITHUANIA",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 1790, "x1": 1900, "text": "POLAND-LITHUANIA", "fill": "yellow", "conf": "medium"},
+    {"x0": 1900, "x1": 1960, "text": "POLISH-LITHUANIAN COMMONWEALTH", "fill": "yellow", "conf": "medium"}
+   ]
+  },
+  {
+   "y0": 762,
+   "y1": 775,
+   "label": "KINGDOM OF POLAND",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {"x0": 1625, "x1": 1700, "text": "KINGDOM OF POLAND", "fill": "yellow", "conf": "low"},
+    {"x0": 1800, "x1": 1900, "text": "AUSTRIA", "fill": "lime", "conf": "low"},
+    {"x0": 1930, "x1": 2000, "text": "PRUSSIA", "fill": "lime", "conf": "low"}
+   ]
+  },
+  {
+   "y0": 775,
+   "y1": 790,
+   "label": "KINGDOM OF HUNGARY",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 1625, "x1": 1780, "text": "KINGDOM OF HUNGARY", "fill": "red", "conf": "medium"},
+    {"x0": 1800, "x1": 1870, "text": "AUSTRIA", "fill": "lime", "conf": "medium"},
+    {"x0": 1870, "x1": 1930, "text": "AUSTRIA", "fill": "lime", "conf": "medium"},
+    {"x0": 1930, "x1": 2000, "text": "AUSTRIA-HUNGARY", "fill": "lime", "conf": "low"}
+   ]
+  },
+  {
+   "y0": 790,
+   "y1": 800,
+   "label": "OTTOMAN EMPIRE",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 1780, "x1": 1930, "text": "OTTOMAN EMPIRE", "fill": "pink", "conf": "medium"}
+   ]
+  },
+  {
+   "y0": 800,
+   "y1": 812,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {"x0": 1625, "x1": 1700, "text": "", "fill": "blue", "conf": "low"},
+    {"x0": 1900, "x1": 1960, "text": "GREAT BRITAIN", "fill": "lime", "conf": "low"},
+    {"x0": 1950, "x1": 2010, "text": "UNITED KINGDOM", "fill": "lime", "conf": "low"}
+   ]
+  },
+  {
+   "y0": 812,
+   "y1": 840,
+   "label": "HOLY ROMAN EMPIRE",
+   "row_kind": "mixed",
+   "confidence": "high",
+   "segments": [
+    {"x0": 1625, "x1": 1830, "text": "HOLY ROMAN EMPIRE", "fill": "lime", "conf": "high"}
+   ]
+  }
+ ],
+ "notes": "Vertical labels SOVIET UNION and RUSSIA read bottom-to-top along x 1950-2032. The rotated word EUROPE sits in the poster's right-hand margin at x 2010-2032 (not a c0 left margin, so omitted from margin_labels). Last row runs past the tile bottom."
+}

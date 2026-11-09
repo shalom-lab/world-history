@@ -1,0 +1,58 @@
+{
+ "tile_id": "r03c3",
+ "box": [1625, 450, 2032, 580],
+ "margin_labels": [],
+ "rows": [
+  {"y0": 452, "y1": 468, "label": "BORNU EMPIRE", "row_kind": "mixed", "confidence": "high",
+   "segments": [
+    {"x0": 1780, "x1": 1920, "text": "BORNU EMPIRE", "fill": "green", "conf": "high"},
+    {"x0": 1940, "x1": 1962, "text": "FR.", "fill": "yellow", "conf": "medium"},
+    {"x0": 1962, "x1": 1995, "text": "CHAD", "fill": "green", "conf": "medium"}
+   ]},
+  {"y0": 468, "y1": 480, "label": "", "row_kind": "mixed", "confidence": "low",
+   "segments": [
+    {"x0": 1700, "x1": 1900, "text": "West African chiefdoms", "fill": "lightgray", "conf": "medium"},
+    {"x0": 1900, "x1": 1960, "text": "NADAL SULTANATE", "fill": "blue", "conf": "low"}
+   ]},
+  {"y0": 480, "y1": 495, "label": "Camels nomads", "row_kind": "mixed", "confidence": "medium",
+   "segments": [
+    {"x0": 1700, "x1": 1900, "text": "Camels nomads", "fill": "white", "conf": "medium"},
+    {"x0": 1900, "x1": 1960, "text": "KANEM-BORNU [?]", "fill": "blue", "conf": "low"}
+   ]},
+  {"y0": 495, "y1": 515, "label": "ETHIOPIAN EMPIRE", "row_kind": "mixed", "confidence": "high",
+   "segments": [
+    {"x0": 1750, "x1": 1900, "text": "ETHIOPIAN EMPIRE", "fill": "cyan", "conf": "high"},
+    {"x0": 1900, "x1": 1960, "text": "ETHIOPIAN EMPIRE", "fill": "cyan", "conf": "high"},
+    {"x0": 1962, "x1": 2000, "text": "ETHIOPIA", "fill": "cyan", "conf": "medium"}
+   ]},
+  {"y0": 515, "y1": 530, "label": "ALAWI DYNASTY", "row_kind": "mixed", "confidence": "high",
+   "segments": [
+    {"x0": 1650, "x1": 1700, "text": "ALMO-RAVIDS", "fill": "blue", "conf": "medium"},
+    {"x0": 1750, "x1": 1800, "text": "MARINID DYNASTY", "fill": "cyan", "conf": "medium"},
+    {"x0": 1800, "x1": 1850, "text": "WATTASID DYNASTY", "fill": "cyan", "conf": "medium"},
+    {"x0": 1850, "x1": 1900, "text": "SAADI SULTANATE", "fill": "cyan", "conf": "medium"},
+    {"x0": 1900, "x1": 1960, "text": "ALAWI DYNASTY", "fill": "cyan", "conf": "high"},
+    {"x0": 1962, "x1": 1990, "text": "MOROCCO", "fill": "blue", "conf": "medium"}
+   ]},
+  {"y0": 530, "y1": 545, "label": "OTTOMAN EMPIRE", "row_kind": "mixed", "confidence": "high",
+   "segments": [
+    {"x0": 1800, "x1": 1900, "text": "OTTOMAN EMPIRE", "fill": "pink", "conf": "high"},
+    {"x0": 1900, "x1": 1930, "text": "N. AFRICA (FR.)", "fill": "yellow", "conf": "low"},
+    {"x0": 1962, "x1": 1990, "text": "ALGERIA", "fill": "blue", "conf": "medium"}
+   ]},
+  {"y0": 545, "y1": 560, "label": "MAMLUK SULTANATE", "row_kind": "mixed", "confidence": "medium",
+   "segments": [
+    {"x0": 1650, "x1": 1700, "text": "ALMOHADS", "fill": "blue", "conf": "medium"},
+    {"x0": 1800, "x1": 1900, "text": "MAMLUK SULTANATE", "fill": "blue", "conf": "medium"},
+    {"x0": 1900, "x1": 1960, "text": "OTTOMAN EMPIRE", "fill": "pink", "conf": "medium"},
+    {"x0": 1962, "x1": 1990, "text": "EGYPT", "fill": "pink", "conf": "medium"}
+   ]},
+  {"y0": 560, "y1": 580, "label": "Camels nomads", "row_kind": "mixed", "confidence": "medium",
+   "segments": [
+    {"x0": 1700, "x1": 1900, "text": "Camels nomads", "fill": "white", "conf": "medium"},
+    {"x0": 1900, "x1": 1960, "text": "IT.", "fill": "yellow", "conf": "medium"},
+    {"x0": 1962, "x1": 1995, "text": "LIBYA", "fill": "blue", "conf": "medium"}
+   ]}
+ ],
+ "notes": "Dense North/East Africa stack. Right edge repeats modern states (CHAD, SOMALIA, ETHIOPIA, MOROCCO, ALGERIA, TUNISIA, LIBYA) in navy blocks. 'Camels nomads' is printed that way on the poster and kept verbatim."
+}

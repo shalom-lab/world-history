@@ -1,0 +1,137 @@
+{
+ "tile_id": "r11c2",
+ "box": [
+  1205,
+  1490,
+  1645,
+  1620
+ ],
+ "margin_labels": [],
+ "rows": [
+  {
+   "y0": 1488,
+   "y1": 1500,
+   "label": "Arctic marine mammal hunters",
+   "row_kind": "text",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 1205,
+     "x1": 1645,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1502,
+   "y1": 1520,
+   "label": "Sub-Arctic [?] hunters",
+   "row_kind": "text",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 1205,
+     "x1": 1645,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1563,
+   "y1": 1578,
+   "label": "Plains bison hunters",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": [
+    {
+     "x0": 1205,
+     "x1": 1645,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1583,
+   "y1": 1595,
+   "label": "Eastern woodlands hunter-gatherers",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {
+     "x0": 1205,
+     "x1": 1468,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    },
+    {
+     "x0": 1468,
+     "x1": 1585,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 1585,
+     "x1": 1645,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1596,
+   "y1": 1610,
+   "label": "Maize farmers",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 1205,
+     "x1": 1645,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1612,
+   "y1": 1620,
+   "label": "MAYA CIVILIZATION (CLASSIC PERIOD)",
+   "row_kind": "bar",
+   "confidence": "medium",
+   "segments": [
+    {
+     "x0": 1205,
+     "x1": 1336,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 1336,
+     "x1": 1585,
+     "text": "",
+     "fill": "purple",
+     "conf": "medium"
+    },
+    {
+     "x0": 1585,
+     "x1": 1645,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    }
+   ]
+  }
+ ],
+ "notes": "Very dense: bands around y=1595-1610 carry Mississippi-temple-mound / Woodland farmer micro-labels that are illegible. Maya classic-period bar is purple and runs off the bottom edge. Axis strip y=1534-1542 not transcribed."
+}

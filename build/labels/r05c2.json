@@ -1,0 +1,123 @@
+{
+ "tile_id": "r05c2",
+ "box": [1205, 710, 1645, 840],
+ "margin_labels": [],
+ "rows": [
+  {
+   "y0": 710,
+   "y1": 722,
+   "label": "Finns",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {"x0": 1205, "x1": 1290, "text": "Finns", "fill": "midgray", "conf": "low"},
+    {"x0": 1290, "x1": 1430, "text": "", "fill": "midgray", "conf": "low"}
+   ]
+  },
+  {
+   "y0": 722,
+   "y1": 733,
+   "label": "Slavs",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {"x0": 1540, "x1": 1645, "text": "Slavs", "fill": "midgray", "conf": "low"},
+    {"x0": 1600, "x1": 1645, "text": "KIEVAN RUS", "fill": "orange", "conf": "medium"}
+   ]
+  },
+  {
+   "y0": 733,
+   "y1": 745,
+   "label": "Sarmatians",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": []
+  },
+  {
+   "y0": 745,
+   "y1": 757,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {"x0": 1205, "x1": 1300, "text": "ROMAN EMPIRE", "fill": "yellow", "conf": "low"},
+    {"x0": 1300, "x1": 1330, "text": "", "fill": "olive", "conf": "low"},
+    {"x0": 1460, "x1": 1560, "text": "KHAZAR KHAGANATE", "fill": "magenta", "conf": "medium"}
+   ]
+  },
+  {
+   "y0": 757,
+   "y1": 768,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {"x0": 1205, "x1": 1330, "text": "ROMAN EMPIRE", "fill": "yellow", "conf": "low"},
+    {"x0": 1460, "x1": 1560, "text": "AVAR KHAGANATE", "fill": "magenta", "conf": "low"}
+   ]
+  },
+  {
+   "y0": 768,
+   "y1": 780,
+   "label": "Slavs",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {"x0": 1205, "x1": 1290, "text": "Germans", "fill": "midgray", "conf": "low"},
+    {"x0": 1450, "x1": 1560, "text": "AVAR KHAGANATE", "fill": "magenta", "conf": "medium"},
+    {"x0": 1590, "x1": 1645, "text": "Slavs", "fill": "midgray", "conf": "low"}
+   ]
+  },
+  {
+   "y0": 780,
+   "y1": 795,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {"x0": 1205, "x1": 1290, "text": "Dacia", "fill": "midgray", "conf": "low"},
+    {"x0": 1290, "x1": 1400, "text": "ROMAN EMPIRE / Dacians", "fill": "yellow", "conf": "low"},
+    {"x0": 1400, "x1": 1450, "text": "Dacians", "fill": "midgray", "conf": "low"},
+    {"x0": 1450, "x1": 1560, "text": "AVAR KHAGANATE", "fill": "magenta", "conf": "medium"},
+    {"x0": 1560, "x1": 1645, "text": "FIRST BULGARIAN EMPIRE", "fill": "red", "conf": "low"}
+   ]
+  },
+  {
+   "y0": 795,
+   "y1": 810,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {"x0": 1290, "x1": 1400, "text": "ROMAN EMPIRE", "fill": "yellow", "conf": "low"},
+    {"x0": 1400, "x1": 1470, "text": "Germans", "fill": "midgray", "conf": "low"},
+    {"x0": 1450, "x1": 1560, "text": "FRANKS", "fill": "lime", "conf": "low"},
+    {"x0": 1490, "x1": 1560, "text": "CALIPHATE OF CORDOBA", "fill": "blue", "conf": "low"}
+   ]
+  },
+  {
+   "y0": 810,
+   "y1": 825,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {"x0": 1205, "x1": 1300, "text": "ROMAN EMPIRE", "fill": "yellow", "conf": "low"},
+    {"x0": 1450, "x1": 1560, "text": "FRANKS", "fill": "lime", "conf": "low"}
+   ]
+  },
+  {
+   "y0": 825,
+   "y1": 840,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {"x0": 1400, "x1": 1450, "text": "WESTERN ROMAN EMPIRE", "fill": "yellow", "conf": "low"},
+    {"x0": 1450, "x1": 1560, "text": "VISIGOTHIC KINGDOM", "fill": "blue", "conf": "medium"},
+    {"x0": 1600, "x1": 1645, "text": "EAST FRANCIA", "fill": "lime", "conf": "low"}
+   ]
+  }
+ ],
+ "notes": "This tile is a mosaic of many short-lived states; several adjacent segments overlap in the poster (e.g. ROMAN EMPIRE yellow bars sit under successor-kingdom labels). Text read at 4x zoom; parentheses and small captions are illegible. Last row is cut by the tile edge."
+}

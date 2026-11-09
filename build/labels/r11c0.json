@@ -1,0 +1,92 @@
+{
+ "tile_id": "r11c0",
+ "box": [
+  30,
+  1490,
+  645,
+  1620
+ ],
+ "margin_labels": [
+  {
+   "text": "NORTH AMERICA",
+   "x0": 28,
+   "x1": 42,
+   "y0": 1490,
+   "y1": 1556
+  }
+ ],
+ "rows": [
+  {
+   "y0": 1488,
+   "y1": 1496,
+   "label": "Arctic marine mammal hunters",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": [
+    {
+     "x0": 30,
+     "x1": 645,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1504,
+   "y1": 1520,
+   "label": "Archaic Amerindian hunter-gatherers",
+   "row_kind": "text",
+   "confidence": "high",
+   "segments": [
+    {
+     "x0": 30,
+     "x1": 645,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1563,
+   "y1": 1582,
+   "label": "Archaic Amerindian hunter-gatherers",
+   "row_kind": "text",
+   "confidence": "high",
+   "segments": [
+    {
+     "x0": 30,
+     "x1": 645,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1600,
+   "y1": 1620,
+   "label": "Maize farming replacing hunting and gathering",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": [
+    {
+     "x0": 30,
+     "x1": 39,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 39,
+     "x1": 645,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  }
+ ],
+ "notes": "Axis strip at y=1534-1542 (century labels -3100 to -1600) not transcribed. Row at y=1488-1496 is cut by the tile top edge. Maize farmers row runs off the bottom edge. Margin label NORTH AMERICA repeats further down the margin."
+}

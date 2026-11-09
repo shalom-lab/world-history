@@ -1,0 +1,115 @@
+{
+  "tile_id": "r02c2",
+  "box": [1205, 320, 1645, 450],
+  "margin_labels": [],
+  "rows": [
+    {
+      "y0": 320,
+      "y1": 334,
+      "label": "",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 334,
+      "y1": 375,
+      "label": "Tropical forest farmers",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1205, "x1": 1507, "text": "", "fill": "white", "conf": "medium"},
+        {"x0": 1507, "x1": 1645, "text": "West African chiefdoms", "fill": "midgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 375,
+      "y1": 386,
+      "label": "Camel nomads",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 386,
+      "y1": 393,
+      "label": "Pastoral nomads",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 393,
+      "y1": 400,
+      "label": "",
+      "row_kind": "bar",
+      "confidence": "high",
+      "segments": [
+        {"x0": 1323, "x1": 1645, "text": "GHANA", "fill": "blue", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 400,
+      "y1": 408,
+      "label": "Camel nomads",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 408,
+      "y1": 414,
+      "label": "Cereal farmers and herders",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 414,
+      "y1": 421,
+      "label": "",
+      "row_kind": "bar",
+      "confidence": "high",
+      "segments": [
+        {"x0": 1322, "x1": 1645, "text": "GHANA EMPIRE", "fill": "blue", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 421,
+      "y1": 428,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1497, "x1": 1645, "text": "West African chiefdoms", "fill": "midgray", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 428,
+      "y1": 435,
+      "label": "Camel nomads",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 435,
+      "y1": 442,
+      "label": "Pastoral nomads",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 442,
+      "y1": 450,
+      "label": "Cereal farmers and herders",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1622, "x1": 1645, "text": "", "fill": "blue", "conf": "low"}
+      ]
+    }
+  ],
+  "notes": "Left edge cuts the big label so it reads '...pical forest farmers' (full text continues from the previous tile). The mid-grey block at x≈1507-1645, y≈334-375 carries 'West African chiefdoms' in two lines and is the fill for that culture, not a separate row. Two long blue bars cross the whole strip: y≈393-400 from x≈1323 rightwards (white letters 'GHANA' around x≈1407-1473) and y≈414-421 from x≈1322 rightwards (white letters 'GHANA EMPIRE', 'EMPIRE' around x≈1497-1585). A narrow cyan/blue fill sits at the right edge x≈1641-1645, y≈381-408 and the blue bar at x≈1563-1645, y≈327-331 is at the top edge. The dense x≈1495-1560 column of tiny alternating 'Camel nomads'/'Pastoral nomads' labels (~6 px tall) is low confidence and could not be separated row by row. Bottom row cut at y=450."
+}

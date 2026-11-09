@@ -1,0 +1,40 @@
+{
+  "tile_id": "r00c0",
+  "box": [30, 60, 645, 190],
+  "margin_labels": [
+    {"text": "SOUTHERN AFRICA", "x0": 24, "x1": 35, "y0": 92, "y1": 190}
+  ],
+  "rows": [
+    {
+      "y0": 77,
+      "y1": 139,
+      "label": "Khoisan hunter-gatherers",
+      "row_kind": "text",
+      "confidence": "high",
+      "segments": [
+        {"x0": 36, "x1": 645, "text": "", "fill": "lightgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 140,
+      "y1": 151,
+      "label": "Uninhabited",
+      "row_kind": "text",
+      "confidence": "high",
+      "segments": [
+        {"x0": 36, "x1": 645, "text": "", "fill": "white", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 151,
+      "y1": 187,
+      "label": "Khoisan hunter-gatherers",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 36, "x1": 645, "text": "", "fill": "lightgray", "conf": "high"}
+      ]
+    }
+  ],
+  "notes": "Axis strip (century labels -3100..-1600 at y 64-72) is the time scale, not a band, so it is not transcribed. The legend box 'Civilizations by language - Color key' is an opaque white overlay covering the artwork from about x 120 to x 588 and y 163 downwards; whatever is under it is not readable. The Khoisan hunter-gatherers label is written with extreme letter spacing across the whole width (letters from about x 203 across this tile); the label of the row at y 151-187 is only visible to the right of the legend box (from about x 620) and its lettering overlaps the bottom edge of the band. The rotated margin label SOUTHERN AFRICA continues below the tile edge (it ends at y 256)."
+}

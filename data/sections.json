@@ -1,0 +1,72 @@
+[
+ {
+  "id": "SEC01",
+  "name": "SOUTHERN AFRICA",
+  "y0": 60,
+  "y1": 456,
+  "label_source": "margin"
+ },
+ {
+  "id": "SEC02",
+  "name": "NORTHERN AFRICA",
+  "y0": 456,
+  "y1": 727,
+  "label_source": "margin"
+ },
+ {
+  "id": "SEC03",
+  "name": "EUROPE",
+  "y0": 727,
+  "y1": 967,
+  "label_source": "margin"
+ },
+ {
+  "id": "SEC04",
+  "name": "IRON AGE IN THE INDIAN SUBCONTINENT",
+  "y0": 967,
+  "y1": 1118,
+  "label_source": "margin"
+ },
+ {
+  "id": "SEC05",
+  "name": "CENTRAL ASIA",
+  "y0": 1118,
+  "y1": 1242,
+  "label_source": "margin"
+ },
+ {
+  "id": "SEC06",
+  "name": "EAST ASIA",
+  "y0": 1242,
+  "y1": 1357,
+  "label_source": "margin"
+ },
+ {
+  "id": "SEC07",
+  "name": "SOUTHEAST ASIA",
+  "y0": 1357,
+  "y1": 1474,
+  "label_source": "margin"
+ },
+ {
+  "id": "SEC08",
+  "name": "NORTH AMERICA",
+  "y0": 1474,
+  "y1": 1620,
+  "label_source": "margin"
+ },
+ {
+  "id": "SEC09",
+  "name": "SOUTH AMERICA",
+  "y0": 1620,
+  "y1": 1888,
+  "label_source": "margin"
+ },
+ {
+  "id": "SEC10",
+  "name": "AUSTRALASIA",
+  "y0": 1888,
+  "y1": 1985,
+  "label_source": "margin"
+ }
+]

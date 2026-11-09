@@ -1,0 +1,347 @@
+{
+ "tile_id": "r09c3",
+ "box": [
+  1625,
+  1230,
+  2032,
+  1360
+ ],
+ "margin_labels": [
+  {
+   "text": "EAST ASIA",
+   "x0": 2010,
+   "x1": 2032,
+   "y0": 1235,
+   "y1": 1330
+  }
+ ],
+ "rows": [
+  {
+   "y0": 1230,
+   "y1": 1235,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 1625,
+     "x1": 1780,
+     "text": "",
+     "fill": "magenta",
+     "conf": "medium"
+    },
+    {
+     "x0": 1810,
+     "x1": 1900,
+     "text": "",
+     "fill": "lightgray",
+     "conf": "low"
+    },
+    {
+     "x0": 1955,
+     "x1": 2003,
+     "text": "",
+     "fill": "orange",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "y0": 1248,
+   "y1": 1258,
+   "label": "[?]",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 1667,
+     "x1": 1719,
+     "text": "",
+     "fill": "lightgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 1702,
+     "x1": 1731,
+     "text": "",
+     "fill": "pink",
+     "conf": "low"
+    },
+    {
+     "x0": 1741,
+     "x1": 1798,
+     "text": "",
+     "fill": "pink",
+     "conf": "low"
+    },
+    {
+     "x0": 1813,
+     "x1": 1860,
+     "text": "",
+     "fill": "pink",
+     "conf": "low"
+    },
+    {
+     "x0": 1865,
+     "x1": 1883,
+     "text": "",
+     "fill": "lightgray",
+     "conf": "low"
+    },
+    {
+     "x0": 1897,
+     "x1": 1962,
+     "text": "",
+     "fill": "purple",
+     "conf": "medium"
+    },
+    {
+     "x0": 1980,
+     "x1": 2002,
+     "text": "",
+     "fill": "pink",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "y0": 1258,
+   "y1": 1270,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 1625,
+     "x1": 1670,
+     "text": "",
+     "fill": "red",
+     "conf": "medium"
+    },
+    {
+     "x0": 1673,
+     "x1": 1700,
+     "text": "Khamag Mongol",
+     "fill": "lightgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 1701,
+     "x1": 1864,
+     "text": "YUAN",
+     "fill": "red",
+     "conf": "high"
+    },
+    {
+     "x0": 1867,
+     "x1": 1955,
+     "text": "N. OIRAT",
+     "fill": "red",
+     "conf": "medium"
+    },
+    {
+     "x0": 1973,
+     "x1": 2010,
+     "text": "MONGOLIA",
+     "fill": "crimson",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "y0": 1270,
+   "y1": 1282,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 1625,
+     "x1": 1864,
+     "text": "",
+     "fill": "red",
+     "conf": "medium"
+    },
+    {
+     "x0": 1867,
+     "x1": 1995,
+     "text": "QING DYNASTY",
+     "fill": "purple",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "y0": 1282,
+   "y1": 1295,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 1633,
+     "x1": 1700,
+     "text": "",
+     "fill": "pink",
+     "conf": "low"
+    },
+    {
+     "x0": 1710,
+     "x1": 1760,
+     "text": "",
+     "fill": "red",
+     "conf": "medium"
+    },
+    {
+     "x0": 1798,
+     "x1": 2000,
+     "text": "QING DYNASTY",
+     "fill": "purple",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "y0": 1295,
+   "y1": 1315,
+   "label": "CHINA",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {
+     "x0": 1625,
+     "x1": 1700,
+     "text": "NORTHERN SONG",
+     "fill": "purple",
+     "conf": "high"
+    },
+    {
+     "x0": 1700,
+     "x1": 1760,
+     "text": "SOUTHERN SONG",
+     "fill": "purple",
+     "conf": "high"
+    },
+    {
+     "x0": 1760,
+     "x1": 1775,
+     "text": "YUAN",
+     "fill": "red",
+     "conf": "medium"
+    },
+    {
+     "x0": 1775,
+     "x1": 1900,
+     "text": "MING DYNASTY",
+     "fill": "purple",
+     "conf": "high"
+    },
+    {
+     "x0": 1900,
+     "x1": 1960,
+     "text": "QING DYNASTY",
+     "fill": "purple",
+     "conf": "high"
+    },
+    {
+     "x0": 1980,
+     "x1": 2000,
+     "text": "CHINA",
+     "fill": "magenta",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1315,
+   "y1": 1325,
+   "label": "JOSEON",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {
+     "x0": 1627,
+     "x1": 1763,
+     "text": "",
+     "fill": "purple",
+     "conf": "medium"
+    },
+    {
+     "x0": 1771,
+     "x1": 1955,
+     "text": "JOSEON",
+     "fill": "lime",
+     "conf": "high"
+    },
+    {
+     "x0": 1955,
+     "x1": 2000,
+     "text": "KOREA",
+     "fill": "green",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1325,
+   "y1": 1340,
+   "label": "JAPAN",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {
+     "x0": 1627,
+     "x1": 1715,
+     "text": "",
+     "fill": "olive",
+     "conf": "low"
+    },
+    {
+     "x0": 1718,
+     "x1": 1758,
+     "text": "",
+     "fill": "red",
+     "conf": "low"
+    },
+    {
+     "x0": 1774,
+     "x1": 1966,
+     "text": "",
+     "fill": "olive",
+     "conf": "low"
+    },
+    {
+     "x0": 1966,
+     "x1": 2000,
+     "text": "",
+     "fill": "blue",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1340,
+   "y1": 1348,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 1861,
+     "x1": 1965,
+     "text": "EDO PERIOD",
+     "fill": "blue",
+     "conf": "medium"
+    },
+    {
+     "x0": 1984,
+     "x1": 2009,
+     "text": "JAPAN",
+     "fill": "blue",
+     "conf": "medium"
+    }
+   ]
+  }
+ ],
+ "notes": "Century axis strips at y=1240-1248 (1100 ... 2000) and y=1350-1358 are the poster's repeated time axis and are not listed as rows. Rotated right-margin label 'EAST ASIA' at x=2010-2032. This is the East Asia block: the big purple band y=1270-1315 carries QING DYNASTY, NORTHERN SONG, SOUTHERN SONG, MING DYNASTY and QING DYNASTY again, and the vertical label 'CHINA' at x~1985-2000. The red band y=1258-1270 carries YUAN, N. OIRAT and N. YUAN plus the vertical 'MONGOL EMPIRE' label at x~1755-1770. Rows y=1325-1348 carry the Japanese periods (KAMAKURA PERIOD, MUROMACHI PERIOD, EDO PERIOD, JAPAN); the Japanese period bar reads as a dark blue/grey box sequence at about y=1332-1342. Segment boundaries in the multicoloured rows are approximate to about +/-6 px. Row 1295-1315 is labelled CHINA from the poster's rotated column label at x~1990-2010 (the band itself starts with Longshan Neolithic in the west and runs through SHANG -> QING in the east)."
+}

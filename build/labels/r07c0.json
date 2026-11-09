@@ -1,0 +1,93 @@
+{
+  "tile_id": "r07c0",
+  "box": [30, 970, 645, 1100],
+  "margin_labels": [
+    {"text": "IRON AGE IN THE INDI[?]", "x0": 8, "x1": 24, "y0": 970, "y1": 1100}
+  ],
+  "rows": [
+    {
+      "y0": 970,
+      "y1": 982,
+      "label": "Protohistoric period",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 38, "x1": 645, "text": "", "fill": "midgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 982,
+      "y1": 1010,
+      "label": "South Semites",
+      "row_kind": "text",
+      "confidence": "high",
+      "segments": [
+        {"x0": 38, "x1": 645, "text": "", "fill": "midgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 1010,
+      "y1": 1022,
+      "label": "",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": [
+        {"x0": 38, "x1": 645, "text": "", "fill": "midgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 1022,
+      "y1": 1035,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 38, "x1": 300, "text": "", "fill": "midgray", "conf": "high"},
+        {"x0": 300, "x1": 645, "text": "", "fill": "lightgray", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1035,
+      "y1": 1047,
+      "label": "",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": [
+        {"x0": 38, "x1": 645, "text": "", "fill": "midgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 1047,
+      "y1": 1063,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 38, "x1": 380, "text": "INDUS VALLEY CIVILIZATION (EARLY HARAPPAN)", "fill": "yellow", "conf": "medium"},
+        {"x0": 380, "x1": 540, "text": "INDUS VALLEY CIVILIZATION (MATURE HARAPPAN)", "fill": "yellow", "conf": "medium"},
+        {"x0": 540, "x1": 645, "text": "INDUS VALLEY CIVILIZATION", "fill": "yellow", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1063,
+      "y1": 1090,
+      "label": "Dravidia[?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": [
+        {"x0": 38, "x1": 645, "text": "", "fill": "midgray", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 1090,
+      "y1": 1100,
+      "label": "",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": [
+        {"x0": 38, "x1": 645, "text": "", "fill": "white", "conf": "medium"}
+      ]
+    }
+  ],
+  "notes": "The yellow 'INDUS VALLEY CIVILIZATION' band runs edge to edge; only three of its printed cells are legible and the right-hand caption is cut by the tile edge. The rotated margin label is cut at both ends (reads IRON AGE IN THE INDI...). Rows at y 1010-1047 are 4-6 px tall with unreadable small print."
+}

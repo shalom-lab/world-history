@@ -1,0 +1,122 @@
+{
+  "tile_id": "r06c3",
+  "box": [1625, 840, 2032, 970],
+  "margin_labels": [],
+  "rows": [
+    {
+      "y0": 841,
+      "y1": 858,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1625, "x1": 1700, "text": "PORTUGAL", "fill": "yellow", "conf": "low"},
+        {"x0": 1700, "x1": 1790, "text": "KINGDOM OF CASTILE", "fill": "yellow", "conf": "low"},
+        {"x0": 1790, "x1": 1900, "text": "SPAIN", "fill": "yellow", "conf": "medium"},
+        {"x0": 1900, "x1": 1970, "text": "SPAIN", "fill": "yellow", "conf": "medium"},
+        {"x0": 1970, "x1": 2032, "text": "ITALY", "fill": "yellow", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 858,
+      "y1": 868,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1625, "x1": 1855, "text": "", "fill": "yellow", "conf": "medium"},
+        {"x0": 1855, "x1": 1920, "text": "AUSTRIA", "fill": "green", "conf": "low"},
+        {"x0": 1920, "x1": 2032, "text": "", "fill": "yellow", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 868,
+      "y1": 880,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1625, "x1": 1690, "text": "", "fill": "red", "conf": "low"},
+        {"x0": 1690, "x1": 1810, "text": "KINGDOM OF HUNGARY", "fill": "red", "conf": "medium"},
+        {"x0": 1810, "x1": 1935, "text": "OTTOMAN EMPIRE", "fill": "pink", "conf": "medium"},
+        {"x0": 1935, "x1": 2032, "text": "YUGOSLAVIA", "fill": "yellow", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 880,
+      "y1": 896,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1625, "x1": 1697, "text": "BYZANTINE EMPIRE", "fill": "olive", "conf": "medium"},
+        {"x0": 1697, "x1": 1810, "text": "", "fill": "midgray", "conf": "low"},
+        {"x0": 1810, "x1": 1985, "text": "", "fill": "pink", "conf": "medium"},
+        {"x0": 1985, "x1": 2032, "text": "BULGARIA", "fill": "orange", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 911,
+      "y1": 920,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1625, "x1": 1800, "text": "", "fill": "lightgray", "conf": "low"},
+        {"x0": 1800, "x1": 1985, "text": "OTTOMAN EMPIRE", "fill": "pink", "conf": "medium"},
+        {"x0": 1985, "x1": 2032, "text": "TURKEY", "fill": "pink", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 920,
+      "y1": 932,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1625, "x1": 1730, "text": "", "fill": "midgray", "conf": "low"},
+        {"x0": 1730, "x1": 1765, "text": "ILKHANATE", "fill": "red", "conf": "medium"},
+        {"x0": 1765, "x1": 1830, "text": "MAMLUK SULTANATE", "fill": "cyan", "conf": "low"},
+        {"x0": 1830, "x1": 1985, "text": "", "fill": "pink", "conf": "medium"},
+        {"x0": 1985, "x1": 2032, "text": "TURKEY", "fill": "pink", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 932,
+      "y1": 948,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1625, "x1": 1700, "text": "", "fill": "blue", "conf": "low"},
+        {"x0": 1700, "x1": 1790, "text": "MAMLUK SULTANATE", "fill": "cyan", "conf": "medium"},
+        {"x0": 1790, "x1": 2000, "text": "OTTOMAN EMPIRE", "fill": "pink", "conf": "medium"},
+        {"x0": 2000, "x1": 2032, "text": "IRAQ", "fill": "blue", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 948,
+      "y1": 958,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1625, "x1": 1740, "text": "", "fill": "cyan", "conf": "low"},
+        {"x0": 1740, "x1": 2000, "text": "", "fill": "pink", "conf": "medium"},
+        {"x0": 2000, "x1": 2032, "text": "", "fill": "blue", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 958,
+      "y1": 970,
+      "label": "Arab nomads",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": [
+        {"x0": 1625, "x1": 1960, "text": "", "fill": "white", "conf": "medium"},
+        {"x0": 1960, "x1": 2032, "text": "", "fill": "blue", "conf": "low"}
+      ]
+    }
+  ],
+  "notes": "Century scale (1100 ... 2000) is in the white strip at y 896-910 and is not a band. Right margin carries rotated text (THE MIDDLE EAST AND ...) which is cut off by the tile edge. Rows at y 841-868 are 3-8 px tall and heavily overprinted; their inner names are only partly legible."
+}

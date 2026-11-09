@@ -1,0 +1,167 @@
+{
+ "tile_id": "r11c1",
+ "box": [
+  615,
+  1490,
+  1235,
+  1620
+ ],
+ "margin_labels": [],
+ "rows": [
+  {
+   "y0": 1488,
+   "y1": 1496,
+   "label": "Arctic marine mammal hunters",
+   "row_kind": "text",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 615,
+     "x1": 1235,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1498,
+   "y1": 1512,
+   "label": "Sub-Arctic forest hunter-gatherers",
+   "row_kind": "text",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 615,
+     "x1": 1235,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1513,
+   "y1": 1528,
+   "label": "Sub-Arctic forest hunter-gatherers",
+   "row_kind": "text",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 615,
+     "x1": 1235,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1563,
+   "y1": 1578,
+   "label": "Plains bison hunters",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": [
+    {
+     "x0": 615,
+     "x1": 1235,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1583,
+   "y1": 1592,
+   "label": "Eastern woodlands hunter-gatherers",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": [
+    {
+     "x0": 615,
+     "x1": 812,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    },
+    {
+     "x0": 812,
+     "x1": 840,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 840,
+     "x1": 1124,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    },
+    {
+     "x0": 1124,
+     "x1": 1146,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 1146,
+     "x1": 1235,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1598,
+   "y1": 1610,
+   "label": "Maize farmers",
+   "row_kind": "text",
+   "confidence": "medium",
+   "segments": [
+    {
+     "x0": 615,
+     "x1": 879,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    },
+    {
+     "x0": 879,
+     "x1": 1235,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1612,
+   "y1": 1620,
+   "label": "Maya civilization (Preclassic period)",
+   "row_kind": "text",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 615,
+     "x1": 955,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    },
+    {
+     "x0": 955,
+     "x1": 1235,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    }
+   ]
+  }
+ ],
+ "notes": "Densest micro-text in the strip: most bands carry 3-4 px repeating labels (Sub-Arctic / Plains / Eastern woodlands / Maize / Maya groups) that cannot be resolved verbatim, so only the readable headings are recorded. Axis strip y=1534-1542 not transcribed. Rows at top and bottom are cut by the tile edges."
+}

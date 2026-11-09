@@ -1,0 +1,153 @@
+{
+  "tile_id": "r08c2",
+  "box": [1205, 1100, 1645, 1230],
+  "margin_labels": [],
+  "rows": [
+    {
+      "y0": 1113,
+      "y1": 1119,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1371, "x1": 1430, "text": "", "fill": "green", "conf": "medium"},
+        {"x0": 1489, "x1": 1580, "text": "", "fill": "purple", "conf": "medium"},
+        {"x0": 1598, "x1": 1645, "text": "", "fill": "purple", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 1133,
+      "y1": 1142,
+      "label": "[?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 1142,
+      "y1": 1150,
+      "label": "Siberian taiga hunter-gatherers",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 1150,
+      "y1": 1160,
+      "label": "[?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    },
+    {
+      "y0": 1160,
+      "y1": 1171,
+      "label": "[?]",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1239, "x1": 1298, "text": "Xiongnu", "fill": "lightgray", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 1171,
+      "y1": 1180,
+      "label": "[?]",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1240, "x1": 1298, "text": "Xiongnu", "fill": "lightgray", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 1180,
+      "y1": 1188,
+      "label": "[?]",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1205, "x1": 1337, "text": "", "fill": "lightgray", "conf": "medium"},
+        {"x0": 1366, "x1": 1457, "text": "", "fill": "lightgray", "conf": "medium"},
+        {"x0": 1468, "x1": 1478, "text": "", "fill": "pink", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1188,
+      "y1": 1196,
+      "label": "Pastoral nomads",
+      "row_kind": "text",
+      "confidence": "medium",
+      "segments": []
+    },
+    {
+      "y0": 1196,
+      "y1": 1204,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1218, "x1": 1250, "text": "Greater Yuezhi (Kushans)", "fill": "white", "conf": "medium"},
+        {"x0": 1255, "x1": 1411, "text": "KUSHAN EMPIRE", "fill": "teal", "conf": "high"},
+        {"x0": 1412, "x1": 1474, "text": "HEPHTHALITES", "fill": "crimson", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 1204,
+      "y1": 1212,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1254, "x1": 1411, "text": "KUSHAN EMPIRE", "fill": "teal", "conf": "high"},
+        {"x0": 1412, "x1": 1474, "text": "HEPHTHALITES", "fill": "crimson", "conf": "high"},
+        {"x0": 1514, "x1": 1553, "text": "ABBASID CALIPHATE", "fill": "cyan", "conf": "medium"},
+        {"x0": 1553, "x1": 1620, "text": "", "fill": "teal", "conf": "medium"},
+        {"x0": 1621, "x1": 1645, "text": "", "fill": "pink", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1212,
+      "y1": 1219,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1208, "x1": 1245, "text": "Greater Yuezhi (Kushans)", "fill": "teal", "conf": "low"},
+        {"x0": 1252, "x1": 1413, "text": "SASANIAN EMPIRE", "fill": "teal", "conf": "high"},
+        {"x0": 1421, "x1": 1458, "text": "Turkic nomads", "fill": "pink", "conf": "medium"},
+        {"x0": 1470, "x1": 1576, "text": "ABBASID CALIPHATE", "fill": "cyan", "conf": "medium"},
+        {"x0": 1576, "x1": 1635, "text": "SAMANID EMPIRE", "fill": "teal", "conf": "medium"},
+        {"x0": 1638, "x1": 1645, "text": "", "fill": "pink", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1219,
+      "y1": 1226,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1206, "x1": 1280, "text": "", "fill": "teal", "conf": "medium"},
+        {"x0": 1323, "x1": 1422, "text": "", "fill": "teal", "conf": "medium"},
+        {"x0": 1492, "x1": 1566, "text": "ABBASID CALIPHATE", "fill": "cyan", "conf": "medium"},
+        {"x0": 1576, "x1": 1636, "text": "SAMANID EMPIRE", "fill": "teal", "conf": "medium"},
+        {"x0": 1640, "x1": 1645, "text": "", "fill": "pink", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1226,
+      "y1": 1230,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1205, "x1": 1338, "text": "", "fill": "lightgray", "conf": "medium"},
+        {"x0": 1342, "x1": 1357, "text": "", "fill": "teal", "conf": "low"},
+        {"x0": 1412, "x1": 1474, "text": "", "fill": "pink", "conf": "medium"},
+        {"x0": 1514, "x1": 1569, "text": "", "fill": "lightgray", "conf": "low"},
+        {"x0": 1579, "x1": 1645, "text": "", "fill": "pink", "conf": "low"}
+      ]
+    }
+  ],
+  "notes": "Century axis strip at y=1123-1132 (labels -11, 100 ... 1000) is the poster's repeated time axis, not a data band. This column contains the readably large labels KUSHAN EMPIRE, SASANIAN EMPIRE, HEPHTHALITES, ABBASID CALIPHATE, SAMANID EMPIRE, Turkic nomads, Xiongnu, Pastoral nomads and Greater Yuezhi (Kushans). The cyan boxes read as a mint/teal hue (RGB around 100-230,200) - transcribed as teal for the large empire boxes and cyan where the fill is bluer. The HEPHTHALITES box is a saturated crimson. Rows y=1133-1150 carry unreadable 3 px labels (marked [?]); 'Samoyed reindeer herders' is printed small at approx x=1450-1560, y=1150 but its band label is not resolvable. Bottom rows (1226-1230) are clamped by the tile edge and continue into r09c2."
+}

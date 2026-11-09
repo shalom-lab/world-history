@@ -1,0 +1,47 @@
+{
+ "tile_id": "r13c3",
+ "box": [1625, 1750, 2032, 1880],
+ "margin_labels": [
+  {"text": "NORTHERN SOUTHERN CONE", "x0": 2016, "x1": 2032, "y0": 1750, "y1": 1835},
+  {"text": "SOUTHERN CONE", "x0": 2016, "x1": 2032, "y0": 1835, "y1": 1880}
+ ],
+ "rows": [
+  {"y0": 1752, "y1": 1775, "label": "AYMARA KINGDOMS", "row_kind": "mixed", "confidence": "high",
+   "segments": [
+    {"x0": 1625, "x1": 1660, "text": "chiefdoms", "fill": "lightgray", "conf": "low"},
+    {"x0": 1690, "x1": 1800, "text": "AYMARA KINGDOMS", "fill": "blue", "conf": "high"},
+    {"x0": 1830, "x1": 1940, "text": "(SPAIN)", "fill": "yellow", "conf": "high"},
+    {"x0": 1940, "x1": 2005, "text": "BOLIVIA", "fill": "yellow", "conf": "high"}
+   ]},
+  {"y0": 1775, "y1": 1795, "label": "Arawakan manioc farmers", "row_kind": "mixed", "confidence": "medium",
+   "segments": [
+    {"x0": 1625, "x1": 1700, "text": "farmers", "fill": "white", "conf": "low"},
+    {"x0": 1780, "x1": 1900, "text": "Arawakan manioc farmers", "fill": "white", "conf": "medium"},
+    {"x0": 1900, "x1": 1940, "text": "BRAZIL (PT.)", "fill": "yellow", "conf": "medium"},
+    {"x0": 1940, "x1": 2005, "text": "BOLIVIA", "fill": "yellow", "conf": "medium"}
+   ]},
+  {"y0": 1795, "y1": 1815, "label": "savanna and highland farmers", "row_kind": "mixed", "confidence": "high",
+   "segments": [
+    {"x0": 1625, "x1": 1780, "text": "savanna and highland farmers", "fill": "white", "conf": "high"},
+    {"x0": 1780, "x1": 1900, "text": "Tupi-Guarani savanna and highland farmers", "fill": "white", "conf": "medium"},
+    {"x0": 1900, "x1": 2005, "text": "BRAZIL", "fill": "yellow", "conf": "high"}
+   ]},
+  {"y0": 1835, "y1": 1855, "label": "hunter-gatherers", "row_kind": "mixed", "confidence": "low",
+   "segments": [
+    {"x0": 1625, "x1": 1780, "text": "hunter-gatherers", "fill": "white", "conf": "low"},
+    {"x0": 1790, "x1": 1900, "text": "PERU (SPAIN)", "fill": "yellow", "conf": "high"},
+    {"x0": 1900, "x1": 2005, "text": "BOLIVIA / PARAGUAY / URUGUAY", "fill": "yellow", "conf": "low"}
+   ]},
+  {"y0": 1855, "y1": 1875, "label": "PERU (SPAIN)", "row_kind": "mixed", "confidence": "medium",
+   "segments": [
+    {"x0": 1625, "x1": 1700, "text": "Manioc farmers", "fill": "white", "conf": "low"},
+    {"x0": 1790, "x1": 1900, "text": "PERU (SPAIN)", "fill": "yellow", "conf": "medium"},
+    {"x0": 1940, "x1": 2005, "text": "ARGENTINA", "fill": "yellow", "conf": "medium"}
+   ]},
+  {"y0": 1875, "y1": 1880, "label": "", "row_kind": "bar", "confidence": "low",
+   "segments": [
+    {"x0": 1940, "x1": 2005, "text": "CHILE", "fill": "yellow", "conf": "low"}
+   ]}
+ ],
+ "notes": "Andes/Southern Cone colonial block. The right margin has two rotated labels, transcribed as NORTHERN SOUTHERN CONE (y 1750-1835) and SOUTHERN CONE (y 1835-1880); the first may in fact read 'NORTHERN CONE' - the glyphs run together. Century axis strip at y 1815-1835 skipped."
+}

@@ -1,0 +1,62 @@
+{
+ "$schema": "http://json-schema.org/draft-07/schema#",
+ "$id": "https://local/world-history/meta.schema.json",
+ "title": "Dataset metadata and calibration record",
+ "type": "object",
+ "required": ["dataset", "title", "author", "source", "time_range", "axis", "counts", "coverage"],
+ "additionalProperties": false,
+ "properties": {
+  "dataset": {"type": "string"},
+  "title": {"type": "string"},
+  "author": {"type": "string"},
+  "source": {
+   "type": "object",
+   "required": ["file", "width", "height"],
+   "additionalProperties": true,
+   "properties": {
+    "file": {"type": "string"},
+    "width": {"type": "integer", "minimum": 1},
+    "height": {"type": "integer", "minimum": 1},
+    "format": {"type": "string"},
+    "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"}
+   }
+  },
+  "time_range": {
+   "type": "object",
+   "required": ["start_year", "end_year", "step_years"],
+   "additionalProperties": false,
+   "properties": {
+    "start_year": {"type": "integer"},
+    "end_year": {"type": "integer"},
+    "step_years": {"type": "integer", "minimum": 1}
+   }
+  },
+  "axis": {"type": "object", "additionalProperties": true},
+  "plot_area": {"type": "object", "additionalProperties": true},
+  "counts": {
+   "type": "object",
+   "required": ["entities", "spans", "sections"],
+   "additionalProperties": true,
+   "properties": {
+    "entities": {"type": "integer", "minimum": 0},
+    "spans": {"type": "integer", "minimum": 0},
+    "sections": {"type": "integer", "minimum": 0},
+    "legend_families": {"type": "integer", "minimum": 0},
+    "labelled_spans": {"type": "integer", "minimum": 0}
+   }
+  },
+  "coverage": {"type": "object", "additionalProperties": true},
+  "i18n": {
+   "type": "object",
+   "additionalProperties": true,
+   "properties": {
+    "locales": {"type": "array", "items": {"type": "string"}},
+    "canonical": {"type": "string"},
+    "note": {"type": "string"},
+    "zh_missing": {"type": "array", "items": {"type": "string"}}
+   }
+  },
+  "method": {"type": "string"},
+  "caveats": {"type": "array", "items": {"type": "string"}}
+ }
+}

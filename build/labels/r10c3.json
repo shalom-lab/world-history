@@ -1,0 +1,449 @@
+{
+ "tile_id": "r10c3",
+ "box": [
+  1625,
+  1360,
+  2032,
+  1490
+ ],
+ "margin_labels": [],
+ "rows": [
+  {
+   "y0": 1361,
+   "y1": 1370,
+   "label": "",
+   "row_kind": "bar",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 1625,
+     "x1": 1744,
+     "text": "",
+     "fill": "purple",
+     "conf": "medium"
+    },
+    {
+     "x0": 1744,
+     "x1": 1767,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 1767,
+     "x1": 1830,
+     "text": "",
+     "fill": "purple",
+     "conf": "medium"
+    },
+    {
+     "x0": 1830,
+     "x1": 1847,
+     "text": "",
+     "fill": "magenta",
+     "conf": "medium"
+    },
+    {
+     "x0": 1847,
+     "x1": 1896,
+     "text": "",
+     "fill": "purple",
+     "conf": "medium"
+    },
+    {
+     "x0": 1896,
+     "x1": 1907,
+     "text": "",
+     "fill": "magenta",
+     "conf": "medium"
+    },
+    {
+     "x0": 1907,
+     "x1": 1912,
+     "text": "",
+     "fill": "purple",
+     "conf": "medium"
+    },
+    {
+     "x0": 1912,
+     "x1": 1924,
+     "text": "",
+     "fill": "magenta",
+     "conf": "medium"
+    },
+    {
+     "x0": 1924,
+     "x1": 1960,
+     "text": "",
+     "fill": "purple",
+     "conf": "medium"
+    },
+    {
+     "x0": 1960,
+     "x1": 1997,
+     "text": "",
+     "fill": "lime",
+     "conf": "medium"
+    },
+    {
+     "x0": 1997,
+     "x1": 2012,
+     "text": "",
+     "fill": "magenta",
+     "conf": "medium"
+    },
+    {
+     "x0": 2012,
+     "x1": 2032,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1372,
+   "y1": 1382,
+   "label": "SIAM",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {
+     "x0": 1625,
+     "x1": 1660,
+     "text": "",
+     "fill": "brown",
+     "conf": "medium"
+    },
+    {
+     "x0": 1660,
+     "x1": 1684,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 1684,
+     "x1": 1736,
+     "text": "",
+     "fill": "brown",
+     "conf": "medium"
+    },
+    {
+     "x0": 1736,
+     "x1": 1896,
+     "text": "",
+     "fill": "olive",
+     "conf": "medium"
+    },
+    {
+     "x0": 1896,
+     "x1": 1921,
+     "text": "",
+     "fill": "purple",
+     "conf": "medium"
+    },
+    {
+     "x0": 1921,
+     "x1": 2032,
+     "text": "",
+     "fill": "olive",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1383,
+   "y1": 1392,
+   "label": "KHMER EMPIRE",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {
+     "x0": 1625,
+     "x1": 1736,
+     "text": "",
+     "fill": "red",
+     "conf": "medium"
+    },
+    {
+     "x0": 1736,
+     "x1": 2032,
+     "text": "",
+     "fill": "olive",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1393,
+   "y1": 1404,
+   "label": "",
+   "row_kind": "mixed",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 1625,
+     "x1": 1635,
+     "text": "",
+     "fill": "red",
+     "conf": "medium"
+    },
+    {
+     "x0": 1635,
+     "x1": 1723,
+     "text": "",
+     "fill": "crimson",
+     "conf": "medium"
+    },
+    {
+     "x0": 1723,
+     "x1": 1800,
+     "text": "",
+     "fill": "red",
+     "conf": "medium"
+    },
+    {
+     "x0": 1800,
+     "x1": 1822,
+     "text": "",
+     "fill": "crimson",
+     "conf": "medium"
+    },
+    {
+     "x0": 1822,
+     "x1": 1904,
+     "text": "",
+     "fill": "orange",
+     "conf": "medium"
+    },
+    {
+     "x0": 1904,
+     "x1": 1921,
+     "text": "",
+     "fill": "crimson",
+     "conf": "medium"
+    },
+    {
+     "x0": 1921,
+     "x1": 1953,
+     "text": "",
+     "fill": "brown",
+     "conf": "medium"
+    },
+    {
+     "x0": 1953,
+     "x1": 1961,
+     "text": "",
+     "fill": "orange",
+     "conf": "medium"
+    },
+    {
+     "x0": 1961,
+     "x1": 1988,
+     "text": "",
+     "fill": "yellow",
+     "conf": "medium"
+    },
+    {
+     "x0": 1988,
+     "x1": 2032,
+     "text": "",
+     "fill": "brown",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1405,
+   "y1": 1414,
+   "label": "Minor Austronesian states",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {
+     "x0": 1625,
+     "x1": 1869,
+     "text": "",
+     "fill": "crimson",
+     "conf": "medium"
+    },
+    {
+     "x0": 1869,
+     "x1": 1964,
+     "text": "",
+     "fill": "yellow",
+     "conf": "medium"
+    },
+    {
+     "x0": 1964,
+     "x1": 2032,
+     "text": "",
+     "fill": "lime",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1415,
+   "y1": 1428,
+   "label": "EAST INDIES (NETHERLANDS)",
+   "row_kind": "mixed",
+   "confidence": "medium",
+   "segments": [
+    {
+     "x0": 1625,
+     "x1": 1651,
+     "text": "",
+     "fill": "crimson",
+     "conf": "medium"
+    },
+    {
+     "x0": 1651,
+     "x1": 1776,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 1776,
+     "x1": 1939,
+     "text": "",
+     "fill": "crimson",
+     "conf": "medium"
+    },
+    {
+     "x0": 1939,
+     "x1": 1990,
+     "text": "",
+     "fill": "lime",
+     "conf": "medium"
+    },
+    {
+     "x0": 1990,
+     "x1": 2015,
+     "text": "",
+     "fill": "crimson",
+     "conf": "medium"
+    },
+    {
+     "x0": 2015,
+     "x1": 2032,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1429,
+   "y1": 1440,
+   "label": "",
+   "row_kind": "bar",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 1625,
+     "x1": 1635,
+     "text": "",
+     "fill": "crimson",
+     "conf": "medium"
+    },
+    {
+     "x0": 1635,
+     "x1": 1641,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 1641,
+     "x1": 1750,
+     "text": "",
+     "fill": "crimson",
+     "conf": "medium"
+    },
+    {
+     "x0": 1750,
+     "x1": 1759,
+     "text": "",
+     "fill": "purple",
+     "conf": "medium"
+    },
+    {
+     "x0": 1759,
+     "x1": 1885,
+     "text": "",
+     "fill": "crimson",
+     "conf": "medium"
+    },
+    {
+     "x0": 1885,
+     "x1": 1984,
+     "text": "",
+     "fill": "lime",
+     "conf": "medium"
+    },
+    {
+     "x0": 1984,
+     "x1": 2032,
+     "text": "",
+     "fill": "crimson",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "y0": 1441,
+   "y1": 1447,
+   "label": "",
+   "row_kind": "bar",
+   "confidence": "low",
+   "segments": [
+    {
+     "x0": 1625,
+     "x1": 1812,
+     "text": "",
+     "fill": "midgray",
+     "conf": "medium"
+    },
+    {
+     "x0": 1812,
+     "x1": 1971,
+     "text": "",
+     "fill": "crimson",
+     "conf": "medium"
+    },
+    {
+     "x0": 1971,
+     "x1": 1982,
+     "text": "",
+     "fill": "lime",
+     "conf": "medium"
+    },
+    {
+     "x0": 1982,
+     "x1": 1991,
+     "text": "",
+     "fill": "olive",
+     "conf": "medium"
+    },
+    {
+     "x0": 1991,
+     "x1": 2012,
+     "text": "",
+     "fill": "crimson",
+     "conf": "medium"
+    },
+    {
+     "x0": 2012,
+     "x1": 2032,
+     "text": "",
+     "fill": "white",
+     "conf": "medium"
+    }
+   ]
+  }
+ ],
+ "notes": "Dense modern SE-Asia bar stack: TOUNGOO DYNASTY, KONBAUNG DYNASTY, AYUTTHAYA KINGDOM, POST-ANGKOR PERIOD, DAI VIET, MALACCA / SULU / BRUNEI SULTANATES, SINGAPORE are present but only 3-4 px tall and not reliably placeable, so segment text is left empty. Axis strip y=1444-1458 not transcribed. Right margin carries the rotated label SOUTHEAST ASIA."
+}

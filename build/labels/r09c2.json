@@ -1,0 +1,126 @@
+{
+  "tile_id": "r09c2",
+  "box": [1205, 1230, 1645, 1360],
+  "margin_labels": [],
+  "rows": [
+    {
+      "y0": 1230,
+      "y1": 1235,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1240, "x1": 1300, "text": "KUSHAN EMPIRE", "fill": "teal", "conf": "medium"},
+        {"x0": 1310, "x1": 1360, "text": "SASANIAN EMPIRE", "fill": "teal", "conf": "medium"},
+        {"x0": 1415, "x1": 1475, "text": "HEPHTHALITES", "fill": "crimson", "conf": "medium"},
+        {"x0": 1530, "x1": 1570, "text": "ABBASID CALIPHATE", "fill": "cyan", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1248,
+      "y1": 1258,
+      "label": "[?]",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1208, "x1": 1337, "text": "", "fill": "lightgray", "conf": "medium"},
+        {"x0": 1374, "x1": 1451, "text": "", "fill": "lightgray", "conf": "medium"},
+        {"x0": 1454, "x1": 1484, "text": "", "fill": "pink", "conf": "medium"},
+        {"x0": 1507, "x1": 1524, "text": "", "fill": "pink", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1258,
+      "y1": 1270,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1205, "x1": 1290, "text": "Xiongnu", "fill": "lightgray", "conf": "high"},
+        {"x0": 1366, "x1": 1453, "text": "Rouran Khaganate", "fill": "lightgray", "conf": "high"},
+        {"x0": 1453, "x1": 1484, "text": "", "fill": "pink", "conf": "medium"},
+        {"x0": 1504, "x1": 1527, "text": "UYGHUR KHAGANATE", "fill": "magenta", "conf": "medium"},
+        {"x0": 1592, "x1": 1645, "text": "LIAO DYNASTY", "fill": "red", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 1270,
+      "y1": 1282,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1205, "x1": 1336, "text": "", "fill": "lightgray", "conf": "medium"},
+        {"x0": 1454, "x1": 1484, "text": "", "fill": "pink", "conf": "medium"},
+        {"x0": 1486, "x1": 1503, "text": "", "fill": "purple", "conf": "medium"},
+        {"x0": 1527, "x1": 1561, "text": "UYGHUR KHAGANATE", "fill": "magenta", "conf": "medium"},
+        {"x0": 1592, "x1": 1645, "text": "LIAO DYNASTY", "fill": "red", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 1282,
+      "y1": 1295,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1205, "x1": 1247, "text": "", "fill": "purple", "conf": "medium"},
+        {"x0": 1265, "x1": 1328, "text": "", "fill": "purple", "conf": "medium"},
+        {"x0": 1398, "x1": 1408, "text": "", "fill": "purple", "conf": "low"},
+        {"x0": 1452, "x1": 1471, "text": "", "fill": "pink", "conf": "low"},
+        {"x0": 1484, "x1": 1562, "text": "", "fill": "purple", "conf": "medium"},
+        {"x0": 1562, "x1": 1620, "text": "", "fill": "lightgray", "conf": "medium"},
+        {"x0": 1633, "x1": 1645, "text": "", "fill": "pink", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1295,
+      "y1": 1315,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1205, "x1": 1266, "text": "EASTERN HAN", "fill": "purple", "conf": "high"},
+        {"x0": 1310, "x1": 1360, "text": "EASTERN JIN", "fill": "purple", "conf": "medium"},
+        {"x0": 1370, "x1": 1400, "text": "LIU SONG", "fill": "purple", "conf": "medium"},
+        {"x0": 1470, "x1": 1490, "text": "SUI", "fill": "purple", "conf": "medium"},
+        {"x0": 1500, "x1": 1520, "text": "TANG", "fill": "purple", "conf": "medium"},
+        {"x0": 1550, "x1": 1640, "text": "TANG DYNASTY", "fill": "purple", "conf": "high"}
+      ]
+    },
+    {
+      "y0": 1315,
+      "y1": 1325,
+      "label": "[?]",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1205, "x1": 1445, "text": "", "fill": "purple", "conf": "medium"},
+        {"x0": 1453, "x1": 1512, "text": "", "fill": "olive", "conf": "medium"},
+        {"x0": 1532, "x1": 1642, "text": "", "fill": "purple", "conf": "medium"}
+      ]
+    },
+    {
+      "y0": 1325,
+      "y1": 1340,
+      "label": "",
+      "row_kind": "mixed",
+      "confidence": "low",
+      "segments": [
+        {"x0": 1358, "x1": 1454, "text": "", "fill": "midgray", "conf": "medium"},
+        {"x0": 1455, "x1": 1462, "text": "", "fill": "olive", "conf": "low"},
+        {"x0": 1479, "x1": 1518, "text": "", "fill": "olive", "conf": "low"},
+        {"x0": 1535, "x1": 1625, "text": "", "fill": "olive", "conf": "low"}
+      ]
+    },
+    {
+      "y0": 1340,
+      "y1": 1348,
+      "label": "[?]",
+      "row_kind": "text",
+      "confidence": "low",
+      "segments": []
+    }
+  ],
+  "notes": "Century axis strips at y=1240-1248 (-11, 100 ... 1000) and y=1350-1358 are the poster's repeated time axis and are not listed as rows. Top sliver y=1230-1235 is the tail of the empire band that ends in r08c2. The huge purple band y=1295-1315 is the Chinese-dynasties row: here it carries EASTERN HAN, EASTERN JIN, LIU SONG, SUI, TANG and TANG DYNASTY; it continues into r09c1 (SHANG/ZHOU/WESTERN HAN) and r09c3 (NORTHERN SONG / MING / QING). The band at y=1325-1340 carries the Japanese period labels (ASUKA PERIOD, NARA, HEIAN) in a light grey / dark blue box sequence; the fill hue of those boxes is ambiguous at this resolution, so only the midgray/olive runs are recorded. Row y=1315-1325 holds small labels including QOCHO (Korean) which is only partly legible."
+}

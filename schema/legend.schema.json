@@ -1,0 +1,63 @@
+{
+ "$schema": "http://json-schema.org/draft-07/schema#",
+ "$id": "https://local/world-history/legend.schema.json",
+ "title": "The printed colour key: civilizations by language",
+ "type": "object",
+ "required": ["title", "base_types", "families"],
+ "additionalProperties": false,
+ "properties": {
+  "title": {"type": "string"},
+  "base_types": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": ["name", "hex"],
+    "additionalProperties": false,
+    "properties": {
+     "name": {"type": "string"},
+     "hex": {"type": "string", "pattern": "^#[0-9a-f]{6}$"},
+     "rgb": {"type": "array", "items": {"type": "integer"}}
+    }
+   }
+  },
+  "families": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": ["id", "name", "subgroups"],
+    "additionalProperties": false,
+    "properties": {
+     "id": {"type": "string"},
+     "name": {"type": "string"},
+     "legend_column": {"type": "integer"},
+     "subgroups": {
+      "type": "array",
+      "items": {
+       "type": "object",
+       "required": ["name", "languages"],
+       "additionalProperties": false,
+       "properties": {
+        "name": {"type": "string"},
+        "y_range": {"type": "array", "items": {"type": "integer"}},
+        "languages": {
+         "type": "array",
+         "items": {
+          "type": "object",
+          "required": ["name", "hex", "rgb"],
+          "additionalProperties": false,
+          "properties": {
+           "name": {"type": "string"},
+           "hex": {"type": "string", "pattern": "^#[0-9a-f]{6}$"},
+           "rgb": {"type": "array", "items": {"type": "integer"}},
+           "legend_y": {"type": "integer"}
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}
