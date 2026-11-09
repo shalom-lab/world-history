@@ -1,13 +1,18 @@
 """Build the Excel workbook from the JSON dataset."""
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+
 import json
 import os
+from datetime import datetime
 
 from openpyxl import Workbook
 from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
 
-DATA = r"D:\dsh\word-history\data"
-OUT = r"D:\dsh\word-history\dist\world-history-timeline.xlsx"
+DATA = str(ROOT / "data")
+OUT = str(ROOT / "dist" / "world-history-timeline.xlsx")
 
 HEAD_FILL = PatternFill("solid", fgColor="1F3864")
 HEAD_FONT = Font(color="FFFFFF", bold=True)
@@ -47,6 +52,29 @@ def sheet(wb, title, headers, rows, widths, wrap_cols=()):
     return ws
 
 
+def normalize_zip(path):
+    """Rewrite the .xlsx zip with fixed entry timestamps so rebuilds are byte-identical."""
+    import shutil
+    import tempfile
+    import zipfile
+
+    import re
+
+    tmp = tempfile.mktemp(suffix=".xlsx")
+    with zipfile.ZipFile(path) as zin, zipfile.ZipFile(tmp, "w", zipfile.ZIP_DEFLATED) as zout:
+        for item in zin.infolist():
+            data = zin.read(item.filename)
+            if item.filename == "docProps/core.xml":
+                # openpyxl stamps the save time here; pin it so rebuilds are identical
+                data = re.sub(rb"(<dcterms:modified[^>]*>)[^<]*(</dcterms:modified>)",
+                              rb"\g<1>2026-01-01T00:00:00Z\g<2>", data)
+            info = zipfile.ZipInfo(item.filename, date_time=(1980, 1, 1, 0, 0, 0))
+            info.compress_type = zipfile.ZIP_DEFLATED
+            info.external_attr = item.external_attr
+            zout.writestr(info, data)
+    shutil.move(tmp, path)
+
+
 def main():
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     meta = load("meta.json")
@@ -57,6 +85,11 @@ def main():
 
     wb = Workbook()
     wb.remove(wb.active)
+    # fixed document properties: a rebuild must produce a byte-identical workbook
+    wb.properties.creator = "world-history dataset"
+    wb.properties.lastModifiedBy = "world-history dataset"
+    wb.properties.created = datetime(2026, 1, 1)
+    wb.properties.modified = datetime(2026, 1, 1)
 
     # --- overview
     ws = wb.create_sheet("README")
@@ -157,6 +190,7 @@ def main():
     sheet(wb, "Data dictionary", ["file", "field", "meaning"], dd, [18, 24, 80], wrap_cols=(3,))
 
     wb.save(OUT)
+    normalize_zip(OUT)
     print("wrote", OUT)
 
 

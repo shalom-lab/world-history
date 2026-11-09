@@ -1,5 +1,8 @@
 # word-history —《World History Timeline · Decade by Decade》结构化数据集
 
+[![ci](https://github.com/shalom-lab/world-history/actions/workflows/ci.yml/badge.svg)](https://github.com/shalom-lab/world-history/actions/workflows/ci.yml)
+[![pages](https://github.com/shalom-lab/world-history/actions/workflows/pages.yml/badge.svg)](https://shalom-lab.github.io/world-history/)
+
 把 SenseForMaps 的巨幅世界史时间线海报（`source.jpg`，2048×2048）整理成可查询、可复用的结构化数据。
 
 **当前版本**：140 条横带、1850 个色块（时间段）、10 个大区、98 个图例色块、348 条中英对照字符串。
@@ -156,21 +159,38 @@ word-history/
 
 ## 5. 复现
 
-```powershell
-$py = "C:\Users\slren\.dsh\dsh-runtimes\dsh-primary-runtime\dependencies\python\python.exe"
-& $py build\make_tiles.py      # 60 张带坐标尺的切片 → build\tiles\
-& $py build\merge.py           # 合并 build\labels\*.json → build\merged_rows.json
-& $py build\refine.py          # 像素重算色块边界 → build\refined.json
-& $py build\build_dataset.py   # → data\*
-& $py build\validate.py        # 一致性 + schema 校验 → build\validation_report.md
-& $py build\make_xlsx.py       # → dist\world-history-timeline.xlsx
-& $py build\make_viewer.py     # → viewer\index.html
+```bash
+pip install pillow numpy openpyxl
+
+python build/make_tiles.py      # 60 张带坐标尺的切片 → build/tiles/
+python build/merge.py           # 合并 build/labels/*.json → build/merged_rows.json
+python build/refine.py          # 像素重算色块边界 → build/refined.json
+python build/build_dataset.py   # → data/*
+python build/validate.py        # 一致性 + schema 校验 → build/validation_report.md
+python build/make_xlsx.py       # → dist/world-history-timeline.xlsx
+python build/make_viewer.py     # → viewer/index.html
 ```
 
 `build/labels/` 是人工识读的中间层（60 个切片各一份）：改其中任何一处文字或 y 范围，
 重跑上面流程就会流到 `data/`、Excel 和 viewer。
 
-## 6. 出处
+**整个流水线是可复现的**：从 `source.jpg` + `build/labels/` 重跑，`data/`、`viewer/`、
+`dist/` 与仓库中的版本逐字节一致（xlsx 的 zip 时间戳和 `docProps` 已固定）。
+CI 就是靠这条性质做守卫的。
+
+## 6. CI / 部署
+
+| workflow | 触发 | 做什么 |
+|---|---|---|
+| `.github/workflows/ci.yml` | push / PR | 从 `source.jpg` 重建切片 → 合并 → 精修 → 生成数据 → `validate` + `schema_check` + `acceptance`，最后 `git diff --exit-code`：**仓库里的 `data/`、`viewer/`、`dist/`、`schema/` 必须和干净重建的结果一致**，否则 CI 失败 |
+| `.github/workflows/pages.yml` | push 到 main | 同一套构建，然后把 `viewer/index.html` + `data/` + Excel 组装成站点，发布到 GitHub Pages |
+
+站点地址：<https://shalom-lab.github.io/world-history/>（首次需要在
+**Settings → Pages → Build and deployment → Source** 选 **GitHub Actions**）。
+
+`build/tiles/`（约 50 MB 切片）不进仓库，由 CI 用 `make_tiles.py` 现场重建。
+
+## 7. 出处
 
 * 图表：SenseForMaps, *World History Timeline – Decade by Decade*。
 * 本数据集是对该图的**结构化转录**，不含外部史料补充；引用时请同时标注原图作者。

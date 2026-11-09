@@ -1,10 +1,14 @@
 """Final acceptance check for the delivered dataset."""
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+
 import csv
 import json
 import os
 
-ROOT = r"D:\dsh\word-history"
-DATA = os.path.join(ROOT, "data")
+ROOT = str(Path(__file__).resolve().parents[1])
+DATA = str(Path(ROOT) / "data")
 
 
 def load(name):

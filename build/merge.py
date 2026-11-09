@@ -6,6 +6,10 @@ clamped at a y-band edge are stitched by label + geometry.
 
 Output: build/merged_rows.json
 """
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+
 import glob
 import json
 import os
@@ -13,9 +17,9 @@ import re
 import statistics
 from collections import Counter, defaultdict
 
-LABELS = r"D:\dsh\word-history\build\labels"
-OUT = r"D:\dsh\word-history\build\merged_rows.json"
-TILE_MANIFEST = r"D:\dsh\word-history\build\tiles\manifest.json"
+LABELS = str(ROOT / "build" / "labels")
+OUT = str(ROOT / "build" / "merged_rows.json")
+TILE_MANIFEST = str(ROOT / "build" / "tiles" / "manifest.json")
 
 X_LEFT, X_RIGHT = 30, 2032
 

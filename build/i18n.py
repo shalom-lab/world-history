@@ -6,10 +6,14 @@ dictionary, so a repeated label is translated once and every occurrence follows.
 
 A missing key is never fatal: callers get None and the build reports the gap.
 """
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+
 import json
 import os
 
-I18N_DIR = r"D:\dsh\word-history\data\i18n"
+I18N_DIR = str(ROOT / "data" / "i18n")
 
 
 def available():

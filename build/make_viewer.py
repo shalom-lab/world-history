@@ -3,13 +3,17 @@
 Layout is a flex column (header / toolbar / search+chips / chart / foot) so the
 chart area does not depend on a hard-coded `calc(100vh - Npx)`.
 """
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+
 import json
 import os
 
 import i18n
 
-DATA = r"D:\dsh\word-history\data"
-OUT = r"D:\dsh\word-history\viewer\index.html"
+DATA = str(ROOT / "data")
+OUT = str(ROOT / "viewer" / "index.html")
 
 
 def load(name):

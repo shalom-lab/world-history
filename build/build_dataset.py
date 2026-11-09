@@ -1,4 +1,8 @@
 """Assemble the final dataset files from the refined geometry."""
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+
 import csv
 import glob
 import json
@@ -8,8 +12,8 @@ from collections import Counter
 
 import i18n as i18n_mod
 
-BUILD = r"D:\dsh\word-history\build"
-DATA = r"D:\dsh\word-history\data"
+BUILD = str(ROOT / "build")
+DATA = str(ROOT / "data")
 
 X_ORIGIN, PITCH = 60.0, 38.08
 YEAR0 = -3100

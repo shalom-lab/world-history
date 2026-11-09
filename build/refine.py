@@ -4,6 +4,10 @@ The tile transcription supplies each band's y-extent and printed text; the raste
 supplies the exact horizontal extent of every coloured block.  Runs are converted
 to years with the calibrated axis.
 """
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+
 import json
 
 import numpy as np
@@ -11,13 +15,13 @@ import numpy as np
 import segment
 
 X_LEFT, X_RIGHT = 42, 2008
-MERGED = r"D:\dsh\word-history\build\merged_rows.json"
-OUT = r"D:\dsh\word-history\build\refined.json"
+MERGED = str(ROOT / "build" / "merged_rows.json")
+OUT = str(ROOT / "build" / "refined.json")
 
 # The printed colour-key box is an opaque white sticker over the artwork.
 LEGEND_BOX = (118, 162, 590, 352)
 
-LEGEND = r"D:\dsh\word-history\build\legend.json"
+LEGEND = str(ROOT / "build" / "legend.json")
 
 
 def hex2rgb(h):

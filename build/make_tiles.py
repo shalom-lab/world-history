@@ -1,12 +1,16 @@
 """Generate the full tile manifest for visual transcription."""
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+
 import json
 import os
 import subprocess
 import sys
 
 PY = sys.executable
-TILER = r"D:\dsh\word-history\build\tiler.py"
-OUT = r"D:\dsh\word-history\build\tiles"
+TILER = str(Path(__file__).resolve().parent / "tiler.py")
+OUT = str(Path(__file__).resolve().parent / "tiles")
 
 XBANDS = [(30, 645, 3.0), (615, 1235, 3.0), (1205, 1645, 3.5), (1625, 2032, 3.5)]
 YBANDS = [(60, 190), (190, 320), (320, 450), (450, 580), (580, 710),
@@ -26,7 +30,7 @@ def main():
                            capture_output=True)
             manifest.append({"tile_id": tid, "path": path,
                              "box": [x0, y0, x1, y1], "scale": sc})
-    with open(r"D:\dsh\word-history\build\tiles\manifest.json", "w", encoding="utf-8") as f:
+    with open(str(Path(OUT) / "manifest.json"), "w", encoding="utf-8") as f:
         json.dump(manifest, f, indent=1)
     print("tiles:", len(manifest))
 

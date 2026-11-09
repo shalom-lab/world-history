@@ -3,12 +3,16 @@
 Names come from visual transcription of the legend box; colours are sampled from
 the printed gradient strips in the source image.
 """
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+
 import json
 
 import numpy as np
 from PIL import Image
 
-A = np.asarray(Image.open(r"D:\dsh\word-history\source.jpg").convert("RGB")).astype(int)
+A = np.asarray(Image.open(str(ROOT / "source.jpg")).convert("RGB")).astype(int)
 
 SWATCH_X = {0: (131, 143), 1: (193, 205), 2: (257, 269), 3: (324, 336),
             4: (389, 401), 5: (454, 466), 6: (523, 532)}
@@ -120,7 +124,7 @@ def main():
             fam_obj["subgroups"].append({"name": sg_name, "y_range": [y0, y1],
                                          "languages": entries})
         out["families"].append(fam_obj)
-    json.dump(out, open(r"D:\dsh\word-history\build\legend.json", "w", encoding="utf-8"),
+    json.dump(out, open(str(ROOT / "build" / "legend.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)
 
     for f in out["families"]:

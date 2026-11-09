@@ -1,12 +1,16 @@
 """Validate the generated dataset and write a report."""
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+
 import json
 import os
 import re
 import sys
 from collections import Counter
 
-DATA = r"D:\dsh\word-history\data"
-REPORT = r"D:\dsh\word-history\build\validation_report.md"
+DATA = str(ROOT / "data")
+REPORT = str(ROOT / "build" / "validation_report.md")
 
 YEAR_MIN, YEAR_MAX = -3100, 2000
 HEX = re.compile(r"^#[0-9a-f]{6}$")

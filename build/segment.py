@@ -4,12 +4,16 @@ Text is dark and thin; fills are pale and wide. For every x column we take the
 per-column median colour over the row's interior (median ignores text strokes and
 vertical grid lines), then cut the row where that colour changes.
 """
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+
 import json
 
 import numpy as np
 from PIL import Image
 
-SRC = r"D:\dsh\word-history\source.jpg"
+SRC = str(ROOT / "source.jpg")
 _A = None
 
 GRID_X0, GRID_PITCH = 60.0, 38.08

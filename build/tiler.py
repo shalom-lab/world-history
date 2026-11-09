@@ -5,6 +5,10 @@ returned by readers can be mapped back without ambiguity.
 
 usage: python tiler.py --box x0 y0 x1 y1 --scale 3 --out tile.png
 """
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+
 import argparse
 import json
 import os
@@ -12,7 +16,7 @@ import os
 import numpy as np
 from PIL import Image, ImageDraw, ImageFilter, ImageEnhance
 
-SRC = r"D:\dsh\word-history\source.jpg"
+SRC = str(ROOT / "source.jpg")
 MLEFT, MTOP = 46, 26          # margins (display px)
 GX, GY = 50, 20               # guide spacing in ORIGINAL px
 

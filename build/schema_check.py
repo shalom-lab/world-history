@@ -6,13 +6,17 @@ enum, const, pattern, minLength, minimum, maximum, items, $ref (local only).
 
 usage: python schema_check.py            # validates data/*.json against schema/
 """
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+
 import json
 import os
 import re
 import sys
 
-DATA = r"D:\dsh\word-history\data"
-SCHEMA = r"D:\dsh\word-history\schema"
+DATA = str(ROOT / "data")
+SCHEMA = str(ROOT / "schema")
 
 TYPES = {
     "object": dict, "array": list, "string": str, "boolean": bool,

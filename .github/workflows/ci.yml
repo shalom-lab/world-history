@@ -1,0 +1,60 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install --quiet --disable-pip-version-check pillow numpy openpyxl
+
+      - name: Rebuild tiles from source.jpg
+        run: python build/make_tiles.py
+
+      - name: Merge tile transcriptions and refine geometry
+        run: |
+          python build/merge.py
+          python build/refine.py
+
+      - name: Build dataset
+        run: python build/build_dataset.py
+
+      - name: Validate (consistency + JSON Schema + acceptance)
+        run: |
+          python build/validate.py
+          python build/schema_check.py
+          python build/acceptance.py
+
+      - name: Rebuild deliverables
+        run: |
+          python build/make_xlsx.py
+          python build/make_viewer.py
+
+      - name: Committed data must match a clean rebuild
+        run: |
+          if ! git diff --exit-code -- data viewer dist schema; then
+            echo "::error::data/, viewer/, dist/ or schema/ differ from a clean rebuild — commit the regenerated files"
+            exit 1
+          fi
+
+      - name: Upload validation report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: validation-report
+          path: build/validation_report.md
+          if-no-files-found: ignore
