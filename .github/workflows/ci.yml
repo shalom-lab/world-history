@@ -44,12 +44,8 @@ jobs:
           python build/make_xlsx.py
           python build/make_viewer.py
 
-      - name: Committed data must match a clean rebuild
-        run: |
-          if ! git diff --exit-code -- data viewer dist schema; then
-            echo "::error::data/, viewer/, dist/ or schema/ differ from a clean rebuild — commit the regenerated files"
-            exit 1
-          fi
+      - name: Committed outputs must match a clean rebuild
+        run: python build/check_repro.py
 
       - name: Upload validation report
         if: always()
