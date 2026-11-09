@@ -1,0 +1,9 @@
+# normalise line endings so a Windows and a Linux build produce the same bytes
+* text=auto eol=lf
+
+# the CSV writer always emits CRLF; keep it byte-exact so rebuilds compare equal
+*.csv -text
+
+*.xlsx binary
+*.jpg binary
+*.png binary

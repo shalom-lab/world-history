@@ -104,7 +104,7 @@ def main():
     lines += ["## Errors", ""] + ([f"- {e}" for e in errors] or ["- none"]) + [""]
     lines += ["## Warnings", ""] + ([f"- {w}" for w in warnings] or ["- none"]) + [""]
     os.makedirs(os.path.dirname(REPORT), exist_ok=True)
-    with open(REPORT, "w", encoding="utf-8") as f:
+    with open(REPORT, "w", newline="\n", encoding="utf-8") as f:
         f.write("\n".join(lines))
     print("\n".join(lines))
     return 1 if errors else 0

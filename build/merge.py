@@ -240,7 +240,7 @@ def main():
                 m["y0"] = round(mid, 1)
         m["row_index"] = i
 
-    json.dump(merged, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    json.dump(merged, open(OUT, "w", newline="\n", encoding="utf-8"), ensure_ascii=False, indent=1)
     print("merged rows:", len(merged))
     print("rows with label:", sum(1 for m in merged if m["label"]))
     print("rows with segments:", sum(1 for m in merged if m["segments"]))

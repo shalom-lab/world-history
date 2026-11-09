@@ -305,7 +305,7 @@ def main():
     }
 
     def dump(name, obj):
-        with open(os.path.join(DATA, name), "w", encoding="utf-8") as f:
+        with open(os.path.join(DATA, name), "w", encoding="utf-8", newline="\n") as f:
             json.dump(obj, f, ensure_ascii=False, indent=1)
             f.write("\n")
 

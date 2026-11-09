@@ -597,7 +597,7 @@ def main():
 
     html = HTML.format(title=meta["title"], payload=payload)
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
-    with open(OUT, "w", encoding="utf-8") as f:
+    with open(OUT, "w", newline="\n", encoding="utf-8") as f:
         f.write(html)
     print("wrote", OUT, len(html), "bytes")
 

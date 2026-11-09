@@ -124,7 +124,7 @@ def main():
             fam_obj["subgroups"].append({"name": sg_name, "y_range": [y0, y1],
                                          "languages": entries})
         out["families"].append(fam_obj)
-    json.dump(out, open(str(ROOT / "build" / "legend.json"), "w", encoding="utf-8"),
+    json.dump(out, open(str(ROOT / "build" / "legend.json"), "w", encoding="utf-8", newline="\n"),
               ensure_ascii=False, indent=1)
 
     for f in out["families"]:

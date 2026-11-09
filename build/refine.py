@@ -227,7 +227,7 @@ def build():
                     "label_confidence": r.get("confidence", "medium"),
                     "columns": r.get("cols", [])})
 
-    json.dump(out, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    json.dump(out, open(OUT, "w", newline="\n", encoding="utf-8"), ensure_ascii=False, indent=1)
     tot = sum(len(o["spans"]) for o in out)
     print(f"rows {len(out)}  spans {tot}  spans/row {tot/max(1,len(out)):.1f}")
     print("rows without spans:", sum(1 for o in out if not o["spans"]))
